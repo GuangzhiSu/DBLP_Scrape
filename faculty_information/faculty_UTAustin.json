@@ -1,0 +1,576 @@
+[
+    {
+        "dblp": "https://dblp.org/pid/119/4026.html",
+        "name": "Zhangyang Wang",
+        "career": {
+            "Texas A&M University": {
+                "department": "Computer Science and Engineering",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2017-08",
+                        "end": "2020-07"
+                    }
+                }
+            },
+            "University of Texas at Austin": {
+                "department": "Electrical and Computer Engineering",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2020-08",
+                        "end": "2023-08"
+                    },
+                    "Associate Professor": {
+                        "start": "2023-08",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of Science and Technology of China",
+            "Ph.D.": "University of Illinois Urbana-Champaign"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/61/3234-1.html",
+        "name": "Qiang Liu",
+        "career": {
+            "Massachusetts Institute of Technology": {
+                "department": "Computer Science and Artificial Intelligence Laboratory",
+                "position": {
+                    "Postdoctoral Associate": {
+                        "start": "2015-01",
+                        "end": "2015-06"
+                    }
+                }
+            },
+            "Dartmouth College": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2015-07",
+                        "end": "2018-01"
+                    }
+                }
+            },
+            "University of Texas at Austin": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2018-01",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "",
+            "Ph.D.": "UC Irvine"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/s/PeterStone.html",
+        "name": "Peter Stone",
+        "career": {
+            "Carnegie Mellon University": {
+                "department": "Computer Science",
+                "position": {
+                    "Postdoctoral Fellow": {
+                        "start": "1999-01",
+                        "end": "1999-08"
+                    }
+                }
+            },
+            "AT&T Labs": {
+                "department": "Artificial Intelligence",
+                "position": {
+                    "Senior Researcher": {
+                        "start": "1999-09",
+                        "end": "2002-03"
+                    }
+                }
+            },
+            "New York University": {
+                "department": "Computer Science",
+                "position": {
+                    "Adjunct Professor": {
+                        "start": "2001-09",
+                        "end": "2002-01"
+                    }
+                }
+            },
+            "University of Texas at Austin": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2002-06",
+                        "end": "2007-08"
+                    },
+                    "Associate Professor": {
+                        "start": "2007-09",
+                        "end": "2012-08"
+                    },
+                    "Professor": {
+                        "start": "2012-09",
+                        "end": "2014-08"
+                    },
+                    "David Bruton, Jr. Centennial Professor": {
+                        "start": "2014-09",
+                        "end": "2022-08"
+                    },
+                    "Truchard Foundation Chair": {
+                        "start": "2022-09",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "The University of Chicago",
+            "Ph.D.": "Carnegie Mellon University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/19/5000.html",
+        "name": "Alexandros G. Dimakis",
+        "career": {
+            "California Institute of Technology": {
+                "department": "Center for the Mathematics of Information",
+                "position": {
+                    "Postdoctoral Scholar": {
+                        "start": "2008-09",
+                        "end": "2009-05"
+                    }
+                }
+            },
+            "University of Southern California": {
+                "department": "Electrical Engineering",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2009-05",
+                        "end": "2012-12"
+                    }
+                }
+            },
+            "University of Texas at Austin": {
+                "department": "Electrical and Computer Engineering",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2013-01",
+                        "end": "2015-08"
+                    },
+                    "Associate Professor": {
+                        "start": "2015-09",
+                        "end": "2020-08"
+                    },
+                    "Professor": {
+                        "start": "2020-09",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "National Technical University of Athens",
+            "Ph.D.": "University of California, Berkeley"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/69/7968.html",
+        "name": "Alexandros G. Dimakis",
+        "career": {
+            "University of Texas at Austin": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2017-09",
+                        "end": "2023-08"
+                    },
+                    "Associate Professor": {
+                        "start": "2023-09",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Massachusetts Institute of Technology",
+            "Ph.D.": "University of California, Berkeley"
+        }
+    },   
+    {
+        "dblp": "https://dblp.org/pid/82/241.html",
+        "name": "Qixing Huang",
+        "career": {
+            "California Institute of Technology": {
+                "department": "Computer Science and Electrical Engineering",
+                "position": {
+                    "Post-doc Researcher": {
+                        "start": "2012-01",
+                        "end": "2014-09"
+                    }
+                }
+            },
+            "Toyota Technological Institute at Chicago": {
+                "department": "",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2014-09",
+                        "end": "2016-08"
+                    }
+                }
+            },
+            "University of Texas at Austin": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2016-08",
+                        "end": "2022-08"
+                    },
+                    "Associate Professor": {
+                        "start": "2022-09",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Tsinghua University",
+            "Ph.D.": "Stanford University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/43/7592.html",
+        "name": "Philipp Krähenbühl",
+        "career": {
+            "University of California, Berkeley": {
+                "department": "Computer Science",
+                "position": {
+                    "Postdoctoral Researcher": {
+                        "start": "2014",
+                        "end": "2016"
+                    }
+                }
+            },
+            "University of Texas at Austin": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2016",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "ETH Zurich",
+            "Ph.D.": "Stanford University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/133/1772.html",
+        "name": "Yuke Zhu",
+        "career": {
+            "University of Texas at Austin": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2020-08",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Zhejiang University",
+            "Ph.D.": "Stanford University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/116/2765.html",
+        "name": "Eunsol Choi",
+        "career": {
+            "University of Texas at Austin": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2020-08",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Cornell University",
+            "Ph.D.": "University of Washington"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/m/RaymondJMooney.html",
+        "name": "Raymond J. Mooney",
+        "career": {
+            "University of Texas at Austin": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "1988-01",
+                        "end": "1994-08"
+                    },
+                    "Associate Professor": {
+                        "start": "1994-09",
+                        "end": "2000-08"
+                    },
+                    "Professor": {
+                        "start": "2000-09",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of Illinois at Urbana-Champaign",
+            "Ph.D.": "University of Illinois at Urbana-Champaign"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/96/5760.html",
+        "name": "Constantine Caramanis",
+        "career": {
+            "University of Texas at Austin": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2006-08",
+                        "end": "2012-08"
+                    },
+                    "Associate Professor": {
+                        "start": "2012-08",
+                        "end": "2018-08"
+                    },
+                    "Professor": {
+                        "start": "2018-09",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Harvard University",
+            "Ph.D.": "Massachusetts Institute of Technology"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/k/AdamRKlivans.html",
+        "name": "Adam Klivans",
+        "career": {
+            "Harvard University": {
+                "department": "Mathematical Sciences",
+                "position": {
+                    "Postdoctoral Research Fellow": {
+                        "start": "2002-06",
+                        "end": "2004-06"
+                    }
+                }
+            },
+            "Toyota Technological Institute at Chicago": {
+                "department": "Computer Science",
+                "position": {
+                    "Visiting Assistant Professor ": {
+                        "start": "2004-07",
+                        "end": "2004-12"
+                    }
+                }
+            },
+            "University of Texas at Austin": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2005-01",
+                        "end": "2010-08"
+                    },
+                    "Associate Professor": {
+                        "start": "2010-09",
+                        "end": "2018-08"
+                    },
+                    "Professor": {
+                        "start": "2019-09",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Carnegie-Mellon University",
+            "Ph.D.": "Massachusetts Institute of Technology"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/40/674.html",
+        "name": "Eric Price",
+        "career": {
+            "University of Texas at Austin": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2014-08",
+                        "end": "2020-8"
+                    },
+                    "Associate Professor": {
+                        "start": "2020-09",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Massachusetts Institute of Technology",
+            "Ph.D.": "Massachusetts Institute of Technology"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/37/6100.html",
+        "name": "Swarat Chaudhuri",
+        "career": {
+            "Pennsylvania State University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2008-01",
+                        "end": "2011-05"
+                    }
+                }
+            },
+            "Rice University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2011-07",
+                        "end": "2015-06"
+                    },
+                    "Associate Professor": {
+                        "start": "2015-07",
+                        "end": "2019-12"
+                    }
+                }
+            },
+            "University of Texas at Austin": {
+                "department": "Computer Science",
+                "position": {
+                    "Associate Professor": {
+                        "start": "2020-01",
+                        "end": "2023-08"
+                    },
+                    "Professor": {
+                        "start": "2023-09",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Indian Institute of Technology",
+            "Ph.D.": "University of Pennsylvania"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/23/556.html",
+        "name": "Katrin Erk",
+        "career": {
+            "University of Texas at Austin": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2006-08",
+                        "end": "2012-08"
+                    },
+                    "Associate Professor": {
+                        "start": "2012-09",
+                        "end": "2018-08"
+                    },
+                    "Professor": {
+                        "start": "2018-09",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of Koblenz and Landau",
+            "Ph.D.": "Saarland University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/m/RistoMiikkulainen.html",
+        "name": "Risto Miikkulainen",
+        "career": {
+            "University of Texas at Austin": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "1990",
+                        "end": "1996"
+                    },
+                    "Associate Professor": {
+                        "start": "1996",
+                        "end": "2002"
+                    },
+                    "Professor": {
+                        "start": "2002",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Helsinki University of Technology",
+            "Ph.D.": "University of California, Los Angeles"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/37/2934.html",
+        "name": "Kevin Tian",
+        "career": {
+            "University of Texas at Austin": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2023-08",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Massachusetts Institute of Technology",
+            "Ph.D.": "Stanford University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/44/8860.html",
+        "name": "Alexander G. Huth",
+        "career": {
+            "University of California, Berkeley": {
+                "department": "Psychology",
+                "position": {
+                    "Postdoctoral scholar": {
+                        "start": "2014",
+                        "end": "2017"
+                    }
+                }
+            },
+            "University of Texas at Austin": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2017",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "California Institute of Technology",
+            "Ph.D.": "University of California, Berkeley"
+        }
+    }
+]

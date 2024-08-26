@@ -1,0 +1,1412 @@
+[
+    {
+        "dblp": "https://dblp.org/pid/79/589.html",
+        "name": "Manmohan Krishna Chandraker",
+        "career": {
+            "Univ. of California - Berkeley": {
+                "department": "Electrical Engineering and Computer Sciences",
+                "position": {
+                    "Postdoctoral Scholar": {
+                        "start": "2009-09",
+                        "end": "2011-05"
+                    }
+                }
+            },
+            "Univ. of California - San Diego": {
+                "department": "COMPUTER SCIENCE & ENGINEERING",
+                "position": {
+                    "Professor": {
+                        "start": "2017-06",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Indian Institute of Technology - Delhi",
+            "Ph.D.": "Univ. of California - San Diego"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/91/952-4.html",
+        "name": "Xiaolong Wang",
+        "career": {
+            "Univ. of California - Berkeley": {
+                "department": "Electrical Engineering and Computer Sciences",
+                "position": {
+                    "Postdoctoral Research Fellow": {
+                        "start": "2019-09",
+                        "end": "2020-07"
+                    }
+                }
+            },
+            "Univ. of California - San Diego": {
+                "department": "Electrical and Computer Engineering",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2020-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Sun Yat-sen University",
+            "Ph.D.": "Carnegie Mellon University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/09/4945-1.html",
+        "name": "Hao Su",
+        "career": {
+            "Univ. of California - San Diego": {
+                "department": "COMPUTER SCIENCE & ENGINEERING",
+                "position": {
+                    "Associate Professor": {
+                        "start": "2017-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Beihang University",
+            "Ph.D.": "Stanford University"
+            }
+        },
+    {
+        "dblp": "https://dblp.org/pid/88/6919.html",
+        "name": "Ravi Ramamoorthi",
+        "career": {
+            "Columbia University": {
+                "department": "Computer Science",
+                "position": {
+                    "Associate Professor": {
+                        "start": "2002-08",
+                        "end": "2008-12"
+                    }
+                }
+            },
+            "Univ. of California - Berkeley": {
+                "department": "Electrical Engineering and Computer Sciences",
+                "position": {
+                    "Acting Associate Professor": {
+                        "start": "2009-01",
+                        "end": "2009-06"
+                    },
+                    "Associate Professor": {
+                        "start": "2009-01",
+                        "end": "2014-06"
+                    }
+                }
+            },
+            "Univ. of California - San Diego": {
+                "department": "COMPUTER SCIENCE & ENGINEERING",
+                "position": {
+                    "Professor": {
+                        "start": "2014-06",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "California Institute of Technology",
+            "Ph.D.": "Stanford University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/78/4806.html",
+        "name": "Nuno Vasconcelos",
+        "career": {
+            "Univ. of California - San Diego": {
+                "department": "Electrical and Computer Engineering",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2003-03",
+                        "end": "2008-06"
+                    },
+                    "Associate Professor": {
+                        "start": "2008-07",
+                        "end": "2011-07"
+                    },
+                    "Professor": {
+                        "start": "2011-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Universidade do Porto",
+            "Ph.D.": "Massachusetts Institute of Technology."
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/52/6817.html",
+        "name": "Daniel M. Kane",
+        "career": {
+            "Stanford University": {
+                "department": "Mathematics",
+                "position": {
+                    "Postdoctoral Research Fellow": {
+                        "start": "2011-07",
+                        "end": "2014-07"
+                    }
+                }
+            },
+            "Univ. of California - San Diego": {
+                "department": "COMPUTER SCIENCE & ENGINEERING",
+                "position": {
+                    "Professor": {
+                        "start": "2014-08",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Massachusetts Institute of Technology",
+            "Ph.D.": "Harvard University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/29/3483.html",
+        "name": "Julian McAuley",
+        "career": {
+            "Stanford University": {
+                "department": "Computer Science",
+                "position": {
+                    "Postdoctoral Researcher": {
+                        "start": "2011-07",
+                        "end": "2014-07"
+                    }
+                }
+            },
+            "Univ. of California - San Diego": {
+                "department": "COMPUTER SCIENCE & ENGINEERING",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2014-08",
+                        "end": "2019-07"
+                    },
+                    "Associate Professor": {
+                        "start": "2019-08",
+                        "end": "2021-07"
+                    },
+                    "Professor": {
+                        "start": "2021-08",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of New South Wales",
+            "Ph.D.": "The Australian National University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/22/8160.html",
+        "name": "Taylor Berg-Kirkpatrick",
+        "career": {
+            "Univ. of California - San Diego": {
+                "department": "COMPUTER SCIENCE & ENGINEERING",
+                "position": {
+                    "Associate Professor": {
+                        "start": "unknown",
+                        "end": "unknown"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "unknown",
+            "Ph.D.": "unknown"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/t/ZTu.html",
+        "name": "Zhuowen Tu",
+        "career": {
+            "Univ. of California - San Diego": {
+                "department": "COMPUTER SCIENCE & ENGINEERING",
+                "position": {
+                    "Associate Professor": {
+                        "start": "2013-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "unknown",
+            "Ph.D.": "unknown"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/151/3145.html",
+        "name": "Jingbo Shang",
+        "career": {
+            "Univ. of California - San Diego": {
+                "department": "COMPUTER SCIENCE & ENGINEERING",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2019-11",
+                        "end": "2024-06"
+                    },
+                    "Associate Professor": {
+                        "start": "2024-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Shanghai Jiao Tong University",
+            "Ph.D.": "Univ. of Illinois at Urbana-Champaign"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/134/4031.html",
+        "name": "Zhiting Hu",
+        "career": {
+            "Univ. of California - San Diego": {
+                "department": "COMPUTER SCIENCE & ENGINEERING",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2021-08",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Peking University",
+            "Ph.D.": "Carnegie Mellon University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/117/2111.html",
+        "name": "Nikolay Atanasov",
+        "career": {
+            "University of Pennsylvania": {
+                "department": "Computer and Information Science",
+                "position": {
+                    "Postdoctoral Researcher": {
+                        "start": "2015-08",
+                        "end": "2017-07"
+                    }
+                }
+            },
+            "Univ. of California - San Diego": {
+                "department": "COMPUTER SCIENCE & ENGINEERING",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2017-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Trinity College",
+            "Ph.D.": "University of Pennsylvania"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/133/1998.html",
+        "name": "Pengtao Xie",
+        "career": {
+            "Univ. of California - San Diego": {
+                "department": "COMPUTER SCIENCE & ENGINEERING",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2020-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Sichuan University",
+            "Ph.D.": "Carnegie Mellon University"
+            }
+        },
+    {
+        "dblp": "https://dblp.org/pid/78/7424.html",
+        "name": "Michael C. Yip",
+        "career": {
+            "Stanford University": {
+                "department": "Mechanical Engineering",
+                "position": {
+                    "Visiting Assistant Professor,": {
+                        "start": "2019-06",
+                        "end": "2019-09"
+                    }
+                }
+            },
+            "Univ. of California - San Diego": {
+                "department": "COMPUTER SCIENCE & ENGINEERING",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2015-11",
+                        "end": "2021-08"
+                    },
+                    "Associate Professor": {
+                        "start": "2021-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of Waterloo",
+            "Ph.D.": "Stanford University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/56/6435.html",
+        "name": "Kamalika Chaudhuri",
+        "career": {
+            "Univ. of California - San Diego": {
+                "department": "COMPUTER SCIENCE & ENGINEERING",
+                "position": {
+                    "Postdoc": {
+                        "start": "2007-08",
+                        "end": "2010-07"
+                    },
+                    "Assistant Professor": {
+                        "start": "2010-07",
+                        "end": "2017-06"
+                    },
+                    "Associate Professor": {
+                        "start": "2017-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Indian Institute of Technology Kanpur",
+            "Ph.D.": "Univ. of California - Berkeley"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/121/4984.html",
+        "name": "Haijun Xia",
+        "career": {
+            "Univ. of California - San Diego": {
+                "department": "COMPUTER SCIENCE & ENGINEERING",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2020-01",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Tsinghua University",
+            "Ph.D.": "University of Toronto"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/c/HIChristensen.html",
+        "name": "Henrik I. Christensen",
+        "career": {
+            "Aalborg University": {
+                "department": "Computer Science",
+                "position": {
+                    "Associate Professor": {
+                        "start": "1992-03",
+                        "end": "1996-07"
+                    }
+                }
+            },
+            "KTH Royal Institute of Technology": {
+                "department": "Computer Science",
+                "position": {
+                    "Professor": {
+                        "start": "1998-08",
+                        "end": "2006-01"
+                    }
+                }
+            },
+            "Georgia Institute of Technology": {
+                "department": "College of Computing",
+                "position": {
+                    "Distinguished Professor/KUKA Chair": {
+                        "start": "2006-01",
+                        "end": "2016-07"
+                    }
+                }
+            },
+            "Univ. of California - San Diego": {
+                "department": "COMPUTER SCIENCE & ENGINEERING",
+                "position": {
+                    "Distinguished Professor/Qualcomm Chancellor's Chair": {
+                        "start": "2016-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Frederikshavn Technical College",
+            "Ph.D.": "Aalborg University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/77/4422.html",
+        "name": "Shachar Lovett",
+        "career": {
+            "Univ. of California - San Diego": {
+                "department": "COMPUTER SCIENCE & ENGINEERING",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2012-09",
+                        "end": "2018-06"
+                    },
+                    "Associate Professor": {
+                        "start": "2018-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "The Hebrew University of Jerusalem",
+            "Ph.D.": "Weizmann Institute of Science"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/164/7314.html",
+        "name": "Rose Yu",
+        "career": {
+            "California Institute of Technology": {
+                "department": "Computing and Mathematical Sciences",
+                "position": {
+                    "Postdoctoral Research Fellow": {
+                        "start": "2017-08",
+                        "end": "2018-08"
+                    }
+                }
+            },
+            "Northeastern University": {
+                "department": "College of Computer Sciences",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2018-09",
+                        "end": "2020-06"
+                    }
+                }
+            },
+            "Univ. of California - San Diego": {
+                "department": "COMPUTER SCIENCE & ENGINEERING",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2020-07",
+                        "end": "2024-07"
+                    },
+                    "Associate Professor": {
+                        "start": "2024-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Zhejiang University",
+            "Ph.D.": "University of Southern California"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/o/AlonOrlitsky.html",
+        "name": "Alon Orlitsky",
+        "career": {
+            "Univ. of California - San Diego": {
+                "department": "COMPUTER SCIENCE & ENGINEERING",
+                "position": {
+                    "Professor": {
+                        "start": "1997",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Ben Gurion University",
+            "Ph.D.": "Stanford University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/32/193.html",
+        "name": "Philip J. Guo",
+        "career": {
+            "Massachusetts Institute of Technology": {
+                "department": "Electrical Engineering and Computer Science",
+                "position": {
+                    "Postdoctoral Researcher": {
+                        "start": "2013-06",
+                        "end": "2014-06"
+                    }
+                }
+            },
+            "University of Rochester": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2014-07",
+                        "end": "2016-06"
+                    }
+                }
+            },
+            "Univ. of California - San Diego": {
+                "department": "COMPUTER SCIENCE & ENGINEERING",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2016-07",
+                        "end": "2020-06"
+                    },
+                    "Associate Professor": {
+                        "start": "2020-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Massachusetts Institute of Technology",
+            "Ph.D.": "Stanford University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/60/5029.html",
+        "name": "Leo Porter",
+        "career": {
+            "Skidmore College": {
+                "department": "Computer Science and Engineering",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2011-06",
+                        "end": "2014-06"
+                    }
+                }
+            },
+            "Univ. of California - San Diego": {
+                "department": "COMPUTER SCIENCE & ENGINEERING",
+                "position": {
+                    "Assistant Teaching Professor": {
+                        "start": "2014-07",
+                        "end": "2018-06"
+                    },
+                    "Associate Teaching Professor": {
+                        "start": "2018-07",
+                        "end": "2023-06"
+                    },
+                    "Teaching Professor": {
+                        "start": "2023-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of SanDiego",
+            "Ph.D.": "Univ. of California - San Diego"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/22/8296.html",
+        "name": "Sicun Gao",
+        "career": {
+            "Carnegie Mellon University": {
+                "department": "Computer Science",
+                "position": {
+                    "Postdoctoral Researcher": {
+                        "start": "2012-08",
+                        "end": "2014-07"
+                    }
+                }
+            },
+            "Massachusetts Institute of Technology": {
+                "department": "Electrical Engineering and Computer Science",
+                "position": {
+                    "Postdoctoral Researcher": {
+                        "start": "2014-08",
+                        "end": "2017-07"
+                    }
+                }
+            },
+            "Univ. of California - San Diego": {
+                "department": "COMPUTER SCIENCE & ENGINEERING",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2017-08",
+                        "end": "2023-07"
+                    },
+                    "Associate Professor": {
+                        "start": "2023-08",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Peking University",
+            "Ph.D.": "Carnegie Mellon University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/77/6050.html",
+        "name": "Arya Mazumdar",
+        "career": {
+            "Massachusetts Institute of Technology": {
+                "department": "Electrical Engineering and Computer Science",
+                "position": {
+                    "Postdoctoral Associate": {
+                        "start": "2011-08",
+                        "end": "2012-12"
+                    }
+                }
+            },
+            "University of Minnesota": {
+                "department": "",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2013-01",
+                        "end": "2016-01"
+                    }
+                }
+            },
+            "Massachusetts Institute of Technology": {
+                "department": "Electrical and Computer Engineering",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2015-09",
+                        "end": "2019-08"
+                    },
+                    "Associate Professor": {
+                        "start": "2019-08",
+                        "end": "2021-08"
+                    }
+                }
+            },
+            "Univ. of California - San Diego": {
+                "department": "COMPUTER SCIENCE & ENGINEERING",
+                "position": {
+                    "Associate Professor": {
+                        "start": "2020-12",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "unknown",
+            "Ph.D.": "University of Maryland"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/66/3027.html",
+        "name": "Barna Saha",
+        "career": {
+            "University of Massachusetts Amherst": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2014-08",
+                        "end": "2019-07"
+                    }
+                }
+            },
+            "Univ. of California - Berkeley": {
+                "department": "Industrial Engineering and Operations Research",
+                "position": {
+                    "Associate Professor": {
+                        "start": "2019-08",
+                        "end": "2022-01"
+                    }
+                }
+            },
+            "Univ. of California - San Diego": {
+                "department": "COMPUTER SCIENCE & ENGINEERING",
+                "position": {
+                    "Harry E. Gruber Endowed Chair Professor": {
+                        "start": "2022-09",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Jadavpur University",
+            "Ph.D.": "University of Maryland"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/202/2351.html",
+        "name": "Prithviraj Ammanabrolu",
+        "career": {
+            "Univ. of California - San Diego": {
+                "department": "COMPUTER SCIENCE & ENGINEERING",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2023-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Georgia Institute of Technology",
+            "Ph.D.": "Georgia Institute of Technology"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/184/3753.html",
+        "name": "Lianhui Qin",
+        "career": {
+            "Univ. of California - San Diego": {
+                "department": "COMPUTER SCIENCE & ENGINEERING",
+                "position": {
+                    " Assistant Professor": {
+                        "start": "2024-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "unknown",
+            "Ph.D.": "University of Washington"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/177/9197.html",
+        "name": "Tsui-Wei Weng",
+        "career": {
+            "Univ. of California - San Diego": {
+                "department": "COMPUTER SCIENCE & ENGINEERING",
+                "position": {
+                    " Assistant Professor": {
+                        "start": "2021-09",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "National Taiwan University",
+            "Ph.D.": "Massachusetts Institute of Technology"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/165/3288.html",
+        "name": "Biwei Huang",
+        "career": {
+            "Univ. of California - San Diego": {
+                "department": "COMPUTER SCIENCE & ENGINEERING",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2022-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "unknown",
+            "Ph.D.": "Carnegie Mellon University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/28/5745-1.html",
+        "name": "Yusu Wang",
+        "career": {
+            "Stanford University": {
+                "department": "Computer Science",
+                "position": {
+                    "Postdoctoral Fellow": {
+                        "start": "2004-08",
+                        "end": "2005-07"
+                    }
+                }
+            },
+            "The Ohio State University": {
+                "department": "Computer Science and Engineering",
+                "position": {
+                    "Associate Professor": {
+                        "start": "2005-10",
+                        "end": "2017-06"
+                    },
+                    "Professor": {
+                        "start": "2017-07",
+                        "end": "2020-08"
+                    }
+                }
+            },
+            "Univ. of California - San Diego": {
+                "department": "COMPUTER SCIENCE & ENGINEERING",
+                "position": {
+                    "Professor": {
+                        "start": "2020-08",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Tsinghua University",
+            "Ph.D.": "Duke University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/85/770.html",
+        "name": "Loris D'Antoni",
+        "career": {
+            "University of Wisconsin-Madison": {
+                "department": "Computer Sciences",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2015-07",
+                        "end": "2021-08"
+                    },
+                    "Associate Professor": {
+                        "start": "2021-08",
+                        "end": "2024-06"
+                    }
+                }
+            },
+            "Univ. of California - San Diego": {
+                "department": "COMPUTER SCIENCE & ENGINEERING",
+                "position": {
+                    "Associate Professor": {
+                        "start": "2024-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Universita' degli Studi di Torino",
+            "Ph.D.": "University of Pennsylvania"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/45/5386.html",
+        "name": "Steven Dow",
+        "career": {
+            "Carnegle Mellon University": {
+                "department": "Human-Computer Interaction Institute",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2011-08",
+                        "end": "2015-12"
+                    }
+                }
+            },
+            "Univ. of California - San Diego": {
+                "department": "Cognitive Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2016",
+                        "end": "2016"
+                    },
+                    "Associate Professor": {
+                        "start": "2018-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of Iowa",
+            "Ph.D.": "Georgia Institute of Technology"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/122/4798.html",
+        "name": "Tzu-Mao Li",
+        "career": {
+            "Univ. of California - Berkeley": {
+                "department": "Electrical Engineering & Computer Sciences",
+                "position": {
+                    "Postdoctoral Researcher": {
+                        "start": "2019-07",
+                        "end": "2020-03"
+                    }
+                }
+            },
+            "Massachusetts Institute of Technology": {
+                "department": "Electrical Engineering and Computer Science",
+                "position": {
+                    "Postdoctoral Researcher": {
+                        "start": "2020-03",
+                        "end": "2021-07"
+                    }
+                }
+            },
+            "Univ. of California - San Diego": {
+                "department": "COMPUTER SCIENCE & ENGINEERING",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2021-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "National Taiwan University",
+            "Ph.D.": "Massachusetts Institute of Technology"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/41/2337.html",
+        "name": "Mikhail Belkin",
+        "career": {
+            "Ohio State University": {
+                "department": "",
+                "position": {
+                    "Professor": {
+                        "start": "2005-09",
+                        "end": "2020-08"
+                    }
+                }
+            },
+            "Univ. of California - San Diego": {
+                "department": "COMPUTER SCIENCE & ENGINEERING",
+                "position": {
+                    "Professor": {
+                        "start": "2020-08",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of Chicago",
+            "Ph.D.": "University of Chicago"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/b/MBellare.html",
+        "name": "Mihir Bellare",
+        "career": {
+            "Univ. of California - San Diego": {
+                "department": "COMPUTER SCIENCE & ENGINEERING",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "1995-09",
+                        "end": "1997-05"
+                    },
+                    "Associate Professor": {
+                        "start": "1997-06",
+                        "end": "2001-06"
+                    },
+                    "Professor": {
+                        "start": "2001-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "California Institute of Technology",
+            "Ph.D.": "Massachusetts Institute of Technology"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/34/5967.html",
+        "name": "Sanjoy Dasgupta",
+        "Univ. of California - San Diego": {
+            "department": "COMPUTER SCIENCE & ENGINEERING",
+            "position": {
+                "Professor": {
+                    "start": "2002-07",
+                    "end": null
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Harvard University",
+            "Ph.D.": "Univ. of California - Berkeley"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/160/4548.html",
+        "name": "Adalbert Gerald Soosai Raj",
+        "career": {
+            "University of Wisconsin-Madison": {
+                "department": "Computer Sciences",
+                "position": {
+                    "Research Assistant": {
+                        "start": "2014-08",
+                        "end": "2019-06"
+                    }
+                }
+            },
+            "Univ. of California - San Diego": {
+                "department": "COMPUTER SCIENCE & ENGINEERING",
+                "position": {
+                    "Assistant Teaching Professor": {
+                        "start": "2019-08",
+                        "end": "2023-06"
+                    },
+                    "Associate Teaching Professor": {
+                        "start": "2023-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Anna University",
+            "Ph.D.": "University of Wisconsin-Madison"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/56/3408.html",
+        "name": "Nadir Weibel",
+        "career": {
+            "Univ. of California - San Diego": {
+                "department": "COMPUTER SCIENCE & ENGINEERING",
+                "position": {
+                    "Postdoctoral Scholar": {
+                        "start": "2009-10",
+                        "end": "2012-09"
+                    },
+                    "Assistant Research Professor": {
+                        "start": "2013-07",
+                        "end": "2017-06"
+                    },
+                    "Associate Research Professor": {
+                        "start": "2017-07",
+                        "end": "2019-06"
+                    },
+                    "Associate Professor": {
+                        "start": "2019-07",
+                        "end": "2023-06"
+                    },
+                    "Professor": {
+                        "start": "2023-07",
+                        "end": ""
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "ETH Zürich",
+            "Ph.D.": "ETH Zürich"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/165/9748.html",
+        "name": "Albert Chern",
+        "career": {
+            "Technical University of Berlin": {
+                "department": "Mathematics",
+                "position": {
+                    "Postdoctoral Researcher": {
+                        "start": "2017-07",
+                        "end": "2020-06"
+                    }
+                }
+            },
+            "Univ. of California - San Diego": {
+                "department": "COMPUTER SCIENCE & ENGINEERING",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2020-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "National Taiwan University",
+            "Ph.D.": "California Institute of Technology"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/03/3331.html",
+        "name": "Daniele Micciancio",
+        "career": {
+            "Massachusetts Institute of Technology": {
+                "department": "Electrical Engineering and Computer Science",
+                "position": {
+                    "Postdoctoral Associate": {
+                        "start": "1998-09",
+                        "end": "1999-09"
+                    }
+                }
+            },
+            "Univ. of California - San Diego": {
+                "department": "COMPUTER SCIENCE & ENGINEERING",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "1999-10",
+                        "end": "2005-07"
+                    },
+                    "Associate Professor": {
+                        "start": "2005-08",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "unknown",
+            "Ph.D.": "Massachussetts Institute of Technology"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/63/627.html",
+        "name": "Christine Alvarado",
+        "career": {
+            "Harvey Mudd College": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "unknown",
+                        "end": "2012-06"
+                    }
+                }
+            },
+            "Univ. of California - San Diego": {
+                "department": "COMPUTER SCIENCE & ENGINEERING",
+                "position": {
+                    "Teaching Professor": {
+                        "start": "2012-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Dartmouth College",
+            "Ph.D.": "Massachusetts Institute of Technology."
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/40/8351-1.html",
+        "name": "Qipeng Liu",
+        "career": {
+            "Univ. of California - San Diego": {
+                "department": "COMPUTER SCIENCE & ENGINEERING",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2023-08",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "unknown",
+            "Ph.D.": "Princeton University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/18/10649.html",
+        "name": "Tauhidur Rahman",
+        "career": {
+            "Cornell University": {
+                "department": "Computer Science",
+                "position": {
+                    "Graduate Research Assistant": {
+                        "start": "2012-06",
+                        "end": "2017-12"
+                    }
+                }
+            },
+            "University of Massachusetts Amherst": {
+                "department": "College of Information and Computer Sciences",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2018-01",
+                        "end": "2022-07"
+                    }
+                }
+            },
+            "Univ. of California - San Diego": {
+                "department": "COMPUTER SCIENCE & ENGINEERING",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2022-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Bangladesh University of Engineering and Technology.",
+            "Ph.D.": "Cornell University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/c/GWCottrell.html",
+        "name": "Garrison W. Cottrell",
+        "career": {
+            "Univ. of California - San Diego": {
+                "department": "",
+                "position": {
+                    "Postdoc": {
+                        "start": "1985",
+                        "end": "1987"
+                    },
+                    "Assistant Professor": {
+                        "start": "1987",
+                        "end": "1993"
+                    },
+                    "Associate Professor": {
+                        "start": "1993",
+                        "end": "1997"
+                    },
+                    "Professor": {
+                        "start": "1997",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Cornell University",
+            "Ph.D.": "University of Rochester"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/g/WilliamGGriswold.html",
+        "name": "William G. Griswold",
+        "career": {
+            "Univ. of California - San Diego": {
+                "department": "COMPUTER SCIENCE & ENGINEERING",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "1991-07",
+                        "end": "1997-06"
+                    },
+                    "Associate Professor": {
+                        "start": "1997-07",
+                        "end": "2003-06"
+                    },
+                    "Professor": {
+                        "start": "2003-07",
+                        "end": "2024-06"
+                    },
+                    "Professor Emeritus": {
+                        "start": "2024-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of Arizona",
+            "Ph.D.": "University of Washington"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/98/53.html",
+        "name": "Ndapandula Nakashole",
+        "career": {
+            "Carnegie Mellon University": {
+                "department": "Machine Learning",
+                "position": {
+                    "Postdoctoral Fellow": {
+                        "start": "2013",
+                        "end": "2016-12"
+                    }
+                }
+            },
+            "Univ. of California - San Diego": {
+                "department": "COMPUTER SCIENCE & ENGINEERING",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2017-01",
+                        "end": "2023-06"
+                    },
+                    "Associate Professor": {
+                        "start": "2023-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of Cape Town",
+            "Ph.D.": "Max Planck Institute for Informatics & Saarland University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/68/8369.html",
+        "name": "Michael Thomas Tolley",
+        "career": {
+            "Cornell University": {
+                "department": "Mechanical Engineering",
+                "position": {
+                    "Postdoctoral Associate": {
+                        "start": "2010-08",
+                        "end": "2011-02"
+                    }
+                }
+            },
+            "Harvard University": {
+                "department": "Institute for Biologically Inspired Engineering",
+                "position": {
+                    "Postdoctoral Fellow": {
+                        "start": "2011-02",
+                        "end": "2014-10"
+                    }
+                }
+            },
+            "Univ. of California - San Diego": {
+                "department": "COMPUTER SCIENCE & ENGINEERING",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2014-11",
+                        "end": "2020-06"
+                    },
+                    "Associate Professor": {
+                        "start": "2020-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "McGill University",
+            "Ph.D.": "Cornell University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/58/4582-3.html",
+        "name": "Xinyu Zhang",
+        "career": {
+            "University of Wisconsin-Madison": {
+                "department": "Computer Sciences",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2012-08",
+                        "end": "2017-07"
+                    }
+                }
+            },
+            "Univ. of California - San Diego": {
+                "department": "COMPUTER SCIENCE & ENGINEERING",
+                "position": {
+                    "Associate Professor": {
+                        "start": "2017-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Harbin Institute of Technology",
+            "Ph.D.": "University of Michigan"
+        }
+    }
+]

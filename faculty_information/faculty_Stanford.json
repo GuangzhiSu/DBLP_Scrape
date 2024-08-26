@@ -1,0 +1,559 @@
+[
+    {
+        "dblp": "https://dblp.org/pers/hd/e/Ermon:Stefano",
+        "name": "Stefano Ermon",
+        "career": {
+            "Stanford University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2014-11",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Ph.D.": "Cornell University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/g/LeonidasJGuibas.html",
+        "name": "Leonidas J. Guibas",
+        "career": {
+            "Stanford University": {
+                "department": "Computer Science",
+                "position": {
+                    "Professor": {
+                        "start": "1984-9",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Ph.D.": "Stanford University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pers/hd/w/Wu_0001:Jiajun",
+        "name": "Jiajun Wu",
+        "career": {
+            "Stanford University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2020-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Ph.D.": "Massachusetts Institute of Technology",
+            "Bachelor": "Tsinghua University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pers/hd/f/Fei=Fei_0001:Li",
+        "name": "Fei-Fei Li",
+        "career": {
+            "Stanford University": {
+                "department": "Computer Science",
+                "position": {
+                    "Professor": {
+                        "start": "2009-06",
+                        "end": "present"
+                    }
+                }
+            },
+            "Google": {
+                "department": "AI/ML",
+                "position": {
+                    "Chief Scientist of AI/ML; Vice President": {
+                        "start": "2017-01",
+                        "end": "2018-10"
+                    }
+                }
+            },
+            "AI4ALL": {
+                "position": {
+                    "Co-Founder, Chairperson of the Board": {
+                        "start": "2017-03",
+                        "end": "present"
+                    }
+                }
+            },
+            "Twitter": {
+                "position": {
+                    "Member, Board of Directors": {
+                        "start": "2020-05",
+                        "end": "present"
+                    }
+                }
+            },
+            "Princeton University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2006",
+                        "end": "2009"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Princeton University",
+            "PhD": "Caltech"
+        }
+    },
+    {
+        "dblp": "http://ai.stanford.edu/~cbfinn",
+        "name": "Chelsea Finn",
+        "career": {
+            "Stanford University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2019",
+                        "end": null
+                    }
+                }
+            },
+            "Google": {
+                "position": {
+                    "Research Scientist": {
+                        "start": "2018",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Ph.D.": "Univ. of California - Berkeley",
+            "Bachelor": "Massachusetts Institute of Technology"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pers/hd/r/R=eacute=:Christopher",
+        "name": "Christopher Ré",
+        "career": {
+            "Stanford University": {
+                "department": "Computer Science",
+                "position": {
+                    "Associate Professor": {
+                        "start": "Unknown",
+                        "end": "present"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pers/hd/m/Manning:Christopher_D%3D",
+        "name": "Christopher Manning",
+        "career": {
+            "Carnegie Mellon University": {
+                "department": "Computational Linguistics Program",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "1994",
+                        "end": "1996"
+                    }
+                }
+            },
+            "University of Sydney": {
+                "department": "Department of Linguistics",
+                "position": {
+                    "Lecturer B": {
+                        "start": "1996",
+                        "end": "1999"
+                    }
+                }
+            },
+            "Stanford University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "1999",
+                        "end": "2006"
+                    },
+                    "Associate Professor": {
+                        "start": "2006",
+                        "end": "2012"
+                    },
+                    "Professor": {
+                        "start": "2012",
+                        "end": "Present"
+                    },
+                    "Distinguished Professor": {
+                        "start": "2017",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Australian National University",
+            "PhD": "Stanford University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pers/hd/m/Ma_0001:Tengyu",
+        "name": "Tengyu Ma",
+        "career": {
+            "Stanford University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2018-09",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Ph.D.": "Princeton University",
+            "Bachelor": "Tsinghua University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pers/hd/y/Yang:Diyi",
+        "name": "Diyi Yang",
+        "career": {
+            "Stanford University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2022-09",
+                        "end": "Present"
+                    }
+                }
+            },
+            "Georgia Institute of Technology": {
+                "department": "School of Interactive Computing",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2019-08",
+                        "end": "2022-08"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Ph.D.": "Carnegie Mellon University",
+            "Bachelor": "Shanghai Jiao Tong University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pers/hd/b/Brunskill:Emma",
+        "name": "Emma Brunskill",
+        "career": {
+            "Stanford University": {
+                "department": "Computer Science Department",
+                "position": {
+                    "Associate Professor (tenured)": {
+                        "start": "2017-03",
+                        "end": "Present"
+                    }
+                }
+            },
+            "Carnegie Mellon University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2011-08",
+                        "end": "2017-02"
+                    }
+                }
+            }
+        },
+        "education": {
+            "PhD": "Massachusetts Institute of Technology",
+            "MSc": "University of Oxford"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pers/hd/j/Jurafsky:Daniel",
+        "name": "Dan Jurafsky",
+        "career": {
+            "University of Colorado": {
+                "department": "Linguistics, Computer Science, Cognitive Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "1996",
+                        "end": "2001"
+                    },
+                    "Associate Professor": {
+                        "start": "2001",
+                        "end": "2003"
+                    }
+                }
+            },
+            "Stanford University": {
+                "department": "Linguistics & Computer Science",
+                "position": {
+                    "Associate Professor": {
+                        "start": "2004",
+                        "end": "2010"
+                    },
+                    "Professor": {
+                        "start": "2010",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Univ. of California - Berkeley",
+            "PhD": "Univ. of California - Berkeley"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pers/hd/w/Wetzstein:Gordon",
+        "name": "Gordon Wetzstein",
+        "career": {
+            "Stanford University": {
+                "department": "Electrical Engineering and Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2014-09",
+                        "end": "2021-09"
+                    },
+                    "Associate Professor": {
+                        "start": "2021-09",
+                        "end": null
+                    }
+                }
+            },
+            "Zinn Labs": {
+                "position": {
+                    "Co-founder & Chief Scientist": {
+                        "start": "2020-01",
+                        "end": "2024-06"
+                    }
+                }
+            },
+            "Raxium, Inc.": {
+                "position": {
+                    "Co-founder": {
+                        "start": "2017-11",
+                        "end": "2022-05"
+                    }
+                }
+            },
+            "Massachusetts Institute of Technology": {
+                "position": {
+                    "Postdoctoral Associate": {
+                        "start": "2011-10",
+                        "end": "2014-08"
+                    }
+                }
+            }
+        },
+        "education": {
+            "PhD": "University of British Columbia",
+            "Diplom": "Bauhaus-University Weimar"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pers/hd/h/Hashimoto:Tatsunori_B%3D",
+        "name": "Tatsunori Hashimoto",
+        "career": {
+            "Stanford University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2020-09",
+                        "end": null
+                    },
+                    "Postdoc": {
+                        "start": "2016-06",
+                        "end": "2019-06"
+                    }
+                }
+            }
+        },
+        "education": {
+            "PhD": "Massachusetts Institute of Technology",
+            "BA": "Harvard University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pers/hd/p/Potts:Christopher",
+        "name": "Christopher Potts",
+        "career": {
+            "Stanford University": {
+                "department": "Linguistics and Computer Science",
+                "position": {
+                    "Professor and Chair of Linguistics": {
+                        "start": "2020",
+                        "end": "present"
+                    },
+                    "Professor by Courtesy of Computer Science": {
+                        "start": "2016",
+                        "end": "present"
+                    },
+                    "Director, Stanford Center for the Study of Language and Information": {
+                        "start": "2013",
+                        "end": "2020"
+                    },
+                    "Associate Professor": {
+                        "start": "2009",
+                        "end": "2016"
+                    }
+                }
+            },
+            "UMass Amherst": {
+                "department": "Linguistics",
+                "position": {
+                    "Associate Professor": {
+                        "start": "2008",
+                        "end": "2009"
+                    },
+                    "Assistant Professor": {
+                        "start": "2003",
+                        "end": "2008"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "New York University",
+            "Ph.D.": "Univ. of California - Santa Cruz"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pers/hd/d/Duchi:John_C%3D",
+        "name": "John C. Duchi",
+        "career": {
+            "Stanford University": {
+                "department": "Statistics and Electrical Engineering",
+                "position": {
+                    "Associate Professor": {
+                        "start": "2021-09",
+                        "end": null
+                    },
+                    "Assistant Professor": {
+                        "start": "2014-09",
+                        "end": "2021-08-31"
+                    }
+                }
+            },
+            "University of California, Berkeley": {
+                "position": {
+                    "Research Assistant": {
+                        "start": "2008",
+                        "end": "2014"
+                    }
+                }
+            },
+            "Google": {
+                "position": [
+                    {
+                        "title": "Research Intern/Engineer",
+                        "start": "2009",
+                        "end": "2014"
+                    },
+                    {
+                        "title": "Software Engineer",
+                        "start": "2007",
+                        "end": "2008"
+                    }
+                ]
+            }
+        },
+        "education": {
+            "Ph.D.": "Univ. of California - Berkeley",
+            "MS": "Stanford University",
+            "Bachelor": "Stanford University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pers/hd/v/Valiant:Gregory",
+        "name": "Gregory Valiant",
+        "career": {
+            "Stanford University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2013-09",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "PhD": "Univ. of California - Berkeley",
+            "Bachelor": "Harvard University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pers/hd/s/Sadigh:Dorsa",
+        "name": "Dorsa Sadigh",
+        "career": {
+            "Stanford University": {
+                "department": "Computer Science and Electrical Engineering",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2017-09",
+                        "end": null
+                    }
+                }
+            },
+            "Google DeepMind": {
+                "department": "Robotics Team",
+                "position": {
+                    "Research Scientist": {
+                        "start": "2022-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Ph.D.": "Univ. of California - Berkeley",
+            "Bachelor": "Univ. of California - Berkeley"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pers/hd/f/Fatahalian:Kayvon",
+        "name": "Kayvon Fatahalian",
+        "career": {
+            "Stanford University": {
+                "department": "Computer Science",
+                "position": {
+                    "Associate Professor": {
+                        "start": "2021-07",
+                        "end": null
+                    },
+                    "Assistant Professor": {
+                        "start": "2017-09",
+                        "end": "2021-06"
+                    }
+                }
+            },
+            "Carnegie Mellon University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2011-07",
+                        "end": "2017-08"
+                    }
+                }
+            },
+            "Lytro": {
+                "position": {
+                    "Technical Staff": {
+                        "start": "2010-09",
+                        "end": "2011-06"
+                    }
+                }
+            }
+        },
+        "education": {
+            "PhD": "Stanford University",
+            "BS": "Carnegie Mellon University"
+        }
+    }
+]

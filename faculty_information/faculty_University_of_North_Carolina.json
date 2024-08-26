@@ -1,0 +1,282 @@
+[
+    {
+        "dblp": "https://dblp.org/pid/32/5243.html",
+        "name": "Mohit Bansal",
+        "career": {
+            "University of North Carolina at Chapel Hill": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2016-08",
+                        "end": "2020-08"
+                    },
+                    "Associate Professor": {
+                        "start": "2020-08",
+                        "end": "2022-08"
+                    },
+                    "Full Professor": {
+                        "start": "2022-08",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Indian Institute of Technology at Kanpur",
+            "Ph.D.": "University of California at Berkeley"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/68/10575.html",
+        "name": "Tianlong Chen",
+        "career": {
+            "University of North Carolina at Chapel Hill": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2024-06",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of Science and Technology of China",
+            "Ph.D.": "The University of Texas at Austin"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/88/3304.html",
+        "name": "Marc Niethammer",
+        "career": {
+            "University of North Carolina at Chapel Hill": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2008-01",
+                        "end": "2013-10"
+                    },
+                    "Associate Professor": {
+                        "start": "2014-01",
+                        "end": "2017-10"
+                    },
+                    "Full Professor": {
+                        "start": "2018-01",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Diplom Ingenieur": "Universitaet Stuttgart",
+            "Master": "Georgia Institute of Technology",
+            "Ph.D.": "Georgia Institute of Technology"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/197/1635.html",
+        "name": "Huaxiu Yao",
+        "career": {
+            "University of North Carolina at Chapel Hill": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2023-08",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of Electronic Science and Technology of China",
+            "Ph.D.": "Pennsylvania State University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/155/9783.html",
+        "name": "Gedas Bertasius",
+        "career": {
+            "University of North Carolina at Chapel Hill": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2021-07",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Dartmouth College",
+            "Ph.D.": "University of Pennsylvania"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/77/8700.html",
+        "name": "Snigdha Chaturvedi",
+        "career": {
+            "University of California, Santa Cruz": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2018-04",
+                        "end": "2020-01"
+                    }
+                }
+            },
+            "University of North Carolina at Chapel Hill": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2020-01",
+                        "end": "2024-07"
+                    },
+                    "Associate Professor": {
+                        "start": "2024-07",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Indian Institute of Technology, Kanpur",
+            "Ph.D.": "University of Maryland"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/137/8390.html",
+        "name": "Junier B. Oliva",
+        "career": {
+            "University of North Carolina at Chapel Hill": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2018-07",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Carnegie Mellon University",
+            "Master": "Carnegie Mellon University",
+            "Ph.D.": "Carnegie Mellon University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/126/1619.html",
+        "name": "Shashank Srivastava",
+        "career": {
+            "University of North Carolina at Chapel Hill": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "unknown",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "unknown",
+            "Ph.D.": "Carnegie Mellon University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/54/10603.html",
+        "name": "Soumyadip Sengupta",
+        "career": {
+            "University of North Carolina at Chapel Hill": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2022-06",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Jadavpur University",
+            "Ph.D.": "University of Maryland"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/133/8252.html",
+        "name": "Quoc Tran-Dinh",
+        "career": {
+            "University of North Carolina at Chapel Hill": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2015-07",
+                        "end": "2021-06"
+                    },
+                    "Associate Professor": {
+                        "start": "2021-07",
+                        "end": "null"
+                    }
+                    
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "unknown",
+            "Ph.D.": "Universitas catholica Lovaniensis"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/03/5683.html",
+        "name": "Hongtu Zhu",
+        "career": {
+            "University of North Carolina at Chapel Hill": {
+                "department": "Computer Science",
+                "position": {
+                    "Associate Professor": {
+                        "start": "2006-08",
+                        "end": "2011-06"
+                    },
+                    "Professor": {
+                        "start": "2011-08",
+                        "end": "null"
+                    }
+                    
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Southeast University",
+            "Ph.D.": "Southeast University, P.R. China."
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/f/HenryFuchs.html",
+        "name": "Henry Fuchs",
+        "career": {
+            "University of Texas at Dallas": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "1975-01",
+                        "end": "1978-01"
+                    }
+                    
+                }
+            },
+            "University of North Carolina at Chapel Hill": {
+                "department": "Computer Science",
+                "position": {
+                    "Federico Gil Distinguished Professor": {
+                        "start": "unknown",
+                        "end": "null"
+                    }
+                    
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of California at Santa Cruz",
+            "Ph.D.": "University of Utah"
+        }
+    }
+]

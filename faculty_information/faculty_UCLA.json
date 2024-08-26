@@ -1,0 +1,510 @@
+[
+    {
+        "dblp": "https://dblp.org/pid/96/7521.html",
+        "name": "Guy Van den Broeck",
+        "career": {
+            "University of California, Los Angeles": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2015-09",
+                        "end": "2020-07"
+                    },
+                    "Associate Professor": {
+                        "start": "2020-07",
+                        "end": "2024-07"
+                    },
+                    "Professor": {
+                        "start": "2024-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "KU Leuven",
+            "Ph.D.": "KU Leuven"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/37/3868.html",
+        "name": "Yizhou Sun",
+        "career": {
+            "Northeastern University": {
+                "department": "Computer and Information Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2013-01",
+                        "end": "2016-06"
+                    }
+                }
+            },
+            "University of California, Los Angeles": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2016-01",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Peking University",
+            "M.Eng": "Peking University",
+            "Ph.D.": "University of Illinois at Urbana-Champaign"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/p/ADarwiche.html",
+        "name": "Adnan Darwiche ",
+        "career": {
+            "University of California, Los Angeles": {
+                "department": "Computer Science",
+                "position": {
+                    "Professor": {
+                        "start": "",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Tel-Aviv University",
+            "M.Sc.": "Weizmann Institute of Science",
+            "M.Sc.": "Stanford University",
+            "Ph.D.": "Stanford University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/14/2770.html",
+        "name": "Cho-Jui Hsieh",
+        "career": {
+            "University of California, Davis ": {
+                "department": "Computer Science & Department of Statistics",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2015-10",
+                        "end": "2018-10"
+                    }
+                }
+            },
+            "University of California, Los Angeles": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2018-11",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "National Taiwan University",
+            "M.Sc.": "National Taiwan University",
+            "Ph.D.": "National Taiwan University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/p/JudeaPearl.html",
+        "name": "Judea Pearl ",
+        "career": {
+            "University of California, Los Angeles": {
+                "department": "School of Engineering",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "1970",
+                        "end": "Unkonown"
+                    },
+                    "Professor": {
+                        "start": "",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Technion - Israel Institute of Technology",
+            "M.Sc.": "Rutgers University",
+            "Ph.D.": " the Polytechnic Institute of Brooklyn"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/50/4597.html",
+        "name": "Quanquan Gu ",
+        "career": {
+            "University of Virginia": {
+                "department": "Systems and Information Engineering" ,
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2015",
+                        "end": "2017"
+                    }
+                }
+            },
+            "University of California, Los Angeles": {
+                "department": "Computer and Information Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2018-07",
+                        "end": "2022-06"
+                    },
+                    "Associate Professor": {
+                        "start": "2022-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Tsinghua University",
+            "M.Sc.": "Tsinghua University",
+            "Ph.D.": "University of Illinois at Urbana-Champaign"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/117/4036.html",
+        "name": "Nanyun Peng",
+        "career": {
+            "University of South Carolina": {
+                "department": "Computer Science",
+                "position": {
+                    "Research Assistant Professor": {
+                        "start": "2018",
+                        "end": "2022"
+                    }
+                }
+            },
+            "University of California, Los Angeles": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2020",
+                        "end": "2024"
+                    },
+                    "Associate Professor": {
+                        "start": "2024",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Peking University",
+            "M.Sc.": "Peking University",
+            "Ph.D.": "Johns Hopkins University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/w/WeiWang.html",
+        "name": "Wei Wang",
+        "career": {
+            "University of North Carolina at Chapel Hill": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2002",
+                        "end": "2006"
+                    },
+                    "Associate Professor": {
+                        "start": "2006",
+                        "end": "2010"
+                    },
+                    "Professor": {
+                        "start": "2010",
+                        "end": "2012"
+                    }
+                }
+            },
+            "University of California, Los Angeles": {
+                "department": "Computer Science",
+                "position": {
+                    "Professor": {
+                        "start": "2012",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "M.Sc.": "The State University of New York at Binghamton",
+            "Ph.D.": "University of California, Los Angeles"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/18/2428.html",
+        "name": "Kai-Wei Chang",
+        "career": {
+            "University of Virginia": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2016",
+                        "end": "2017"
+                    }
+                }
+            },
+            "University of California, Los Angeles": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2017",
+                        "end": "2022"
+                    },
+                    "Professor": {
+                        "start": "2022",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "National Taiwan University",
+            "M.Sc.": "National Taiwan University",
+            "Ph.D.": "University of Illinois at Urbana-Champaign"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/162/5052.html",
+        "name": "Aditya Grover",
+        "career": {
+            "University of California, Los Angeles": {
+                "department": "Computer and Information Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2021-11",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Indian Institute of Technology",
+            "Ph.D.": "Stanford University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/18/2128.html",
+        "name": "Richard E. Korf",
+        "career": {
+            "Columbia University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "1983",
+                        "end": "1985"
+                    }
+                }
+            },
+            "University of California, Los Angeles": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "1985",
+                        "end": "1988"
+                    },
+                    "Associate Professor": {
+                        "start": "1988",
+                        "end": "1995"
+                    },
+                    "Professor": {
+                        "start": "1995",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Massachusetts Institute of Technology",
+            "M.Sc.": "Carnegie Mellon University",
+            "Ph.D.": "Carnegie Mellon University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/s/MihaelavanderSchaar.html",
+        "name": "Mihaela van der Schaar",
+        "career": {
+            "Columbia University": {
+                "department": "Electrical Engineering",
+                "position": {
+                    "Adjunct Assistant Professor": {
+                        "start": "2003-01",
+                        "end": "2003-08"
+                    }
+                }
+            },
+            "University of California, Davis ": {
+                "department": "Electrical and Computer Engineering",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2003-07",
+                        "end": "2005-06"
+                    }
+                }
+            },
+            "University of California, Los Angeles": {
+                "department": "Electrical and Computer Engineering",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2005-07",
+                        "end": "2007-07"
+                    },
+                    "Associate Professor": {
+                        "start": "2007-07",
+                        "end": "2010-06"
+                    },
+                    "Professor": {
+                        "start": "2010-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Eindhoven University of Technology",
+            "Ph.D.": "Eindhoven University of Technology"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/46/8066.html",
+        "name": "Bolei Zhou",
+        "career": {
+            "The Chinese University of Hong Kong": {
+                "department": "Information Engineering",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2018-10",
+                        "end": "2021-12"
+                    }
+                }
+            },
+            "University of California, Los Angeles": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2022-01",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Shanghai Jiao Tong University",
+            "M.Sc.": "The Chinese University of Hong Kong",
+            "Ph.D.": "Massachusetts Institute of Technology"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/z/CZaniolo.html",
+        "name": "Carlo Zaniolo",
+        "career": {
+            "University of California, Los Angeles": {
+                "department": "",
+                "position": {
+                    "Professor": {
+                        "start": "1991",
+                        "end": null
+                    }
+             }
+         }
+        },
+        "education": {
+            "Bachelor": "Padua University",
+            "Ph.D.": "University of California, Los Angeles"
+        }
+    
+    },
+    {
+        "dblp": "https://dblp.org/pid/52/10075.html",
+        "name": "Baharan Mirzasoleiman",
+        "career": {
+            "University of California, Los Angeles": {
+                "department": "Engineering and Applied Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2020-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of Tehran",
+            "Ph.D.": "ETH Zürich"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/24/5359.html",
+        "name": "Stanley J. Osher",
+        "career": {
+            "University of California, Berkeley": {
+                "department": "Mathematics",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "1968",
+                        "end": "1970"
+                    }
+                }
+            },
+            "Stony Brook University, New York": {
+                "department": "Mathematics",
+                "position": {
+                    "Associate Professor": {
+                        "start": "1970",
+                        "end": "1975"
+                    },
+                    "Professor": {
+                        "start": "1975",
+                        "end": "1977"
+                    }
+                }
+            },
+            "University of California, Los Angeles": {
+                "department": "Mathematics and Computer Science",
+                "position": {
+                    "Professor": {
+                        "start": "1977",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Brooklyn College",
+            "M.Sc.": "New York University",
+            "Ph.D.": "New York University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/39/5423-1.html",
+        "name": "Yuan Tian",
+        "career": {
+            "University of Virginia": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2017-09",
+                        "end": "2022-07"
+                    }
+                }
+            },
+            "University of California, Los Angeles": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2022-07",
+                        "end": "2024-07"
+                    },
+                    "Associate Professor": {
+                        "start": "2024-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "M.Sc.": "Beijing University of Posts and Telecommunications",
+            "Ph.D.": "Carnegie Mellon University"
+        }
+    }
+]

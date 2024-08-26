@@ -1,0 +1,458 @@
+[
+    {
+        "dblp": "https://dblp.org/pid/y/AlanLYuille.html",
+        "name": "Alan L. Yuille",
+        "career": {
+            "Harvard University": {
+                "department": "COMPUTER SCIENCE",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "1988",
+                        "end": "1992"
+                    },
+                    "Associate Professor": {
+                        "start": "1992",
+                        "end": "1995"
+                    }
+                }
+            },
+            "University of California, Los Angeles": {
+                "department": "STATISTICS",
+                "position": {
+                    "Professor": {
+                        "start": "2002",
+                        "end": "2016"
+                    }
+                }
+            },
+            "Johns Hopkins University": {
+                "department": "COGNITIVE SCIENCE",
+                "position": {
+                    "Distinguished Professor": {
+                        "start": "2016",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of Cambridge",
+            "Ph.D.": "University of Cambridge"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/06/4775.html",
+        "name": "Benjamin Van Durme",
+        "career": {
+            "Johns Hopkins University": {
+                "department": "COMPUTER SCIENCE",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2016-01",
+                        "end": "2019-06"
+                    },
+                    "Associate Professor": {
+                        "start": "2019-06",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of Rochester",
+            "Ph.D.": "University of Rochester"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/77/4919.html",
+        "name": "Sanjeev Khudanpur",
+        "career": {
+            "Johns Hopkins University": {
+                "department": "ELECTRICAL AND COMPUTER ENGINEERING",
+                "position": {
+                    "Associate Professor": {
+                        "start": "1997",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Indian Institute of Technology, Bombay",
+            "Ph.D.": "University of Maryland"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/c/RamaChellappa.html",
+        "name": "Rama Chellappa",
+        "career": {
+            "University of Southern California": {
+                "department": "ELECTRICAL AND COMPUTER ENGINEERING",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "1981",
+                        "end": "1986"
+                    },
+                    "Associate Professor": {
+                        "start": "1986",
+                        "end": "1991"
+                    }
+                }
+            },
+            "University of Maryland": {
+                "department": "ELECTRICAL AND COMPUTER ENGINEERING",
+                "position": {
+                    "Professor": {
+                        "start": "1991",
+                        "end": null
+                    },
+                    "Distinguished Professor": {
+                        "start": "2016",
+                        "end": null
+                    }
+                }
+            },
+            "Johns Hopkins University": {
+                "department": "ELECTRICAL AND COMPUTER ENGINEERING",
+                "position": {
+                    "Distinguished Professor": {
+                        "start": "2020-08",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "unknown",
+            "Ph.D.": "Purdue University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/86/4726-1.html",
+        "name": "Vishal Patel",
+        "career": {
+            "Rutgers University": {
+                "department": "ELECTRICAL AND COMPUTER ENGINEERING",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2010",
+                        "end": "unknown"
+                    }
+                }
+            },
+            "Johns Hopkins University": {
+                "department": "ELECTRICAL AND COMPUTER ENGINEERING",
+                "position": {
+                    "Associate Professor": {
+                        "start": "unknown",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "unknown",
+            "Ph.D.": "University of Maryland"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/37/3263.html",
+        "name": "Jason Eisner",
+        "career": {
+            "University of Rochester": {
+                "department": "COMPUTER SCIENCE",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2000-01",
+                        "end": "2001-06"
+                    }
+                }
+            },
+            "Johns Hopkins University": {
+                "department": "COMPUTER SCIENCE",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2000-07",
+                        "end": "2007-06"
+                    },
+                    "Associate Professor": {
+                        "start": "2007-07",
+                        "end": "2014-06"
+                    },
+                    "Professor": {
+                        "start": "2014-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Harvard University & University of Cambridge",
+            "Ph.D.": "University of Pennsylvania"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/54/3202.html",
+        "name": "Raman Arora",
+        "career": {
+            "Johns Hopkins University": {
+                "department": "COMPUTER SCIENCE",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2014-01",
+                        "end": "2024-01"
+                    },
+                    "Associate Professor": {
+                        "start": "2024-01",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "unknown",
+            "Ph.D.": "University of Wisconsin-Madison"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/31/5468.html",
+        "name": "Mark Dredze",
+        "career": {
+            "Johns Hopkins University": {
+                "department": "COMPUTER SCIENCE",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2009-02",
+                        "end": "2017-08"
+                    },
+                    "Associate Professor": {
+                        "start": "2017-08",
+                        "end": "2023-06"
+                    },
+                    "Professor": {
+                        "start": "2023-06",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Northwestern University",
+            "Ph.D.": "University of Pennsylvania"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/84/4538.html",
+        "name": "Philipp Koehn",
+        "career": {
+            "University of Edinburgh": {
+                "department": "COMPUTER SCIENCE",
+                "position": {
+                    "Lecturer": {
+                        "start": "2005-01",
+                        "end": "2010-07"
+                    },
+                    "Reader": {
+                        "start": "2010-08",
+                        "end": "2012-07"
+                    },
+                    "Professor": {
+                        "start": "2012-08",
+                        "end": "2021-09"
+                    }
+                }
+            },
+            "Johns Hopkins University": {
+                "department": "COMPUTER SCIENCE",
+                "position": {
+                    "Associate Professor": {
+                        "start": "2014-01",
+                        "end": "2014-06"
+                    },
+                    "Professor": {
+                        "start": "2014-06",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "FAU Erlangen-Nürnberg",
+            "Ph.D.": "University of Southern California"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/71/10515.html",
+        "name": "Daniel Khashabi",
+        "career": {
+            "Johns Hopkins University": {
+                "department": "COMPUTER SCIENCE",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2022-08",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of Illinois Urbana-Champaign",
+            "Ph.D.": "University of Pennsylvania"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/12/5814.html",
+        "name": "Gregory Hager",
+        "career": {
+            "Yale University": {
+                "department": "unknown",
+                "position": {
+                    "Associate Professor": {
+                        "start": "1991-01",
+                        "end": "1999-07"
+                    }
+                }
+            },
+            "Johns Hopkins University": {
+                "department": "COMPUTER SCIENCE",
+                "position": {
+                    "Professor": {
+                        "start": "1999-08",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Luther College",
+            "Ph.D.": "University of Pennsylvania"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/153/5169.html",
+        "name": "Anqi Liu",
+        "career": {
+            "Johns Hopkins University": {
+                "department": "COMPUTER SCIENCE",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2021-09",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Tianjin University of Finance and Economics",
+            "Ph.D.": "University of Illinois Chicago"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/72/2433.html",
+        "name": "Suchi Saria",
+        "career": {
+            "Johns Hopkins University": {
+                "department": "COMPUTER SCIENCE",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2012-08",
+                        "end": "2018-08"
+                    },
+                    "Associate Professor": {
+                        "start": "2018-08",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Mount Holyoke College",
+            "Ph.D.": "Stanford University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/156/3028.html",
+        "name": "Jeremias Sulam",
+        "career": {
+            "Johns Hopkins University": {
+                "department": "COMPUTER SCIENCE",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2018-10",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Facultad de Ingeniería, Universidad Nacional de Entre Ríos",
+            "Ph.D.": "Technion - Israel Institute of Technology"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/173/4958.html",
+        "name": "Nicolas Loizou",
+        "career": {
+            "Assistant Professor": {
+                "department": "APPLIED MATHEMATICS AND STATISTICS",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2022-01",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "National and Kapodistrian University of Athens",
+            "Ph.D.": "University of Edinburgh"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/82/1901.html",
+        "name": "Ilya Shpitser",
+        "career": {
+            "University of Southampton": {
+                "department": "STATISTICS",
+                "position": {
+                    "Lecturer": {
+                        "start": "unknown",
+                        "end": "unknown"
+                    }
+                }
+            },
+            "Johns Hopkins University": {
+                "department": "COMPUTER SCIENCE",
+                "position": {
+                    "Associate Professor": {
+                        "start": "unknown",
+                        "end": "unknown"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of California, Berkeley",
+            "Ph.D.": "niversity of California, Los Angeles"
+        }
+    },
+    {
+        "dblp": "",
+        "name": "David Yarowsky",
+        "career": {
+            "Johns Hopkins University": {
+                "department": "COMPUTER SCIENCE",
+                "position": {
+                    "Professor": {
+                        "start": "unknown",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Harvard University",
+            "Ph.D.": "University of Pennsylvania"
+        }
+    }
+]

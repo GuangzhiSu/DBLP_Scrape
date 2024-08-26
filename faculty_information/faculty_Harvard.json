@@ -1,0 +1,327 @@
+[
+    {
+        "dblp": "https://dblp.org/pid/s/SMKakade.html",
+        "name": "Sham M. Kakade",
+        "career": {
+            "University of Washington": {
+                "department": "Electrical and Computer Engineering",
+                "position": {
+                    "Professor": {
+                        "start": "2015-09",
+                        "end": "2021-12"
+                    }
+                }
+            },
+            "Harvard University": {
+                "department": "Computer Science",
+                "position": {
+                    "Professor": {
+                        "start": "2022-01",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "California Institute of Technology",
+            "Ph.D.": "University College London"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/67/2667.html",
+        "name": "Milind Tambe",
+        "career": {
+            "Carnegie Mellon University": {
+                "department": "Computer Science",
+                "position": {
+                    "Research Associate": {
+                        "start": "1991-07",
+                        "end": "1993-08"
+                    }
+                }
+            },
+            "University of Southern California": {
+                "department": "Computer Science",
+                "position": {
+                    "Research Assistant Professor": {
+                        "start": "1994-02",
+                        "end": "2000-03"
+                    },
+                    "Research Associate Professor": {
+                        "start": "2000-03",
+                        "end": "2001-09"
+                    },
+                    "Associate Professor": {
+                        "start": "2001-09",
+                        "end": "2006-09"
+                    },
+                    "Professor": {
+                        "start": "2006-10",
+                        "end": "2019-08"
+                    }
+                }
+            },
+            "Harvard University": {
+                "department": "Computer Science",
+                "position": {
+                    "Professor": {
+                        "start": "2019-08",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Birla Institute of Technology and Science",
+            "Ph.D.": "Carnegie Mellon University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/p/ArielDProcaccia.html",
+        "name": "Ariel D. Procaccia",
+        "career": {
+            "Microsoft Israel R&D Center": {
+                "department": "",
+                "position": {
+                    "Postdoctoral Researcher": {
+                        "start": "2008-09",
+                        "end": "2009-08"
+                    }
+                }
+            },
+            "Harvard University": {
+                "department": "",
+                "position": {
+                    "Postdoctoral Researcher": {
+                        "start": "2009-09",
+                        "end": "2011-08"
+                    }
+                }
+            },
+            "Carnegie Mellon University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2011-09",
+                        "end": "2017-06"
+                    },
+                    "Associate Professor": {
+                        "start": "2017-07",
+                        "end": "2019-12"
+                    }
+                }
+            },
+            "Harvard University": {
+                "department": "Computer Science",
+                "position": {
+                    "Professor": {
+                        "start": "2020-01",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "The Hebrew University of Jerusalem",
+            "Ph.D.": "The Hebrew University of Jerusalem"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/p/DavidCParkes.html",
+        "name": "David C. Parkes",
+        "career": {
+            "Harvard University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2001-07",
+                        "end": "2005-06"
+                    },
+                    "Associate Professor": {
+                        "start": "2005-07",
+                        "end": "2008-06"
+                    },
+                    "Gordon McKay Professor": {
+                        "start": "2008-07",
+                        "end": "2012-06"
+                    },
+                    "George F. Colony Professor": {
+                        "start": "2012-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of Oxford",
+            "Ph.D.": "University of Pennsylvania"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/64/7056.html",
+        "name": "Finale Doshi-Velez",
+        "career": {
+            "Harvard University": {
+                "department": "Medical",
+                "position": {
+                    "Postdoctoral Research Associate": {
+                        "start": "2012-08",
+                        "end": "2014-06"
+                    }
+                }
+            },
+            "Harvard University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2014-07",
+                        "end": "2019-06"
+                    },
+                    "John L. Loeb Associate Professor": {
+                        "start": "2019-07",
+                        "end": "2021-06"
+                    },
+                    "George F. Colony Professor": {
+                        "start": "2021-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of Oxford",
+            "Ph.D.": "University of Pennsylvania"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/p/HanspeterPfister.html",
+        "name": "Hanspeter Pfister",
+        "career": {
+            "Mitsubishi Electric Research Laboratories": {
+                "department": "",
+                "position": {
+                    "Associate Director and Senior Research Scientist": {
+                        "start": "1996-09",
+                        "end": "2007-07"
+                    }
+                }
+            },
+            "Harvard University": {
+                "department": "School of Engineering and Applied Sciences",
+                "position": {
+                    "An Wang Professor": {
+                        "start": "2007-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Stony Brook University",
+            "Ph.D.": "Stony Brook University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/72/3762-1.html",
+        "name": "Yiling Chen",
+        "career": {
+            "Framingham State College": {
+                "department": "Economics and Business Administration",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2005-09",
+                        "end": "2005-12"
+                    }
+                }
+            },
+            "Yahoo! Research": {
+                "department": "Microeconomics and Social Systems group",
+                "position": {
+                    "Postdoctoral Research Scientist": {
+                        "start": "2006-02",
+                        "end": "2008-06"
+                    }
+                }
+            },
+            "Harvard University": {
+                "department": "School of Engineering and Applied Sciences",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2008-07",
+                        "end": "2012-06"
+                    },
+                    "Associate Professor": {
+                        "start": "2012-07",
+                        "end": "2015-06"
+                    },
+                    "Gordon McKay Professor": {
+                        "start": "2015-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "The Pennsylvania State University",
+            "Ph.D.": "Stony Brook University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/74/838.html",
+        "name": "Michael Mitzenmacher",
+        "career": {
+            "Harvard University": {
+                "department": "School of Engineering and Applied Sciences",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "1999-01",
+                        "end": "2002-07"
+                    },
+                    "Associate Professor": {
+                        "start": "2002-07",
+                        "end": "2005-01"
+                    },
+                    "Professor": {
+                        "start": "2005-01",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Harvard College",
+            "Ph.D.": "University of California, Berkeley"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/s/StuartMShieber.html",
+        "name": "Stuart M. Shieber",
+        "career": {
+            "Harvard University": {
+                "department": "School of Engineering and Applied Sciences",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "1989",
+                        "end": "1993"
+                    },
+                    "John L. Loeb Associate Professor": {
+                        "start": "1993",
+                        "end": "1996"
+                    },
+                    "Gordon McKay Professor": {
+                        "start": "1996",
+                        "end": "2002"
+                    },
+                    "James O. Welch, Jr. and Virginia B. Welch Professor": {
+                        "start": "2002",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Harvard University",
+            "Ph.D.": "Stanford University"
+        }
+    }
+]

@@ -1,0 +1,358 @@
+[
+    {
+        "dblp": "https://dblp.org/pid/18/8169.html",
+        "name": "Mohamed S. Abdelfattah",
+        "career": {
+            "Duke University": {
+                "department": "ELECTRICAL AND COMPUTER ENGINEERING",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2022-01",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "German University of Cairo",
+            "Ph.D.": "University of Toronto"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/g/CarlaPGomes.html",
+        "name": "Carla P. Gomes",
+        "career": {
+            "Cornell University": {
+                "department": "Computer Science",
+                "position": {
+                    "Professor": {
+                        "start": "2003-01",
+                        "end": null
+                    },
+                    "Professor / Director Institute for Computational Sustainability": {
+                        "start": "1997-01",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "M.Sc.": "Technical University of Lisbon",
+            "Ph.D.": "University of Edinburgh"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/h/JosephYHalpern.html",
+        "name": "Joseph Y. Halpern",
+        "career": {
+            "Stanford University": {
+                "department": "Computer Science",
+                "position": {
+                    "Consulting Assistant Professor": {
+                        "start": "1985-09",
+                        "end": "1987-08"
+                    },
+                    "Consulting Associate Professor": {
+                        "start": "1987-09",
+                        "end": "1991-08"
+                    },
+                    "Consulting Full Professor": {
+                        "start": "191-09",
+                        "end": "1996-08"
+                    }
+                }
+            },
+            "Cornell University": {
+                "department": "Computer Science",
+                "position": {
+                    "Professor": {
+                        "start": "1996-08",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of Toronto",
+            "Ph.D.": "Harvard University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/k/JonMKleinberg.html",
+        "name": "Jon Kleinberg",
+        "career": {
+            "Cornell University": {
+                "department": "Computer Science",
+                "position": {
+                    "Professor": {
+                        "start": "1996-01",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Cornell University",
+            "Ph.D.": "Massachusetts Institute of Technology"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/38/5967.html",
+        "name": "Daniel D. Lee",
+        "career": {
+            "University of Pennsylvania": {
+                "department": "Engineering and Applied Science",
+                "position": {
+                    "Professor": {
+                        "start": "2001-09",
+                        "end": "2018-06"
+                    }
+                }
+            },
+            "Cornell Tech": {
+                "department": "ELECTRICAL AND COMPUTER ENGINEERING",
+                "position": {
+                    "Professor": {
+                        "start": "2018-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Harvard University",
+            "Ph.D.": "Massachusetts Institute of Technology"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/s/BartSelman.html",
+        "name": "Bart Selman",
+        "career": {
+            "Cornell University": {
+                "department": "Computer Science",
+                "position": {
+                    "Associate Professor": {
+                        "start": "1997-07",
+                        "end": "2005-01"
+                    },
+                    "Professor": {
+                        "start": "2005-01",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "M.Sc.": "Delft University of Technology",
+            "M.Sc.": "University of Toronto",
+            "Ph.D.": "University of Toronto"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/88/4801.html",
+        "name": "Kilian Q. Weinberger",
+        "career": {
+            " Washington University in St. Louis": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2010-01",
+                        "end": "2015-05"
+                    }
+                }
+            },
+            "Cornell University": {
+                "department": "Computer Science",
+                "position": {
+                    "Associate Professor": {
+                        "start": "2015-06",
+                        "end": "2021-05"
+                    },
+                    "Professor": {
+                        "start": "2021-06",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of Oxford",
+            "Ph.D.": "University of Pennsylvania,"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/136/7969.html",
+        "name": "Sainyam Galhotra",
+        "career": {
+            "Cornell University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2023-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Indian Institute of Technology Delhi",
+            "Ph.D.": "University of Chicago"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/69/1010-2.html",
+        "name": "Wen Sun",
+        "career": {
+            "Cornell University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2020-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Zhejiang University",
+            "Ph.D.": "Carnegie Mellon University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/135/8207.html",
+        "name": "Sanjiban Choudhury",
+        "career": {
+            "Cornell University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2022-08",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Indian Institute of Technology Kharagpur",
+            "Ph.D.": "Carnegie Mellon University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/k/RDKleinberg.html",
+        "name": "Robert D. Kleinberg",
+        "career": {
+            "Cornell University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2005-06",
+                        "end": "2013-06"
+                    },
+                    "Associate Professor": {
+                        "start": "2013-07",
+                        "end": "2019-06"
+                    },
+                    "Professor": {
+                        "start": "2019-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Cornell University",
+            "Ph.D.": "Massachusetts Institute of Technology"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/67/9012.html",
+        "name": "Alexander M. Rush",
+        "career": {
+            "Harvard University": {
+                "department": " Engineering and Applied Sciences",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2015",
+                        "end": "2019"
+                    }
+                }
+            },
+            "Cornell University": {
+                "department": "Computer Science",
+                "position": {
+                    "Associate Professor": {
+                        "start": "2019",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Harvard University",
+            "Ph.D.": "Massachusetts Institute of Technology"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/154/6336.html",
+        "name": "Christopher De Sa",
+        "career": {
+            "Cornell University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2017",
+                        "end": "2024"
+                    },
+                    "Associate Professor": {
+                        "start": "2024",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Stanford University",
+            "Ph.D.": "Stanford University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/s/DavidBShmoys.html",
+        "name": "David B. Shmoys",
+        "career": {
+            "Massachusetts Institute of Technology": {
+                "department": "Applied Mathematics",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "1985",
+                        "end": "1989"
+                    },
+                    "Associate Professor": {
+                        "start": "1989",
+                        "end": "1990"
+                    }
+                }
+            },
+            "Cornell University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "1989",
+                        "end": "1992"
+                    },
+                    "Associate Professor": {
+                        "start": "1992",
+                        "end": "1996"
+                    },
+                    "Professor": {
+                        "start": "1997",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Princeton University",
+            "Ph.D.": "University of California, Berkeley"
+        }
+    }
+]

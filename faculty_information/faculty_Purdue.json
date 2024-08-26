@@ -1,0 +1,483 @@
+[
+    {
+        "dblp": "https://dblp.org/pid/a/DanielGAliaga.html",
+        "name": "Daniel Aliaga",
+        "career": {
+            "Purdue University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2003-08",
+                        "end": "2010-08"
+                    },
+                    "Associate Professor": {
+                        "start": "2010-08",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Brown University",
+            "Ph.D.": "University of North Carolina at Chapel Hill"
+        }
+    },
+    {
+        "dblp": "https://dblp.uni-trier.de/pid/94/2066.html",
+        "name": "Bedrich Benes",
+        "career": {
+            "Czech Technical University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "1998-06",
+                        "end": "1999-07"
+                    }
+                }
+            },
+            "Instituto Technol ́ogico y de Estudios Superiores de Monterrey": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2000-08",
+                        "end": "2005-08"
+                    }
+                }
+            },
+            "Purdue University": {
+                "department": "Computer Science",
+                "position": {
+                    "Professor (by courtesy)": {
+                        "start": "2017-12",
+                        "end": "2019-08"
+                    },
+                    "Professor": {
+                        "start": "2019-08",
+                        "end": "null"
+                    },
+                    "Associate Head": {
+                        "start": "2024-07",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Czech Technical University",
+            "Ph.D.": "Czech Technical University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/93/11476.html",
+        "name": "Aniket Bera",
+        "career": {
+            "University of North Carolina at Chapel Hill": {
+                "department": "Computer Science",
+                "position": {
+                    "Research Assistant Professor": {
+                        "start": "2018-07",
+                        "end": "2020-05"
+                    }
+                }
+            },
+            "Purdue University": {
+                "department": "Computer Science",
+                "position": {
+                    "Research Professor": {
+                        "start": "2019-09",
+                        "end": "2022-06"
+                    },
+                    "Associate Professor": {
+                        "start": "2022-06",
+                        "end": "null"
+                    }
+                }
+            },
+            "University of Maryland, College Park": {
+                "department": "Computer Science",
+                "position": {
+                    "Adjunct Associate Professor": {
+                        "start": "2022-10",
+                        "end": "null"
+                    }
+                }
+            }            
+        },
+        "education": {
+            "Bachelor": "Jaypee Institute of Information Technology",
+            "Ph.D.": "University of North Carolina at Chapel Hill"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/176/5583.html",
+        "name": "Brian Bullins",
+        "career": {
+            "Toyota Technological Institute at Chicago": {
+                "department": "Unknown",
+                "position": {
+                    "Research Assistant Professor": {
+                        "start": "2019-09",
+                        "end": "2022-08"
+                    }
+                }
+            },
+            "Purdue University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2022-08",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Duke University",
+            "Ph.D.": "Princeton University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/67/1567.html",
+        "name": "Petros Drineas",
+        "career": {
+            "Rensselaer Polytechnic Institute": {
+                "department": "Unknown",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2003-06",
+                        "end": "2008-12"
+                    },
+                    "Associate Professor": {
+                        "start": "2009-01",
+                        "end": "2016-06"
+                    }
+                }
+            },
+            "Purdue University": {
+                "department": "Computer Science",
+                "position": {
+                    "Associate Professor": {
+                        "start": "2016-08",
+                        "end": "2019-07"
+                    },
+                    "Professor": {
+                        "start": "2019-08",
+                        "end": "null"
+                    },
+                    "Associate Head": {
+                        "start": "2020-06",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of Patras",
+            "Ph.D.": "Yale University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/38/3382.html",
+        "name": "Dan Goldwasser",
+        "career": {
+            "Purdue University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2014-08",
+                        "end": "2021-08"
+                    },
+                    "Associate Professor": {
+                        "start": "2021-08",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of Haifa",
+            "Ph.D.": "University of Illinois at Urbana-Champaign"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/31/4624.html",
+        "name": "Rajiv Khanna",
+        "career": {
+            "Purdue University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2022-08",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "National Institute of Technology Jallandhar",
+            "Ph.D.": "University of Texas at Austin"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/19/10537.html",
+        "name": "Alexandros Psomas",
+        "career": {
+            "Purdue University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2020-08",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of Athens",
+            "Ph.D.": "University of California, Berkeley"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/15/606.html",
+        "name": "Bruno Ribeiro",
+        "career": {
+            "Purdue University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2015-07",
+                        "end": "2023-06"
+                    },
+                    "Associate Professor": {
+                        "start": "2023-06",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Federal University of Rio de Janeiro",
+            "Ph.D.": "University of Massachusetts Amherst"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/117/4903.html",
+        "name": "Yexiang Xue",
+        "career": {
+            "Purdue University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2018-08",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Peking University",
+            "Ph.D.": "Cornell University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/208/4163.html",
+        "name": "Raymond Yeh",
+        "career": {
+            "Toyota Technological Institute at Chicago": {
+                "department": "Unknown",
+                "position": {
+                    "Research Assistant Professor": {
+                        "start": "2021-09",
+                        "end": "2022-08"
+                    }
+                }
+            },
+            "Purdue University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2022-08",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of Illinois at Urbana-Champaign",
+            "Ph.D.": "University of Illinois at Urbana-Champaign"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/172/4952.html",
+        "name": "Ruqi Zhang",
+        "career": {
+            "Purdue University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2022-08",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Renmin University of China",
+            "Ph.D.": "Cornell University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/95/3760-1.html",
+        "name": "Xiangyu Zhang",
+        "career": {
+            "University 1": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2006-10",
+                        "end": "2012-10"
+                    },
+                    "Associate Professor": {
+                        "start": "2012-11",
+                        "end": "2016-10"
+                    },
+                    "Professor": {
+                        "start": "2016-11",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of Science & Technology of China",
+            "Ph.D.": "University of Arizona"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/76/10817.html",
+        "name": "David Inouye",
+        "career": {
+            "Purdue University": {
+                "department": "Electrical and Computer Engineering",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2019-07",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Georgia Institute of Technology",
+            "Ph.D.": "University of Texas at Austin"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/74/11343.html",
+        "name": "Murat Kocaoglu",
+        "career": {
+            "Purdue University": {
+                "department": "Electrical and Computer Engineering",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2021-01",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Middle East Technical University",
+            "Ph.D.": "University of Texas at Austin"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/191/6684-1.html",
+        "name": "Chaoyue Liu",
+        "career": {
+            "Purdue University": {
+                "department": "Electrical and Computer Engineering",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2024-08",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Tsinghua University",
+            "Ph.D.": "The Ohio State University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/97/360.html",
+        "name": "Qiang Qiu",
+        "career": {
+            "Duke University": {
+                "department": "Electrical and Computer Engineering",
+                "position": {
+                    "Assistant Research Professor": {
+                        "start": "2016-08",
+                        "end": "2020-08"
+                    }
+                }
+            },
+            "Purdue University": {
+                "department": "Electrical and Computer Engineering",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2020-08",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "National University of Singapore",
+            "Ph.D.": "University of Maryland, College Park"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/151/3215-1.html",
+        "name": "Xiaoqian Wang",
+        "career": {
+            "Purdue University": {
+                "department": "Electrical and Computer Engineering",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2019-08",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Zhejiang University",
+            "Ph.D.": "University of Pittsburgh"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/47/3260.html",
+        "name": "Fengqing Maggie Zhu",
+        "career": {
+            "Purdue University": {
+                "department": "Electrical and Computer Engineering",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2015-01",
+                        "end": "2022-08"
+                    },
+                    "Associate Professor": {
+                        "start": "2022-08",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Purdue University",
+            "Ph.D.": "Purdue University"
+        }
+    }
+]

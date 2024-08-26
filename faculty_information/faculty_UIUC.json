@@ -1,0 +1,809 @@
+[
+    {
+        "dblp": "https://dblp.org/pid/61/2408.html",
+        "name": "Heng Ji",
+        "career": {
+            "Rensselaer Polytechnic Institute": {
+                "department": "COMPUTER SCIENCE",
+                "position": {
+                    "Associate Professor": {
+                        "start": "2013",
+                        "end": "2019"
+                    }
+                }
+            },
+            "University of Illinois Urbana-Champaign": {
+                "department": "COMPUTER SCIENCE",
+                "position": {
+                    "Professor": {
+                        "start": "2019",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Tsinghua University",
+            "Ph.D.": "New York University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/h/JiaweiHan.html",
+        "name": "Jiawei Han",
+        "career": {
+            "Northwestern University": {
+                "department": "unknown",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "1986",
+                        "end": "1987"
+                    }
+                }
+            },
+            "Simon Fraser University": {
+                "department": "COMPUTING SCIENCE",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "1987",
+                        "end": "unknown"
+                    },
+                    "Associate Professor": {
+                        "start": "unknown",
+                        "end": "unknown"
+                    },
+                    "Professor": {
+                        "start": "unknown",
+                        "end": "2001"
+                    }
+                }
+            },
+            "University of Illinois Urbana-Champaign": {
+                "department": "COMPUTER SCIENCE",
+                "position": {
+                    "Professor": {
+                        "start": "2001",
+                        "end": "2011"
+                    },
+                    "Abel Bliss Professor": {
+                        "start": "2011",
+                        "end": "2019"
+                    },
+                    "Michael Aiken Chair Professor": {
+                        "start": "2019",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of Science and Technology of China",
+            "Ph.D.": "University of Wisconsin-Madison"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/79/9775.html",
+        "name": "Alexander G. Schwing",
+        "career": {
+            "University of Illinois Urbana-Champaign": {
+                "department": "ELECTRICAL AND COMPUTER ENGINEERING",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2016",
+                        "end": "unknown"
+                    },
+                    "Associate Professor": {
+                        "start": "unknown",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Technical University of Munich",
+            "Ph.D.": "ETH Zurich"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/54/4948.html",
+        "name": "Jimeng Sun",
+        "career": {
+            "Georgia Institute of Technology": {
+                "department": "COMPUTATIONAL SCIENCE AND ENGINEERING",
+                "position": {
+                    "Associate Professor": {
+                        "start": "2013-12",
+                        "end": "2020-01"
+                    }
+                }
+            },
+            "University of Illinois Urbana-Champaign": {
+                "department": "COMPUTER SCIENCE",
+                "position": {
+                    "Professor": {
+                        "start": "2020-01",
+                        "end": null
+                    },
+                    "position 2": {
+                        "start": "2021-02",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Hong Kong University of Science and Technology",
+            "Ph.D.": "Carnegie Mellon University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/35/10700.html",
+        "name": "Yu-Xiong Wang",
+        "career": {
+            "University of Illinois Urbana-Champaign": {
+                "department": "COMPUTER SCIENCE",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2020",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Beijing Institute of Technology",
+            "Ph.D.": "Carnegie Mellon University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/r/JMRehg.html",
+        "name": "James M. Rehg",
+        "career": {
+            "Georgia Institute of Technology": {
+                "department": "INTERACTIVE COMPUTING",
+                "position": {
+                    "Associate Professor": {
+                        "start": "2001",
+                        "end": "2010"
+                    },
+                    "Professor": {
+                        "start": "2010",
+                        "end": "2022"
+                    }
+                }
+            },
+            "University of Illinois Urbana-Champaign": {
+                "department": "COMPUTER SCIENCE",
+                "position": {
+                    "Founder Professor": {
+                        "start": "2022-11",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Virginia Tech",
+            "Ph.D.": "Carnegie Mellon University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/58/1757.html",
+        "name": "Hanghang Tong",
+        "career": {
+            "The City College of New York": {
+                "department": "COMPUTER SCIENCE",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2013-01",
+                        "end": "2014-08"
+                    }
+                }
+            },
+            "Arizona State University": {
+                "department": "COMPUTER SCIENCE",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2014-08",
+                        "end": "2018-07"
+                    },
+                    "Associate Professor": {
+                        "start": "2018-08",
+                        "end": "2019-08"
+                    }
+                }
+            },
+            "University of Illinois Urbana-Champaign": {
+                "department": "COMPUTER SCIENCE",
+                "position": {
+                    "Associate Professor": {
+                        "start": "2019-08",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Tsinghua University",
+            "Ph.D.": "Carnegie Mellon University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/03/3520-2.html",
+        "name": "Han Zhao",
+        "career": {
+            "University of Illinois Urbana-Champaign": {
+                "department": "COMPUTER SCIENCE",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2021-08",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Tsinghua University",
+            "Ph.D.": "Carnegie Mellon University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/29/4181-1.html",
+        "name": "Jian Peng",
+        "career": {
+            "University of Illinois Urbana-Champaign": {
+                "department": "COMPUTER SCIENCE",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2015-03",
+                        "end": "2020-08"
+                    },
+                    "Associate Professor": {
+                        "start": "2020-09",
+                        "end": "2021-06"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Wuhan University",
+            "Ph.D.": "Toyota Technological Institute at Chicago"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/117/4842.html",
+        "name": "Shenlong Wang",
+        "career": {
+            "University of Illinois Urbana-Champaign": {
+                "department": "COMPUTER SCIENCE",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2021-08",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Northwestern Polytechnical University",
+            "Ph.D.": "University of Toronto"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/06/4489-8.html",
+        "name": "Nan Jiang",
+        "career": {
+            "University of Illinois Urbana-Champaign": {
+                "department": "COMPUTER SCIENCE",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2018-08",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Tsinghua University",
+            "Ph.D.": "University of Michigan"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/82/4807.html",
+        "name": "Arindam Banerjee",
+        "career": {
+            "University of Minnesota, Twin Cities": {
+                "department": "COMPUTER SCIENCE AND ENGINEERING",
+                "position": {
+                    "Associate Professor": {
+                        "start": "unknown",
+                        "end": "unknown"
+                    }
+                }
+            },
+            "University of Illinois Urbana-Champaign": {
+                "department": "COMPUTER SCIENCE",
+                "position": {
+                    "Founder Professor": {
+                        "start": "2021-01",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Jadavpur University",
+            "Ph.D.": "University of Texas at Austin"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/34/2685.html",
+        "name": "Jingrui He",
+        "career": {
+            "Stevens Institute of Technology": {
+                "department": "COMPUTER SCIENCE",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2013-01",
+                        "end": "2014-08"
+                    }
+                }
+            },
+            "Arizona State University": {
+                "department": "COMPUTER SCIENCE",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2014-08",
+                        "end": "2018-07"
+                    },
+                    "Associate Professor": {
+                        "start": "2018-08",
+                        "end": "2019-08"
+                    }
+                }
+            },
+            "University of Illinois Urbana-Champaign": {
+                "department": "COMPUTER SCIENCE",
+                "position": {
+                    "Associate Professor": {
+                        "start": "2019-08",
+                        "end": "2023-08"
+                    },
+                    "Professor": {
+                        "start": "2023-08",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Tsinghua University",
+            "Ph.D.": "Carnegie Mellon University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/z/ChengXiangZhai.html",
+        "name": "ChengXiang Zhai",
+        "career": {
+            "University of Illinois Urbana-Champaign": {
+                "department": "COMPUTER SCIENCE",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2002",
+                        "end": "2008"
+                    },
+                    "Associate Professor": {
+                        "start": "2008",
+                        "end": "2013"
+                    },
+                    "Professor": {
+                        "start": "2013",
+                        "end": "2018"
+                    },
+                    "Donald Biggar Willett Professor": {
+                        "start": "2018",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Nanjing University",
+            "Ph.D.": "Carnegie Mellon University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/f/DavidAForsyth.html",
+        "name": "David A. Forsyth",
+        "career": {
+            "University of Iowa": {
+                "department": "COMPUTER SCIENCE",
+                "position": {
+                    "Professor": {
+                        "start": "1991-08",
+                        "end": "1994-08"
+                    }
+                }
+            },
+            "University of California, Berkeley": {
+                "department": "ELECTRICAL ENGINEERING AND COMPUTER SCIENCE",
+                "position": {
+                    "Professor": {
+                        "start": "1994-08",
+                        "end": "2004-08"
+                    }
+                }
+            },
+            "University of Illinois Urbana-Champaign": {
+                "department": "COMPUTER SCIENCE",
+                "position": {
+                    "Professor": {
+                        "start": "2004-08",
+                        "end": null
+                    },
+                    "Fulton Watson Copp Chair": {
+                        "start": "2014-08",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of the Witwatersrand",
+            "Ph.D.": "University of Oxford"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/06/5843-1.html",
+        "name": "Saurabh Gupta",
+        "career": {
+            "University of Illinois Urbana-Champaign": {
+                "department": "ELECTRICAL AND COMPUTER ENGINEERING",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2019-08",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Indian Institute of Technology, Delhi",
+            "Ph.D.": "University of California, Berkeley"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/08/6948.html",
+        "name": "Derek Hoiem",
+        "career": {
+            "University of Illinois Urbana-Champaign": {
+                "department": "COMPUTER SCIENCE",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2009-08",
+                        "end": "2015-08"
+                    },
+                    "Associate Professor": {
+                        "start": "2015-08",
+                        "end": "unknown"
+                    },
+                    "Professor": {
+                        "start": "unknown",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University at Buffalo",
+            "Ph.D.": "Carnegie Mellon University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/55/5180.html",
+        "name": "Svetlana Lazebnik",
+        "career": {
+            "University of North Carolina at Chapel Hill": {
+                "department": "COMPUTER SCIENCE",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2007-07",
+                        "end": "2011-12"
+                    }
+                }
+            },
+            "University of Illinois Urbana-Champaign": {
+                "department": "COMPUTER SCIENCE",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2012-01",
+                        "end": "2014-08"
+                    },
+                    "Associate Professor": {
+                        "start": "2014-08",
+                        "end": "2020-08"
+                    },
+                    "Professor": {
+                        "start": "2020-08",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "DePaul University",
+            "Ph.D.": "University of Illinois at Urbana-Champaign"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/c/KCCChang.html",
+        "name": "Kevin Chenchuan Chang",
+        "career": {
+            "University of Illinois Urbana-Champaign": {
+                "department": "COMPUTER SCIENCE",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2000-08",
+                        "end": "2007-08"
+                    },
+                    "Associate Professor": {
+                        "start": "2007-08",
+                        "end": "2015-08"
+                    },
+                    "Professor": {
+                        "start": "2015-08",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "unknown",
+            "Ph.D.": "Stanford University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/40/7018-7.html",
+        "name": "Yuan Zhou",
+        "career": {
+            "Indiana University at Bloomington": {
+                "department": "COMPUTER SCIENCE",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2016-08",
+                        "end": "2019-07"
+                    }
+                }
+            },
+            "University of Illinois Urbana-Champaign": {
+                "department": "INDUSTRIAL AND ENTERPRISE SYSTEMS ENGINEERING",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2019-08",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Tsinghua University",
+            "Ph.D.": "Carnegie Mellon University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/a/TarekFAbdelzaher.html",
+        "name": "Tarek Abdelzaher",
+        "career": {
+            "University of Virginia": {
+                "department": "COMPUTER SCIENCE",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "1999-08",
+                        "end": "2005-08"
+                    }
+                }
+            },
+            "University of Illinois Urbana-Champaign": {
+                "department": "COMPUTER SCIENCE",
+                "position": {
+                    "Associate Professor": {
+                        "start": "2005-08",
+                        "end": "unknown"
+                    },
+                    "Professor": {
+                        "start": "unknown",
+                        "end": "unknown"
+                    },
+                    "Sohaib and Sara Abbasi Professor": {
+                        "start": "2019-08",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Ain Shams University",
+            "Ph.D.": "University of Michigan"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/m/OlgicaMilenkovic.html",
+        "name": "Olgica Milenkovic",
+        "career": {
+            "University of Colorado, Boulder": {
+                "department": "ELECTRICAL AND COMPUTER ENGINEERING",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2002-08",
+                        "end": "2006-01"
+                    }
+                }
+            },
+            "University of Illinois Urbana-Champaign": {
+                "department": "ELECTRICAL AND COMPUTER ENGINEERING",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2007-08",
+                        "end": "2010-08"
+                    },
+                    "Associate Professor": {
+                        "start": "2010-08",
+                        "end": "2015-08"
+                    },
+                    "Professor": {
+                        "start": "2015-08",
+                        "end": null
+                    },
+                    "Franklin W. Woeltge Professor": {
+                        "start": "unknown",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of Nis",
+            "Ph.D.": "University of Michigan"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/70/3186.html",
+        "name": "Mark Hasegawa-Johnson",
+        "career": {
+            "University of Illinois Urbana-Champaign": {
+                "department": "ELECTRICAL AND COMPUTER ENGINEERING",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "1999-08",
+                        "end": "2005-08"
+                    },
+                    "Associate Professor": {
+                        "start": "2005-08",
+                        "end": "2011-08"
+                    },
+                    "Professor": {
+                        "start": "2011-08",
+                        "end": "2020-08"
+                    },
+                    "William L. Everitt Faculty Scholar": {
+                        "start": "2020-08",
+                        "end": null
+                    }
+                }
+            },
+            "Kyoto College of Graduate Studies in Informatics": {
+                "department": "INFORMATICS",
+                "position": {
+                    "Professor": {
+                        "start": "2016-08",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Massachusetts Institute of Technology",
+            "Ph.D.": "Massachusetts Institute of Technology"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/36/4028.html",
+        "name": "Lav R. Varshney",
+        "career": {
+            "University of Illinois Urbana-Champaign": {
+                "department": "ELECTRICAL AND COMPUTER ENGINEERING",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2014-01",
+                        "end": "2020-08"
+                    },
+                    "Associate Professor": {
+                        "start": "2020-08",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Cornell University",
+            "Ph.D.": "Massachusetts Institute of Technology"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/64/2448.html",
+        "name": "Julia Hockenmaier",
+        "career": {
+            "University of Illinois Urbana-Champaign": {
+                "department": "COMPUTER SCIENCE",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2007-08",
+                        "end": "2014-08"
+                    },
+                    "Associate Professor": {
+                        "start": "2014-08",
+                        "end": "2021-08"
+                    },
+                    "Professor": {
+                        "start": "2021-08",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of Stuttgart",
+            "Ph.D.": "The University of Edinburgh"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/64/3747-1.html",
+        "name": "Gagandeep Singh",
+        "career": {
+            "University of Illinois Urbana-Champaign": {
+                "department": "COMPUTER SCIENCE",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2021-08",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Indian Institute of Technology, Patna",
+            "Ph.D.": "ETH Zurich"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/50/3402-26.html",
+        "name": "Bo Li",
+        "career": {
+            "University of Illinois Urbana-Champaign": {
+                "department": "COMPUTER SCIENCE",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2018-08",
+                        "end": "2022-08"
+                    },
+                    "position2": {
+                        "start": "2022-08",
+                        "end": null
+                    }
+                }
+            },
+            "University of Chicago": {
+                "department": "COMPUTER SCIENCE",
+                "position": {
+                    "Neubauer Associate Professor": {
+                        "start": "2023-08",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "unknown",
+            "Ph.D.": "University of California, Berkeley"
+        }
+    }
+]

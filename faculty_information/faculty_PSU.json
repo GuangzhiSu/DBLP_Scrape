@@ -1,0 +1,395 @@
+[
+    {
+        "dblp": "https://dblp.org/pid/60/2536-37.html",
+        "name": "Rui Zhang",
+        "career": {
+            "Pennsylvania State University": {
+                "department": "Computer Science and Engineering",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2020-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Shanghai Jiao Tong University",
+            "Ph.D.": "University of Michigan, Ann Arbor"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/136/9440.html",
+        "name": "Suhang Wang",
+        "career": {
+            "Pennsylvania State University": {
+                "department": "Information Sciences and Technology",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2018-08",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Shanghai Jiao Tong University",
+            "Ph.D.": "Arizona State University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/85/10856.html",
+        "name": "Fenglong Ma",
+        "career": {
+            "Pennsylvania State University": {
+                "department": "Information Sciences and Technology",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2019-08",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Dalian University of Technology",
+            "Ph.D.": "State University of New York at Buffalo"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/174/1717.html",
+        "name": "Minhao Cheng",
+        "career": {
+            "Hong Kong University of Science and Technology": {
+                "department": "Computer Science and Engineering",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2022-01",
+                        "end": "2023-12"
+                    }
+                }
+            },
+            "Pennsylvania State University": {
+                "department": "Information Sciences and Technology",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2024-01",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of Electronic Science and Technology of China",
+            "Ph.D.": "University of California, Los Angeles"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/g/CLeeGiles.html",
+        "name": "C. Lee Giles",
+        "career": {
+            "Pennsylvania State University": {
+                "department": "Information Sciences and Technology",
+                "position": {
+                    "Distinguished Professor": {
+                        "start": "2000-08",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of Tennessee, Knoxville",
+            "Ph.D.": "University of Arizona"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/27/178.html",
+        "name": "Zhenhui Li",
+        "career": {
+            "Pennsylvania State University": {
+                "department": "Information Sciences and Technology",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2012-08",
+                        "end": "2017-08"
+                    },
+                    "Associate Professor": {
+                        "start": "2017-09",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Shanghai Jiao Tong University",
+            "Ph.D.": "University of Illinois at Urbana-Champaign"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/l/DongwonLee.html",
+        "name": "Dongwon Lee",
+        "career": {
+            "Pennsylvania State University": {
+                "department": "Information Sciences and Technology",
+                "position": {
+                    "Professor": {
+                        "start": "2003-08",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Ph.D.": "University of California, Los Angeles"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/67/5633.html",
+        "name": "Jinghui Chen",
+        "career": {
+            "Pennsylvania State University": {
+                "department": "Information Sciences and Technology",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2021-08",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of Science and Technology of China",
+            "Ph.D.": "University of California, Los Angeles"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/117/7310-1.html",
+        "name": "Wenpeng Yin",
+        "career": {
+            "Pennsylvania State University": {
+                "department": "Computer Science and Engineering",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2017-08",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Northwestern Polytechnical University",
+            "Ph.D.": "Ludwig Maximilian University of Munich"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/88/4321.html",
+        "name": "Mehrdad Mahdavi",
+        "career": {
+            "Pennsylvania State University": {
+                "department": "Computer Science and Engineering",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2018-08",
+                        "end": "2024-06"
+                    },
+                    "Associate Professor": {
+                        "start": "2024-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Sharif University of Technology",
+            "Ph.D.": "Michigan State University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/129/9444.html",
+        "name": "Huijuan Xu",
+        "career": {
+            "Pennsylvania State University": {
+                "department": "Computer Science and Engineering",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2018-08",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Ph.D.": "Boston University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/91/4353-1.html",
+        "name": "Xiang Zhang",
+        "career": {
+            "Case Western Reserve University": {
+                "department": "Electrical Engineering and Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2011-08",
+                        "end": "2016-08"
+                    }
+                }
+            },
+            "Pennsylvania State University": {
+                "department": "Information Sciences and Technology",
+                "position": {
+                    "Associate Professor": {
+                        "start": "2016-09",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Ph.D.": "University of North Carolina at Chapel Hill"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/10/8187.html",
+        "name": "Hadi Hosseini",
+        "career": {
+            "Rochester Institute of Technology": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2017-08",
+                        "end": "2020-08"
+                    }
+                }
+            },
+            "Pennsylvania State University": {
+                "department": "Information Sciences and Technology",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2020-09",
+                        "end": "2024-07"
+                    },
+                    "Associate Professor": {
+                        "start": "2024-08",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Ph.D.": "University of Waterloo"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/00/6525-1.html",
+        "name": "Zihan Zhou",
+        "career": {
+            "Pennsylvania State University": {
+                "department": "Information Sciences and Technology",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2013-08",
+                        "end": "2021-08"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Tsinghua University",
+            "Ph.D.": "University of Illinois at Urbana-Champaign"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/293/8974.html",
+        "name": "Sharon X. Huang",
+        "career": {
+            "Lehigh University": {
+                "department": "Computer Science and Engineering",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2006-08",
+                        "end": "2013-06"
+                    },
+                    "Associate Professor": {
+                        "start": "2013-07",
+                        "end": "2018-08"
+                    }
+                }
+            },
+            "Pennsylvania State University": {
+                "department": "Information Sciences and Technology",
+                "position": {
+                    "Associate Professor": {
+                        "start": "2018-09",
+                        "end": "2022-06"
+                    },
+                    "Professor": {
+                        "start": "2022-07",
+                        "end": "2024-07"
+                    },
+                    "Distinguished Professor": {
+                        "start": "2024-08",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Tsinghua University",
+            "Ph.D.": "Rutgers University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/14/716.html",
+        "name": "Wang-Chien Lee",
+        "career": {
+            "Pennsylvania State University": {
+                "department": "Computer Science and Engineering",
+                "position": {
+                    "Associate Professor": {
+                        "start": "1996-08",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "National Chiao-Tung University",
+            "Ph.D.": "Ohio State University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/98/8884.html",
+        "name": "Shomir Wilson",
+        "career": {
+            "University of Cincinnati": {
+                "department": "Electrical Engineering and Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2016-08",
+                        "end": "2018-08"
+                    }
+                }
+            },
+            "Pennsylvania State University": {
+                "department": "Information Sciences and Technology",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2018-09",
+                        "end": "2024-06"
+                    },
+                    "Associate Professor": {
+                        "start": "2024-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Virginia Tech",
+            "Ph.D.": "University of Maryland"
+        }
+    }
+]
+

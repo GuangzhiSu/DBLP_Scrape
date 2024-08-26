@@ -1,0 +1,401 @@
+[
+    {
+        "dblp": "https://dblp.org/pid/144/6087-1.html",
+        "name": "Sharon Li",
+        "career": {
+            "University of Wisconsin-Madison": {
+                "department": "Computer Sciences",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2020-08",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Ph.D.": "Cornell University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/15/5471.html",
+        "name": "Yong Jae Lee",
+        "career": {
+            "University of California, Davis": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2014-07",
+                        "end": "2020-06"
+                    },
+                    "Associate Professor": {
+                        "start": "2020-07",
+                        "end": "2021-06"
+                    },
+                    "Adjunct Associate Professor": {
+                        "start": "2021-07",
+                        "end": "2022-06"
+                    }
+                }
+            },
+            "University of Wisconsin-Madison": {
+                "department": "Computer Sciences",
+                "position": {
+                    "Associate Professor": {
+                        "start": "2021-08",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of Illinois at Urbana-Champaign",
+            "Ph.D.": "University of Texas at Austin"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/15/1975-1.html",
+        "name": "Yudong Chen",
+        "career": {
+            "Cornell University": {
+                "department": "School of Operations Research and Information Engineering",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2015-08",
+                        "end": "2021-06"
+                    },
+                    "Associate Professor": {
+                        "start": "2021-07",
+                        "end": "2022-07"
+                    }
+                }
+            },
+            "University of Wisconsin-Madison": {
+                "department": "Computer Sciences",
+                "position": {
+                    "Associate Professor": {
+                        "start": "2021-08",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Tsinghua University",
+            "Ph.D.": "University of Texas at Austin"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/d/IliasDiakonikolas.html",
+        "name": "Ilias Diakonikolas",
+        "career": {
+            "University of Edinburgh": {
+                "department": "Unknown",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2012-09",
+                        "end": "2015-12"
+                    }
+                }
+            },
+            "University of Southern California": {
+                "department": "Unknown",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2016-01",
+                        "end": "2019-08"
+                    }
+                }
+            },
+            "University of Wisconsin-Madison": {
+                "department": "Computer Sciences",
+                "position": {
+                    "Associate Professor": {
+                        "start": "2020-08",
+                        "end": "2023-08"
+                    },
+                    "Professor": {
+                        "start": "2023-08",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "National Technical University of Athens",
+            "Ph.D.": "Columbia University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/147/5178.html",
+        "name": "Jelena Diakonikolas",
+        "career": {
+            "University of Wisconsin-Madison": {
+                "department": "Computer Sciences",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2020-01",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of Belgrade",
+            "Ph.D.": "Columbia University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/135/6336.html",
+        "name": "Josiah Hanna",
+        "career": {
+            "University of Wisconsin-Madison": {
+                "department": "Computer Sciences",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2021-08",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of Kentucky",
+            "Ph.D.": "University of Texas at Austin"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/g/MohitGupta.html",
+        "name": "Mohit Gupta",
+        "career": {
+            "University of Wisconsin-Madison": {
+                "department": "Computer Sciences",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2016-01",
+                        "end": "2022-08"
+                    },
+                    "Associate Professor": {
+                        "start": "2022-08",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Indian Institute of Technology",
+            "Ph.D.": "Carnegie Mellon University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/128/3628.html",
+        "name": "Kirthevasan Kandasamy",
+        "career": {
+            "University of Wisconsin-Madison": {
+                "department": "Computer Sciences",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2022-08",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of Moratuwa",
+            "Ph.D.": "Carnegie Mellon University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/88/7458.html",
+        "name": "Yingyu Liang",
+        "career": {
+            "University of Wisconsin-Madison": {
+                "department": "Computer Sciences",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2018-07",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Tsinghua University",
+            "Ph.D.": "Georgia Institute of Technology"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/133/3602.html",
+        "name": "Frederic Sala",
+        "career": {
+            "University of Wisconsin-Madison": {
+                "department": "Computer Sciences",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2020-08",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of Michigan, Ann Arbor",
+            "Ph.D.": "University of California, Los Angeles"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/65/8569.html",
+        "name": "Shivaram Venkataraman",
+        "career": {
+            "University of Wisconsin-Madison": {
+                "department": "Computer Sciences",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2018-08",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Birla Institute of Technology and Science",
+            "Ph.D.": "University of California, Berkeley"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/z/XiaojinZhu.html",
+        "name": "Xiaojin (Jerry) Zhu",
+        "career": {
+            "University of Wisconsin-Madison": {
+                "department": "Computer Sciences",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2005-08",
+                        "end": "2011-08"
+                    },
+                    "Associate Professor": {
+                        "start": "2011-08",
+                        "end": "2016-08"
+                    },
+                    "Professor": {
+                        "start": "2016-08",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Shanghai Jiao Tong University",
+            "Ph.D.": "Carnegie Mellon University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/75/6117-2.html",
+        "name": "Grigorios Chrysos",
+        "career": {
+            "University of Wisconsin-Madison": {
+                "department": "Electrical and Computer Engineering",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2023-11",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "National Technical University of Athens",
+            "Ph.D.": "Imperial College London"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/88/9826-1.html",
+        "name": "Kangwook Lee",
+        "career": {
+            "Korea Advanced Institute of Science and Technology": {
+                "department": "Unknown",
+                "position": {
+                    "Research Assistant Professor": {
+                        "start": "2018-10",
+                        "end": "2019-06"
+                    }
+                }
+            },
+            "University of Wisconsin-Madison": {
+                "department": "Electrical and Computer Engineering",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2019-08",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Korea Advanced Institute of Science and Technology",
+            "Ph.D.": "University of California, Berkeley"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/199/1743-1.html",
+        "name": "Pedro Morgado",
+        "career": {
+            "University of Wisconsin-Madison": {
+                "department": "Electrical and Computer Engineering",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2022-08",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Instituto Superior Técnico at University of Lisbon",
+            "Ph.D.": "University of California, San Diego,"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/77/344.html",
+        "name": "Dimitris Papailiopoulos",
+        "career": {
+            "University of Wisconsin-Madison": {
+                "department": "Electrical and Computer Engineering",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2016-08",
+                        "end": "2022-06"
+                    },
+                    "Associate Professor": {
+                        "start": "2022-06",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Technical University of Crete",
+            "Ph.D.": "Usniversity of Southern California & University of Texas at Austin"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/148/9626.html",
+        "name": "Ramya Korlakai Vinayak",
+        "career": {
+            "University of Wisconsin-Madison": {
+                "department": "Electrical and Computer Engineering",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2020-08",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Indian Institute of Technology Madras",
+            "Ph.D.": "California Institute of Technology"
+        }
+    }
+]

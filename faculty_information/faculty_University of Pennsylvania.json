@@ -1,0 +1,296 @@
+[
+    {
+        "dblp": "https://dblp.org/pid/r/DanRoth.html",
+        "name": "Dan Roth",
+        "career": {
+            "University of Pennsylvania": {
+                "department": "Computer and Information Science",
+                "position": {
+                    "Eduardo D. Glandt Distinguished Professor": {
+                        "start": "2017-06",
+                        "end": null
+                    }
+                }
+            },
+            "University of Illinois Urbana-Champaign": {
+                "department": "Computer Science",
+                "position": {
+                    "Professor": {
+                        "start": "1997-07",
+                        "end": "2017-06"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "unkown",
+            "Ph.D.": "Harvard University"
+        }
+    },
+
+    {
+        "dblp": "https://dblp.org/pid/d/KostasDaniilidis.html",
+        "name": "Kostas Daniilidis",
+        "career": {
+            "Kiel University": {
+                "department": "Computer Science Institute",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "1993",
+                        "end": "1997"
+                    }
+                }
+            },
+            "University of Pennsylvania": {
+                "department": "Computer and Information Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "1998",
+                        "end": "2003"
+                    },
+                    "Associate Professor": {
+                        "start": "2003",
+                        "end": "2009"
+                    },
+                    "Professor": {
+                        "start": "2009",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "National Technical University of Athens",
+            "Ph.D.": "Karlsruhe Institute of Technology"
+        }
+    },
+
+    {
+        "dblp": "https://dblp.org/pid/v/ReneVidal.html",
+        "name": "René Vidal",
+        "career": {
+            "The Johns Hopkins University": {
+                "department": "Biomedical Engineering",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2004",
+                        "end": "2010"
+                    },
+                    "Associate Professor": {
+                        "start": "2010",
+                        "end": "2015"
+                    },
+                    "Full Professor": {
+                        "start": "2015",
+                        "end": null
+                    },
+                    "Hershel Seder Professor": {
+                        "start": "2018",
+                        "end": null
+                    }
+                }
+            },
+            "University of Pennsylvania": {
+                "department": "Electrical and Systems Engineering",
+                "position": {
+                    "Penn Integrates Knowledge University Professor": {
+                        "start": "2023-01",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Pontificia Universidad Católica de Chile",
+            "Ph.D.": "University of California, Berkeley"
+        }
+    },
+
+    {
+        "dblp": "https://dblp.org/pid/78/1408.html",
+        "name": "Chris Callison-Burch",
+        "career": {
+            "The Johns Hopkins University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Research Professor": {
+                        "start": "2007-06",
+                        "end": "2010-06"
+                    },
+                    "Associate Research Professor": {
+                        "start": "2010-06",
+                        "end": "2013-08"
+                    }
+                }
+            },
+            "University of Pennsylvania": {
+                "department": "Electrical and Systems Engineering",
+                "position": {
+                    "Aravind K. Joshi Term Assistant Professor": {
+                        "start": "2013-09",
+                        "end": "2017-06"
+                    },
+                    "Associate Professor": {
+                        "start": "2017-06",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Stanford University",
+            "Ph.D.": "University of Edinburgh"
+        }
+    },
+
+    {
+        "dblp": "https://dblp.org/pid/73/4984.html",
+        "name": "Hamed Hassani",
+        "career": {
+            "ETH Z¨urich": {
+                "department": "Computer Science",
+                "position": {
+                    "Postdoctoral researcher": {
+                        "start": "2014",
+                        "end": "2016"
+                    }
+                }
+            },
+            "University of California, Berkeley": {
+                "department": "Computer Science",
+                "position": {
+                    "Research associate": {
+                        "start": "2017-01",
+                        "end": "2017-06"
+                    }
+                }
+            },
+            "University of Pennsylvania": {
+                "department": "Electrical and Systems Engineering",
+                "position": {
+                    "Assistant professor": {
+                        "start": "2017-07",
+                        "end": "2023-06"
+                    },
+                    "Associate Professor": {
+                        "start": "2023-06",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Sharif University of Technology",
+            "Ph.D.": "Ecole Polytechnique F´ed´erale de Lausanne"
+        }
+    },
+
+    {
+        "dblp": "https://dblp.org/pid/21/11275.html",
+        "name": "Osbert Bastani",
+        "career": {
+            "Massachusetts Institute of Technology": {
+                "department": "Electrical Engineering and Computer Science",
+                "position": {
+                    " Postdoctoral Fellow in CSAIL": {
+                        "start": "2017",
+                        "end": "2018"
+                    }
+                }
+            },
+            "University of Pennsylvania": {
+                "department": "Computer and Information Sciences",
+                "position": {
+                    "Research Assistant Professor": {
+                        "start": "2018",
+                        "end": "2022"
+                    },
+                    "Assistant Professor": {
+                        "start": "2022",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Harvard University",
+            "Ph.D.": "Stanford University"
+        }
+    },
+
+    {
+        "dblp": "https://dblp.org/pid/80/3311.html",
+        "name": "Aaron L. Roth",
+        "career": {
+            "University of Pennsylvania": {
+                "department": "Computer Science",
+                "position": {
+                    "Raj and Neera Singh Assistant Professor": {
+                        "start": "2011-08",
+                        "end": "2016-06"
+                    },
+                    "Associate Professor": {
+                        "start": "2016-07",
+                        "end": "2020-06"
+                    },
+                    "Professor": {
+                        "start": "2020-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Columbia University",
+            "Ph.D.": "Carnegie Mellon University"
+        }
+    },
+
+    {
+        "dblp": "https://dblp.org/pid/71/3879.html",
+        "name": "Jianbo Shi",
+        "career": {
+            "University of Pennsylvania": {
+                "department": "Computer Science",
+                "position": {
+                    "Professor": {
+                        "start": "2003-01",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Cornell University",
+            "Ph.D.": "University of California, Berkeley"
+        }
+    },
+
+    {
+        "dblp": "https://dblp.org/pid/u/LyleHUngar.html",
+        "name": "Lyle Ungar",
+        "career": {
+            "University of Pennsylvania": {
+                "department": "Computer and Information Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "1984",
+                        "end": "1990"
+                    },
+                    "Associate Professor": {
+                        "start": "1990",
+                        "end": "2013"
+                    },
+                    "Professor": {
+                        "start": "2013",
+                        "end": null
+                    }               
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Stanford University",
+            "Ph.D.": "Massachusetts Institute of Technology"
+        }
+    }
+]

@@ -1,0 +1,608 @@
+[
+    {
+        "dblp": "https://dblp.org/pid/36/360-1.html",
+        "name": "Sean (Xiang) Ren",
+        "career": {
+            "University of Southern California": {
+                "department": "COMPUTER SCIENCE",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2017-12",
+                        "end": "2023-01"
+                    },
+                    "Associate Professor": {
+                        "start": "2023-01",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Zhejiang University",
+            "Master": "University of Illinois at Urbana-Champaign",
+            "Ph.D.": "University of Illinois at Urbana-Champaign"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/s/GauravSSukhatme.html",
+        "name": "Gaurav Sukhatme",
+        "career": {
+            "University of Southern California": {
+                "department": "COMPUTER SCIENCE",
+                "position": {
+                    "Professor": {
+                        "start": "1997-12",
+                        "end": null
+                    },
+                    "Chairman, Department of Computer Science": {
+                        "start": "2012-07",
+                        "end": "2017-06"
+                    },
+                    "Dean's Professor of Computer Science": {
+                        "start": "2014-12",
+                        "end": "2016-12"
+                    },
+                    "Gordon S. Marshall Professor": {
+                        "start": "2017-01",
+                        "end": "2017-08"
+                    },
+                    "Fletcher Jones Endowed Chair in Computer Science": {
+                        "start": "2017-08",
+                        "end": "2024-03"
+                    },
+                    "Executive Vice Dean": {
+                        "start": "2017-08",
+                        "end": null
+                    },
+                    "Director, USC School of Advanced Computing": {
+                        "start": "2024-01",
+                        "end": null
+                    },
+                    "Donald M. Alstadt Chair in Advanced Computing": {
+                        "start": "2024-01",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Indian Institute of Technology",
+            "Master": "University of Southern California",
+            "Ph.D.": "University of Southern California"
+        }
+    },
+    {
+        "dblp": null,
+        "name": "Haipeng Luo",
+        "career": {
+            "University of Southern California": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2017-07",
+                        "end": "2023-02"
+                    },
+                    "Associate Professor": {
+                        "start": "2023-02",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Peking University",
+            "Master": null,
+            "Ph.D.": "Princeton University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/13/3601.html",
+        "name": "Fei Sha",
+        "career": {
+            "University of Southern California": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2008-08",
+                        "end": "2014-03"
+                    },
+                    "Associate Professor": {
+                        "start": "2014-04",
+                        "end": "2020-05"
+                    },
+                    "Professor": {
+                        "start": "2020-05",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": null,
+            "Master": "Southeast University",
+            "Ph.D.": "University of Pennsylvania"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/k/SvenKoenig.html",
+        "name": "Sven Koenig",
+        "career": {
+            "University of Southern California": {
+                "department": "Computer Science",
+                "position": {
+                    "Associate, Full and Dean's Professor": {
+                        "start": "2003",
+                        "end": "2024"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of Hamburg",
+            "Master": [
+                "University of California at Berkeley",
+                "Carnegie Mellon University"
+            ],
+            "Ph.D.": "Carnegie Mellon University"
+        }
+    },
+    {
+        "dblp": "",
+        "name": "Yan Liu",
+        "career": {
+            "University of Southern California": {
+                "department": "Computer Science Department, Viterbi School of Engineering",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2010-08",
+                        "end": "2016-04"
+                    },
+                    "Associate Professor": {
+                        "start": "2016-04",
+                        "end": "2021-01"
+                    },
+                    "Professor": {
+                        "start": "2021-01",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Peking University",
+            "Master": [
+                "Carnegie Mellon University"
+            ],
+            "Ph.D.": "Carnegie Mellon University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/n/RamakantNevatia.html",
+        "name": "Ram Nevatia",
+        "career": {
+            "University of Southern California": {
+                "department": "Computer Science and Electrical and Computer Engineering",
+                "position": {
+                    "Fletcher Jones Professor in Computer Science and Professor": {
+                        "start": null,
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": null,
+            "Master": null,
+            "Ph.D.": "Stanford University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/30/5718.html",
+        "name": "Bistra Dilkina",
+        "career": {
+            "University of Southern California": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2018",
+                        "end": "2020"
+                    },
+                    "Associate Professor": {
+                        "start": "2020",
+                        "end": null
+                    },
+                    "co-Director": {
+                        "start": "2020",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Simon Fraser University",
+            "Master": "Cornell University",
+            "Ph.D.": "Cornell University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/182/2556.html",
+        "name": "Robin Jia",
+        "career": {
+            "University of Southern California": {
+                "department": "Thomas Lord Department of Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2021",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Stanford University",
+            "Master": null,
+            "Ph.D.": "Stanford University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/08/8178.html",
+        "name": "Dani Yogatama ",
+        "career": {
+            "University of Southern California": {
+                "department": "Department of Computer Science",
+                "position": {
+                    "Associate Professor": {
+                        "start": "2022",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Institut Teknologi Bandung",
+            "Master": "University of Tokyo",
+            "Ph.D.": "Carnegie Mellon University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/120/7593.html",
+        "name": "Willie Neiswanger",
+        "career": {
+            "Carnegie Mellon University": {
+                "department": "Machine Learning Department",
+                "position": {
+                    "Postdoctoral Associate": {
+                        "start": "2019-09",
+                        "end": "2020-08"
+                    }
+                }
+            },
+            "Stanford University": {
+                "department": "Stanford AI Lab and StatsML Group",
+                "position": {
+                    "Postdoctoral Researcher": {
+                        "start": "2020-09",
+                        "end": "2023-09"
+                    }
+                }
+            },
+            "University of Southern California": {
+                "department": "Viterbi School of Engineering and School of Advanced Computing",
+                "position": {
+                    "Assistant Professor of Computer Science": {
+                        "start": "2024-01",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Columbia University",
+            "Master": null,
+            "Ph.D.": "Carnegie Mellon University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/31/3256.html",
+        "name": "Laurent Itti",
+        "career": {
+            "University of Southern California": {
+                "department": "Computer Science, Psychology, and Neuroscience",
+                "position": {
+                    "Professor": {
+                        "start": "2000",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Lycée Descartes",
+            "Master": "Ecole Nationale Supérieure des Télécommunications",
+            "Ph.D.": "California Institute of Technology"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/130/2863.html",
+        "name": "Jesse Thomason",
+        "career": {
+            "University of Washington": {
+                "department": "",
+                "position": {
+                    "Research Associate": {
+                        "start": "2018-06",
+                        "end": "2020-08"
+                    }
+                }
+            },
+            "University of Southern California": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2021-08",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of Pittsburgh",
+            "Master": null,
+            "Ph.D.": "The University of Texas at Austin"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/52/4897.html",
+        "name": "Ulrich Neumann",
+        "career": {
+            "University of Southern California": {
+                "department": "Computer Science and Electrical and Computer Engineering",
+                "position": {
+                    "Professor": {
+                        "start": null,
+                        "end": null
+                    },
+                    "Director": {
+                        "start": "2000",
+                        "end": "2004"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "State University of New York at Buffalo",
+            "Master": "State University of New York at Buffalo",
+            "Ph.D.": "University of North Carolina at Chapel Hill"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/75/6691.html",
+        "name": "Mahdi Soltanolkotabi",
+        "career": {
+            "University of Southern California": {
+                "department": "Electrical and Computer Engineering, Computer Science, and Industrial and Systems Engineering",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2015-08",
+                        "end": "2021-05"
+                    },
+                    "Andrew & Erna Viterbi Early Career Chair": {
+                        "start": "2018-10",
+                        "end": null
+                    },
+                    "Associate Professor": {
+                        "start": "2021-05",
+                        "end": null
+                    },
+                    "Director": {
+                        "start": "2022-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Sharif University of Technology",
+            "Master": "Stanford University",
+            "Ph.D.": "Stanford University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/63/1946.html",
+        "name": "Salman Avestimehr",
+        "career": {
+            "Cornell University": {
+                "department": "School of Electrical and Computer Engineering (ECE)",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2009-06-01",
+                        "end": "2013-12-31"
+                    }
+                }
+            },
+            "University of Southern California": {
+                "department": "Electrical & Computer Engineering Dept. (ECE)",
+                "position": {
+                    "Associate Professor": {
+                        "start": "2014-01-01",
+                        "end": "2018-12-01"
+                    },
+                    "Full Professor": {
+                        "start": "2018-12-01",
+                        "end": null
+                    },
+                    "Dean's Professor": {
+                        "start": "2021-03-01",
+                        "end": null
+                    },
+                    "Inaugural Director": {
+                        "start": "2021-02-01",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Sharif University of Technology",
+            "Master": "UC Berkeley",
+            "Ph.D.": "UC Berkeley"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/k/CCJayKuo.html",
+        "name": "C.-C. Jay Kuo",
+        "career": {
+            "University of California, Los Angeles": {
+                "department": "Department of Mathematics",
+                "position": {
+                    "Computational and Applied Mathematics Research Assistant Professor": {
+                        "start": "1987-10",
+                        "end": "1988-12"
+                    }
+                }
+            },
+            "University of Southern California": {
+                "department": "Electrical Engineering",
+                "position": {
+                    "Dean's Professor": {
+                        "start": "1989-01",
+                        "end": null
+                    },
+                    "Director": {
+                        "start": null,
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "National Taiwan University",
+            "Master": "Massachusetts Institute of Technology",
+            "Ph.D.": "Massachusetts Institute of Technology"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/59/2379.html",
+        "name": "Jieyu Zhao",
+        "career": {
+            "University of Maryland": {
+                "department": "",
+                "position": {
+                    "Postdoctoral Researcher": {
+                        "start": "2022-01",
+                        "end": "2023-06"
+                    }
+                }
+            },
+            "University of Southern California": {
+                "department": "Computer Science",
+                "position": {
+                    "WiSE Gabilan Assistant Professor": {
+                        "start": "2023-08",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Beihang University",
+            "Master": "Beihang University",
+            "Ph.D.": "University of California, Los Angeles"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/121/2036.html",
+        "name": "Swabha Swayamdipta",
+        "career": {
+            "Columbia University": {
+                "department": "",
+                "position": {
+                    "Graduate Research Assistant": {
+                        "start": "2011-09",
+                        "end": "2013-06"
+                    }
+                }
+            },
+            "Carnegie Mellon University": {
+                "department": "",
+                "position": {
+                    "Research Assistant": {
+                        "start": "2013-01",
+                        "end": "2019-12"
+                    }
+                }
+            },
+            "University of Southern California": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2022-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "National Institute of Technology, Calicut",
+            "Master": "Columbia University",
+            "Ph.D.": "Carnegie Mellon University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/126/2543.html",
+        "name": "Vatsal Sharan",
+        "career": {
+            "Massachusetts Institute of Technology": {
+                "department": "Institute for Data, Systems & Society",
+                "position": {
+                    "Norbert Weiner Postdoctoral Associate": {
+                        "start": "2020",
+                        "end": "2021"
+                    }
+                }
+            },
+            "University of Southern California": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2021-09",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Indian Institute of Technology Kanpur",
+            "Ph.D.": "Stanford University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/204/3011.html",
+        "name": "Evi Micha",
+        "career": {
+            "Harvard University": {
+                "department": "",
+                "position": {
+                    "Postdoctoral Fellow": {
+                        "start": "2023-09",
+                        "end": "2024-07"
+                    }
+                }
+            },
+            "University of Southern California": {
+                "department": "",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2024-08",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of Patras",
+            "Master": "University of Patras",
+            "Ph.D.": "University of Toronto"
+        }
+    }
+]

@@ -1,0 +1,434 @@
+[
+    {
+        "dblp": "https://dblp.org/pid/32/909.html",
+        "name": "Ryan P. Adams",
+        "career": {
+            "Harvard University": {
+                "department": "Engineering and Applied Sciences",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2011-08",
+                        "end": "2016-12"
+                    }
+                }
+            },
+            "Princeton University": {
+                "department": "Computer Science",
+                "position": {
+                    "Professor": {
+                        "start": "2017-01",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Massachusetts Institute of Technology",
+            "Ph.D.": "University of Cambridge"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/a/SArora.html",
+        "name": "Sanjeev Arora",
+        "career": {
+            "Princeton University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "1994-09",
+                        "end": "1999-01"
+                    },
+                    "Associate Professor": {
+                        "start": "1999-02",
+                        "end": "2003-08"
+                    },
+                    "Professor": {
+                        "start": "2003-09",
+                        "end": "2011-08"
+                    },
+                    "Distinguished Professor": {
+                        "start": "2011-09",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Massachusetts Institute of Technology",
+            "Ph.D.": "University of California, Berkeley"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/87/7949.html",
+        "name": "Danqi Chen",
+        "career": {
+            "Princeton University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2018-09",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Tsinghua University",
+            "Ph.D.": "Stanford University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/206/7018.html",
+        "name": "Tri Dao",
+        "career": {
+            "Princeton University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2024-01",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Ph.D.": "Stanford University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/07/6526-1.html",
+        "name": "Jia Deng",
+        "career": {
+            "University of Michigan": {
+                "department": "Computer Science and Engineering",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2014-09",
+                        "end": "2018-08"
+                    }
+                }
+            },
+            "Princeton University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2018-09",
+                        "end": "2023-01"
+                    },
+                    "Associate Professor": {
+                        "start": "2023-02",
+                        "end": null
+                    }
+                }
+            }
+            
+        },
+        "education": {
+            "Bachelor": "Tsinghua University",
+            "Ph.D.": "Princeton University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/188/6478.html",
+        "name": "Adji Bousso Dieng",
+        "career": {
+            "Princeton University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2021-09",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Ph.D.": "Columbia University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/192/1863.html",
+        "name": "Benjamin Eysenbach",
+        "career": {
+            "Princeton University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2023-09",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Ph.D.": "Carnegie Mellon University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/72/739.html",
+        "name": "Elad Hazan",
+        "career": {
+            "Princeton University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2015-01",
+                        "end": "2016-06"
+                    },
+                    "Professor": {
+                        "start": "2016-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Tel Aviv University",
+            "Ph.D.": " Princeton University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/h/PeterHenderson2.html",
+        "name": "Peter Henderson",
+        "career": {
+            "Princeton University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2023-09",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Ph.D.": "Stanford University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/08/1446.html",
+        "name": "Aleksandra Korolova",
+        "career": {
+            "University of Southern California": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2015-08",
+                        "end": "2022-06"
+                    }
+                }
+            },
+            "Princeton University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2022-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Massachusetts Institute of Technology",
+            "Ph.D.": "Stanford University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/217/1651.html",
+        "name": "Lydia T. Liu",
+        "career": {
+            "Princeton University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2024-01",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Ph.D.": "University of California, Berkeley"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/52/6883.html",
+        "name": "Olga Russakovsky",
+        "career": {
+            "Princeton University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2017-09",
+                        "end": "2023-09"
+                    },
+                    "Associate Professor": {
+                        "start": "2023-10",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Stanford University",
+            "Ph.D.": "Stanford University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/193/8335.html",
+        "name": "Ellen D. Zhong",
+        "career": {
+            "Princeton University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2022-09",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of Virginia",
+            "Ph.D.": "Massachusetts Institute of Technology"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/147/0322.html",
+        "name": "Karthik Narasimhan",
+        "career": {
+            "Princeton University": {
+                "department": "Computer Science",
+                "position": {
+                    "Associate Professor": {
+                        "start": "2018-08",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Indian Institute of Technology, Madras",
+            "Ph.D.": "Massachusetts Institute of Technology"
+        }
+    },
+    {
+        "dblp": "",
+        "name": "Mengdi Wang",
+        "career": {
+            "Princeton University": {
+                "department": "Electrical and Computer Engineering",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2014-09",
+                        "end": "2019-08"
+                    },
+                    "Associate Professor": {
+                        "start": "2019-09",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Tsinghua University",
+            "Ph.D.": "Massachusetts Institute of Technology"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/88/3262.html",
+        "name": "Jason D. Lee",
+        "career": {
+            "University of Southern California": {
+                "department": "Data Science and Operations ",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2016-08",
+                        "end": "2019-08"
+                    }
+                }
+            },
+            "Princeton University": {
+                "department": "Electrical and Computer Engineering",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2019-09",
+                        "end": "2022-08"
+                    },
+                    "Associate Professor": {
+                        "start": "2022-09",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Duke University",
+            "Ph.D.": "Stanford University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/01/9396.html",
+        "name": "Felix Heide",
+        "career": {
+            "Princeton University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2020-09",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Ph.D.": "The University of British Columbia"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/126/1802-1.html",
+        "name": "Chi Jin",
+        "career": {
+            "Princeton University": {
+                "department": "Electrical and Computer Engineering",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2019-09",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Peking University",
+            "Ph.D.": "University of California, Berkeley"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/39/6266.html",
+        "name": "Prateek Mittal",
+        "career": {
+            "Princeton University": {
+                "department": "Electrical and Computer Engineering",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2013-07",
+                        "end": "2018-07"
+                    },
+                    "Associate Professor": {
+                        "start": "2018-08",
+                        "end": "2022-06"
+                    },
+                    "Professor": {
+                        "start": "2022-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Indian Institute of Technology, Guwahati",
+            "Ph.D.": "University of Illinois at Urbana-Champaign"
+        }
+    }
+]

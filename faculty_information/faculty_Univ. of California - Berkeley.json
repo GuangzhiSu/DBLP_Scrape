@@ -1,0 +1,1336 @@
+[
+    {
+        "dblp": "https://dblp.org/pid/80/7594.html",
+        "name": "Sergey Levine",
+        "career": {
+            "Univ. of California - Berkeley": {
+                "department": "Electrical Engineering and Computer Sciences",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2016-08",
+                        "end": "2021-07"
+                    },
+                    "Associate Professor": {
+                        "start": "2021-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Stanford University",
+            "Ph.D.": "Stanford University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/a/PieterAbbeel.html",
+        "name": "Pieter Abbeel",
+        "career": {
+            "Univ. of California - Berkeley": {
+                "department": "Electrical Engineering and Computer Sciences",
+                "position": {
+                    "Professor": {
+                        "start": "2008-08",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Katholieke Universiteit Leuven",
+            "Ph.D.": "Stanford University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/d/TrevorDarrell.html",
+        "name": "Trevor Darrell",
+        "career": {
+            "Massachusetts Institute of Technology": {
+                "department": "Electrical Engineering and Computer Science",
+                "position": {
+                    "Professor": {
+                        "start": "2000",
+                        "end": "2008-01"
+                    }
+                }
+            },
+            "Univ. of California - Berkeley": {
+                "department": "Electrical Engineering and Computer Sciences",
+                "position": {
+                    "Professor": {
+                        "start": "2008-01",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Massachusetts Institute of Technology",
+            "Ph.D.": "Massachusetts Institute of Technology"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/j/MichaelIJordan.html",
+        "name": "Michael I. Jordan",
+        "career": {
+            "Massachusetts Institute of Technology": {
+                "department": "Brain and Cognitive Sciences",
+                "position": {
+                    "Associate Professor": {
+                        "start": "1992",
+                        "end": "1997"
+                    },
+                    "Professor": {
+                        "start": "1997",
+                        "end": "1998"
+                    }
+                }
+            },
+            "Tsinghua University": {
+                "department": "Software",
+                "position": {
+                    "Distinguished Visiting Professor": {
+                        "start": "2017",
+                        "end": "2019"
+                    },
+                    "Honorary Professor": {
+                        "start": "2023",
+                        "end": null
+                    }
+                }
+            },
+            "Univ. of California - Berkeley": {
+                "department": "Statistics",
+                "position": {
+                    "Chair": {
+                        "start": "2015",
+                        "end": "2017"
+                    }
+                }
+            },
+            "Univ. of California - Berkeley": {
+                "department": "Electrical Engineering and Computer Sciences",
+                "position": {
+                    "Chair": {
+                        "start": "1998",
+                        "end": null
+                    }
+                }
+            },
+            "Peking University": {
+                "department": "Software",
+                "position": {
+                    "Distinguished Visiting Professor": {
+                        "start": "2017",
+                        "end": "2019"
+                    },
+                    "Honorary Professor": {
+                        "start": "2018",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Louisiana State University",
+            "Ph.D.": "Univ. of California - San Diego"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/40/6158.html",
+        "name": "Alexei A. Efros",
+        "career": {
+            "University of Oxford": {
+                "department": "Engineering Science",
+                "position": {
+                    "Postdoctoral Fellow": {
+                        "start": "2003",
+                        "end": "2004"
+                    }
+                }
+            },
+            "École normale supérieure": {
+                "department": "unknown",
+                "position": {
+                    "Visiting Scientist": {
+                        "start": "2009-01",
+                        "end": "2009-12"
+                    }
+                }
+            },
+            "Carnegie Mellon University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2004",
+                        "end": "2010"
+                    },
+                    "Associate Professor": {
+                        "start": "2010",
+                        "end": "2013-06"
+                    }
+                }
+            },
+            "Univ. of California - Berkeley": {
+                "department": "Electrical Engineering and Computer Sciences",
+                "position": {
+                    "Associate Professor": {
+                        "start": "2013-07",
+                        "end": "2017-07"
+                    },
+                    "Professor": {
+                        "start": "2017-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Univ. of California - Berkeley",
+            "Ph.D.": "University of Utah"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/g/KennethYGoldberg.html",
+        "name": "Kenneth Y. Goldberg",
+        "career": {
+            "Univ. of California - Berkeley": {
+                "department": "Electrical Engineering and Computer Sciences",
+                "position": {
+                    "Professor": {
+                        "start": "2007-01",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Cornell University",
+            "Ph.D.": "Stanford University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/31/9969.html",
+        "name": "Anca D. Dragan",
+        "career": {
+            "Univ. of California - Berkeley": {
+                "department": "Electrical Engineering and Computer Sciences",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2015",
+                        "end": "2021"
+                    },
+                    "Associate Professor": {
+                        "start": "2021",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Jacobs University Bremen",
+            "Ph.D.": "Carnegie Mellon University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/k/KurtKeutzer.html",
+        "name": "Kurt Keutzer",
+        "career": {
+            "Univ. of California - Berkeley": {
+                "department": "Electrical Engineering and Computer Sciences",
+                "position": {
+                    "Professor": {
+                        "start": "1997",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Maharishi International University",
+            "Ph.D.": "Indiana University Bloomington"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/61/8262.html",
+        "name": "Joseph Gonzalez",
+        "career": {
+            "Univ. of California - Berkeley": {
+                "department": "Electrical Engineering and Computer Sciences",
+                "position": {
+                    "Postdoc": {
+                        "start": "2013-01",
+                        "end": "2015-12"
+                    },
+                    "Associate Professor": {
+                        "start": "2016-01",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "California Institute of Technology",
+            "Ph.D.": "Carnegie Mellon University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/s/DXSong.html",
+        "name": "Dawn Song",
+        "career": {
+            "Carnegie Mellon University": {
+                "department": "Electrical and Computer Engineering",
+                "position": {
+                    "Professor": {
+                        "start": "2002",
+                        "end": "2007"
+                    }
+                }
+            },
+            "Univ. of California - Berkeley": {
+                "department": "Electrical Engineering and Computer Sciences",
+                "position": {
+                    "Professor": {
+                        "start": "2007",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Tsinghu University",
+            "Ph.D.": "Univ. of California - Berkeley"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/119/1305.html",
+        "name": "Angjoo Kanazawa",
+        "career": {
+            "Univ. of California - Berkeley": {
+                "department": "Electrical Engineering and Computer Sciences",
+                "position": {
+                    "Postdoctoral Scholar": {
+                        "start": "2017",
+                        "end": "2019-06"
+                    },
+                    "Assistant Professor": {
+                        "start": "2019-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "New York University",
+            "Ph.D.": "University of Maryland"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/r/SJRussell.html",
+        "name": "Stuart Russell",
+        "career": {
+            "Univ. of California - Berkeley": {
+                "department": "Computer Science Division",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "1986",
+                        "end": "1991"
+                    },
+                    "Associate Professor": {
+                        "start": "1991",
+                        "end": "1996"
+                    },
+                    "Professor": {
+                        "start": "1996",
+                        "end": null
+                    },
+                    "Chair": {
+                        "start": "2006",
+                        "end": "2010"
+                    }
+                }
+            },
+            "Univ. of California - Berkeley": {
+                "department": "Electrical Engineering and Computer Sciences",
+                "position": {
+                    "Chair": {
+                        "start": "2008",
+                        "end": "2010"
+                    },
+                    "Associate Professor": {
+                        "start": "1991",
+                        "end": "1996"
+                    }
+                }
+            },
+            "University of California San Francisco": {
+                "department": "Neurological Surgery",
+                "position": {
+                    "Adjunct Professor": {
+                        "start": "2008",
+                        "end": "2011"
+                    }
+                }
+            },
+            "University of California San Francisco": {
+                "department": "Computational Precision Health",
+                "position": {
+                    "Professor": {
+                        "start": "2024",
+                        "end": null
+                    }
+                }
+            },
+            "Université Pierre et Marie Curie": {
+                "department": "unknown",
+                "position": {
+                    "Professeur Invité": {
+                        "start": "2012",
+                        "end": "2014"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of Oxford",
+            "Ph.D.": "Stanford University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/35/10625.html",
+        "name": "Jacob Steinhardt",
+        "career": {
+            "Univ. of California - Berkeley": {
+                "department": "Statistics",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2019-08",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Massachusetts Institute of Technology",
+            "Ph.D.": "Stanford University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/g/VenkatesanGuruswami.html",
+        "name": "Venkatesan Guruswami",
+        "career": {
+            "University of Washington": {
+                "department": "Computer Science and Engineering",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2002-09",
+                        "end": "2007-09"
+                    },
+                    "Associate Professor": {
+                        "start": "2007-09",
+                        "end": "2009-06"
+                    }
+                }
+            },
+            "Harvard University": {
+                "department": "Center for Mathematical Sciences and Applications",
+                "position": {
+                    "Visitng Professor": {
+                        "start": "2018-03",
+                        "end": "2018-05"
+                    }
+                }
+            },
+            "Carnegie Mellon University": {
+                "department": "Computer Science",
+                "position": {
+                    "Visiting Associate Professor": {
+                        "start": "2008-09",
+                        "end": "2009-06"
+                    },
+                    "Associate Professor": {
+                        "start": "2009-07",
+                        "end": "2014-06"
+                    },
+                    "Professor": {
+                        "start": "2014-07",
+                        "end": "2021-12"
+                    }
+                }
+            },
+            "Univ. of California - Berkeley": {
+                "department": "Mathematics",
+                "position": {
+                    "Professor": {
+                        "start": "2022-01",
+                        "end": null
+                    }
+                }
+            },
+            "Univ. of California - Berkeley": {
+                "department": "Electrical Engineering and Computer Sciences",
+                "position": {
+                    "Chancellor’s Professor": {
+                        "start": "2022-01",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Indian Institute of Technology",
+            "Ph.D.": "Massachusetts Institute of Technology"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/33/5817.html",
+        "name": "Sanjam Garg",
+        "career": {
+            "Univ. of California - Berkeley": {
+                "department": "Electrical Engineering and Computer Sciences",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2014-07",
+                        "end": "2020-06"
+                    },
+                    "Associate Professor": {
+                        "start": "2020-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Indian Institute of Technology",
+            "Ph.D.": "Univ. of California - Los Angeles"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/34/7142.html",
+        "name": "Claire J. Tomlin",
+        "career": {
+            "Stanford University": {
+                "department": "Aeronautics and Astronautics",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "1998-09",
+                        "end": "2004"
+                    },
+                    "Associate Professor": {
+                        "start": "2004",
+                        "end": "2007"
+                    },
+                    "Professor": {
+                        "start": "2007",
+                        "end": "2007-12"
+                    }
+                }
+            },
+            "Univ. of California - Berkeley": {
+                "department": "Electrical Engineering and Computer Sciences",
+                "position": {
+                    "Charles A. Desoer Professor": {
+                        "start": "2005.07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of Waterloo",
+            "Ph.D.": "Univ. of California - Berkeley"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/68/4020.html",
+        "name": "Peter L. Bartlett",
+        "career": {
+            "Queensland University of Technology": {
+                "department": "Mathematical Sciences",
+                "position": {
+                    "Professor": {
+                        "start": "2011",
+                        "end": "2017"
+                    }
+                }
+            },
+            "Univ. of California - Berkeley": {
+                "department": "Electrical Engineering and Computer Sciences",
+                "position": {
+                    "Associate Director": {
+                        "start": "2017-07",
+                        "end": "2022-07"
+                    },
+                    "Professor": {
+                        "start": "2023-01",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "The University of Queensland",
+            "Ph.D.": "The University of Queensland"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/92/443.html",
+        "name": "Björn Hartmann ",
+        "career": {
+            "Univ. of California - Berkeley": {
+                "department": "Electrical Engineering and Computer Sciences",
+                "position": {
+                    "Associate Professor": {
+                        "start": "2009-12",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of Pennsylvania",
+            "Ph.D.": "Stanford University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/15/6952.html",
+        "name": "Ronald S. Fearing",
+        "career": {
+            "Univ. of California - Berkeley": {
+                "department": "Electrical Engineering and Computer Sciences",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "1988",
+                        "end": "unknown"
+                    },
+                    "Associate Professor": {
+                        "start": "unknown",
+                        "end": "unknown"
+                    },
+                    "Professor": {
+                        "start": "unknown",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Massachusetts Institute of Technology",
+            "Ph.D.": "Stanford University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/69/1112-1.html",
+        "name": "Yi Ma",
+        "career": {
+            "University of Illinois at Urbana-Champaign": {
+                "department": "Electrical & Computer Engineering",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2000-08",
+                        "end": "2006-08"
+                    },
+                    "Affiliate Associate Professor": {
+                        "start": "2009-08",
+                        "end": null
+                    },
+                    "Associate Professor": {
+                        "start": "2006-08",
+                        "end": "2011-12"
+                    },
+                    "Adjunct Associate Professor": {
+                        "start": "2012-01",
+                        "end": null
+                    }
+                }
+            },
+            "Univ. of California - Berkeley": {
+                "department": "Electrical Engineering and Computer Sciences",
+                "position": {
+                    "Visiting Professor": {
+                        "start": "2007",
+                        "end": "2007"
+                    },
+                    "Professor in residence": {
+                        "start": "2018-01",
+                        "end": null
+                    }
+                }
+            },
+            "ShanghaiTech University": {
+                "department": "Information Science and Technology",
+                "position": {
+                    "Executive Dean": {
+                        "start": "2014-09",
+                        "end": "2017-03"
+                    },
+                    "Professor": {
+                        "start": "2014-02",
+                        "end": "2017-11"
+                    }
+                }
+            },
+            "Tsinghua-Berkeley Shenzhen Institute": {
+                "department": "Imaging Science Lab",
+                "position": {
+                    "Affiliate Professor": {
+                        "start": "2018-03",
+                        "end": null
+                    }
+                }
+            },
+            "University of Hong Kong": {
+                "department": "Institute of Data Science",
+                "position": {
+                    "Inaugural Director": {
+                        "start": "2023-01",
+                        "end": null
+                    }
+                }
+            },
+            "University of Hong Kong": {
+                "department": "Computer Science",
+                "position": {
+                    "Head": {
+                        "start": "2023-01",
+                        "end": null
+                    }
+                }
+            },
+            "University of Hong Kong": {
+                "department": "Computing and Data Science",
+                "position": {
+                    "Inaugural Director": {
+                        "start": "2024-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Tsinghua University",
+            "Ph.D.": "Univ. of California - Berkeley"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/149/1265.html",
+        "name": "Nika Haghtalab",
+        "career": {
+            "Cornell University": {
+                "department": "Electrical Engineering and Computer Sciences",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2019-07",
+                        "end": "2020-12"
+                    }
+                }
+            },
+            "Univ. of California - Berkeley": {
+                "department": "Electrical Engineering and Computer Sciences",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2021-01",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of Waterloo",
+            "Ph.D.": "Carnegie Mellon University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/r/BenRecht.html",
+        "name": "Benjamin Recht",
+        "career": {
+            "California Institute of Technology": {
+                "department": "Center for the Mathematics of Information",
+                "position": {
+                    "Postdoctoral Fellow": {
+                        "start": "unknown",
+                        "end": "unknown"
+                    }
+                }
+            },
+            "University of Wisconsin-Madison": {
+                "department": "Computer Sciences",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "unknown",
+                        "end": "unknown"
+                    }
+                }
+            },
+            "Univ. of California - Berkeley": {
+                "department": "Electrical Engineering and Computer Sciences",
+                "position": {
+                    "Professor": {
+                        "start": "unknown",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of Chicago",
+            "Ph.D.": "Massachusetts Institute of Technology"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/s/IonStoica.html",
+        "name": "Ion Stoica",
+        "career": {
+            "Univ. of California - Berkeley": {
+                "department": "Computer Science Division",
+                "position": {
+                    "Professor": {
+                        "start": "2000",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "unknown",
+            "Ph.D.": "Carnegie Mellon University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/c/JohnFCanny.html",
+        "name": "John F. Canny",
+        "career": {
+            "Univ. of California - Berkeley": {
+                "department": "Electrical Engineering and Computer Sciences",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "1987",
+                        "end": "unknown"
+                    },
+                    "Associate Professor": {
+                        "start": "unknown",
+                        "end": "unknown"
+                    },
+                    "Professor": {
+                        "start": "unknown",
+                        "end": "unknown"
+                    },
+                    "Stacy Jacobs Distinguished Professor": {
+                        "start": "unknown",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Adelaide University in South Australia",
+            "Ph.D.": "Massachusetts Institute of Technology"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/54/960.html",
+        "name": "Eric Paulos",
+        "career": {
+            "Carnegie Mellon University": {
+                "department": "Computer Science",
+                "position": {
+                    "Cooper-Siegel Associate Professor Chair": {
+                        "start": "unknown",
+                        "end": "unknown"
+                    }
+                }
+            },
+            "Univ. of California - Berkeley": {
+                "department": "Electrical Engineering and Computer Sciences",
+                "position": {
+                    "Professor": {
+                        "start": "unknown",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "unknown",
+            "Ph.D.": "Univ. of California - Berkeley"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/68/3296.html",
+        "name": "Jelani Nelson",
+        "career": {
+            "Princeton University": {
+                "department": "Computer Science",
+                "position": {
+                    "Postdoc": {
+                        "start": "2012-01",
+                        "end": "2012-08"
+                    }
+                }
+            },
+            "Harvard University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2013-07",
+                        "end": "2017-06"
+                    },
+                    "John L.Loeb Associate Professor of Engineering and Applied Sciences": {
+                        "start": "2017-07",
+                        "end": "2019-06"
+                    },
+                    "Associate Professor": {
+                        "start": "2017-07",
+                        "end": "2019-06"
+                    }
+                }
+            },
+            "Univ. of California - Berkeley": {
+                "department": "Electrical Engineering and Computer Sciences",
+                "position": {
+                    "Professor": {
+                        "start": "2019-07",
+                        "end": null
+                    }
+                }
+            },
+            "Univ. of California - Berkeley": {
+                "department": "Computer Science Division",
+                "position": {
+                    "Chair": {
+                        "start": "2024-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Massachusetts Institute of Technology",
+            "Ph.D.": "Massachusetts Institute of Technology"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/38/5510.html",
+        "name": "Ren Ng",
+        "career": {
+            "Univ. of California - Berkeley": {
+                "department": "Electrical Engineering and Computer Sciences",
+                "position": {
+                    "Professor": {
+                        "start": "2015-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Stanford University",
+            "Ph.D.": "Stanford University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/93/8727.html",
+        "name": "Avishay Tal",
+        "career": {
+            "Stanford University ": {
+                "department": "unknown",
+                "position": {
+                    "Postdoc": {
+                        "start": "unknown",
+                        "end": "unknown"
+                    }
+                }
+            },
+            "Univ. of California - Berkeley": {
+                "department": "Electrical Engineering and Computer Sciences",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "unknown",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "The Technion",
+            "Ph.D.": "Weizmann Institute of Science"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/43/8919.html",
+        "name": "Jiantao Jiao",
+        "career": {
+            "Univ. of California - Berkeley": {
+                "department": "Statistics",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2018-09",
+                        "end": null
+                    }
+                }
+            },
+            "Univ. of California - Berkeley": {
+                "department": "Electrical Engineering and Computer Sciences",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2018-09",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "unknown",
+            "Ph.D.": "Stanford University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/48/6396.html",
+        "name": "Martin J. Wainwright",
+        "career": {
+            "Univ. of California - Berkeley": {
+                "department": "Electrical Engineering and Computer Sciences",
+                "position": {
+                    "Professor": {
+                        "start": "unknown",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of Waterloo",
+            "Ph.D.": "Massachusetts Institute of Technology"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/53/5765.html",
+        "name": "Kannan Ramchandran",
+        "career": {
+            "University of Illinois Urbana-Champaign": {
+                "department": "Electrical & Computer Engineering",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "1993",
+                        "end": "1999"
+                    }
+                }
+            },
+            "Univ. of California - Berkeley": {
+                "department": "Electrical Engineering and Computer Sciences",
+                "position": {
+                    "Gilbert Henry Gates Endowed Chair": {
+                        "start": "1999",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "City College of New York",
+            "Ph.D.": "Columbia University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/h/MartiAHearst.html",
+        "name": "Marti A. Hearst",
+        "career": {
+            "Harvard University": {
+                "department": "Computer Science",
+                "position": {
+                    "Visiting Professor": {
+                        "start": "2000",
+                        "end": "2000"
+                    }
+                }
+            },
+            "Univ. of California - Berkeley": {
+                "department": "School of Information",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "1997",
+                        "end": "2002"
+                    },
+                    "Associate Professor": {
+                        "start": "2002",
+                        "end": "2008"
+                    },
+                    "Professor": {
+                        "start": "2015",
+                        "end": null
+                    },
+                    "Head": {
+                        "start": "2022",
+                        "end": "2023"
+                    },
+                    "Interim Dean": {
+                        "start": "2023",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Univ. of California - Berkeley",
+            "Ph.D.": "Univ. of California - Berkeley"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/39/5799.html",
+        "name": "David Bamman",
+        "career": {
+            "Univ. of California - Berkeley": {
+                "department": "School of Information",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2015-07",
+                        "end": "2021-06"
+                    },
+                    "Associate Professor": {
+                        "start": "2021-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of Wisconsin-Madison",
+            "Ph.D.": "Carnegie Mellon University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/69/3746.html",
+        "name": "Prasad Raghavendra",
+        "career": {
+            "Univ. of California - Berkeley": {
+                "department": "Electrical Engineering and Computer Sciences",
+                "position": {
+                    "Professor": {
+                        "start": "unknown",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Indian Institute of Technolog",
+            "Ph.D.": "University of Washington"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/s/ShankarSastry.html",
+        "name": "S. Shankar Sastry",
+        "career": {
+            "Massachusetts Institute of Technology": {
+                "department": "",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "1980",
+                        "end": "1982"
+                    }
+                }
+            },
+            "Univ. of California - Berkeley": {
+                "department": "Electrical Engineering and Computer Sciences",
+                "position": {
+                    "Professor": {
+                        "start": "1983",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Institute of Technology",
+            "Ph.D.": "Univ. of California - Berkeley"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/36/2133.html",
+        "name": "Matei Zaharia",
+        "career": {
+            "Massachusetts Institute of Technology": {
+                "department": "Electrical Engineering and Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2015-03",
+                        "end": "2016-09"
+                    }
+                }
+            },
+            "Stanford University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2016-09",
+                        "end": "2022-09"
+                    },
+                    "Associate Professor": {
+                        "start": "2022-09",
+                        "end": "2023-07"
+                    }
+                }
+            },
+            "Univ. of California - Berkeley": {
+                "department": "Electrical Engineering and Computer Sciences",
+                "position": {
+                    "Associate Professor": {
+                        "start": "2023-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of Waterloo",
+            "Ph.D.": "Univ. of California - Berkeley"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/s/AlistairSinclair.html",
+        "name": "Alistair Sinclair",
+        "career": {
+            "University of Edinburgh": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "1988",
+                        "end": "unknown"
+                    },
+                    "Associate Director": {
+                        "start": "unknown",
+                        "end": "1994"
+                    }
+                }
+            },
+            "Univ. of California - Berkeley": {
+                "department": "Electrical Engineering and Computer Sciences",
+                "position": {
+                    "Professor": {
+                        "start": "1994",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "St. John’s College",
+            "Ph.D.": "University of Edinburgh"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/06/7000.html",
+        "name": "Somayeh Sojoudi",
+        "career": {
+            "New York University": {
+                "department": "Langone Medical Center",
+                "position": {
+                    "Assistant Research Scientist": {
+                        "start": "2013-11",
+                        "end": "2015-08"
+                    }
+                }
+            },
+            "Univ. of California - Berkeley": {
+                "department": "Electrical Engineering and Computer Sciences",
+                "position": {
+                    "Assistant Project Scientist": {
+                        "start": "2015-09",
+                        "end": "2017-06"
+                    },
+                    "Assistant Professor": {
+                        "start": "2017-07",
+                        "end": "2023-06"
+                    },
+                    "Associate Professor": {
+                        "start": "2023-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "unknown",
+            "Ph.D.": "California Institute of Technology"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/203/9306.html",
+        "name": "Alane Suhr",
+        "career": {
+            "Univ. of California - Berkeley": {
+                "department": "Electrical Engineering and Computer Sciences",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "unknown",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "The Ohio State University",
+            "Ph.D.": "Cornell University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/48/2199.html",
+        "name": "Alexandre M. Bayen",
+        "career": {
+            "Univ. of California - Berkeley": {
+                "department": "Institute for Transportation Studies",
+                "position": {
+                    "Director": {
+                        "start": "2014-07",
+                        "end": "2020-12"
+                    }
+                }
+            },
+            "Univ. of California - Berkeley": {
+                "department": "Aerospace Engineering",
+                "position": {
+                    "Director": {
+                        "start": "2020-05",
+                        "end": "2021-12"
+                    },
+                    "Associate Provost": {
+                        "start": "2022-01",
+                        "end": null
+                    }
+                }
+            },
+            "Univ. of California - Berkeley": {
+                "department": "Electrical Engineering and Computer Sciences",
+                "position": {
+                    "Director": {
+                        "start": "2005-03",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "École polytechnique",
+            "Ph.D.": "Stanford University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/10/3047-4.html",
+        "name": "John Wright",
+        "career": {
+            "Univ. of California - Berkeley": {
+                "department": "Electrical Engineering and Computer Sciences",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "unknown",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of Texas at Austin",
+            "Ph.D.": "Carnegie Mellon University"
+        }
+    }
+]

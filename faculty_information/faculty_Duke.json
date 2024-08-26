@@ -1,0 +1,360 @@
+[
+    {
+        "dblp": "https://dblp.org/pid/80/1641.html",
+        "name": "Yiran Chen",
+        "career": {
+            "University of Pittsburgh": {
+                "department": "ELECTRICAL AND COMPUTER ENGINEERING",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2010-08",
+                        "end": "2014-08"
+                    },
+                    "Associate Professor": {
+                        "start": "2014-09",
+                        "end": "2016-12"
+                    }
+                }
+            },
+            "Duke University": {
+                "department": "ELECTRICAL AND COMPUTER ENGINEERING",
+                "position": {
+                    "Associate Professor": {
+                        "start": "2017-01",
+                        "end": "2019-06"
+                    },
+                    "Professor": {
+                        "start": "2019-07",
+                        "end": "2023-07"
+                    },
+                    "Distinguished Professor": {
+                        "start": "2023-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Tsinghua University",
+            "Ph.D.": "Purdue University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/23/2168.html",
+        "name": "Lawrence Carin",
+        "career": {
+            "Brooklyn Polytechnic Institute (now part of NYU)": {
+                "department": "Electrical Engineering",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "1989",
+                        "end": "1994"
+                    },
+                    "Associate Professor": {
+                        "start": "1994",
+                        "end": "1995"
+                
+                    }
+                }
+            },
+            "Duke University": {
+                "department": "Electrical and Computer Engineering",
+                "position": {
+                    "Professor": {
+                        "start": "1995",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of Maryland - College Park",
+            "M.Sc.Eng.": "University of Maryland - College Park",
+            "Ph.D.": "University of Maryland - College Park"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/p/JianPei.html",
+        "name": "Jian Pei",
+        "career": {
+            "Simon Fraser University": {
+                "department": "Computing Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2004-09",
+                        "end": "2008-08"
+                    },
+                    "Associate Professor": {
+                        "start": "2008-09",
+                        "end": "2011-08"
+                    },
+                    "Professor": {
+                        "start": "2011-09",
+                        "end": "2022-08"
+                    },
+                    "Canada Research Chair in Big Data Science": {
+                        "start": "2014-05",
+                        "end": "2018-08"
+                    }
+                }
+            },
+            "Duke University": {
+                "department": "Computer Science",
+                "position": {
+                    "Distinguished Professor": {
+                        "start": "2022-07",
+                        "end": null
+                    }
+                }
+            },
+            "JD.com": {
+                "department": "AI Division",
+                "position": {
+                    "Vice President": {
+                        "start": "2018-01",
+                        "end": "2019-12"
+                    },
+                    "Chief Data Scientist, Technical VP": {
+                        "start": "2016-09",
+                        "end": "2017-04"
+                    },
+                    "AI Chief Scientist, Chief Architect for AI, Technical VP": {
+                        "start": "2017-05",
+                        "end": "2017-12"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Ph.D.": "Simon Fraser University",
+            "M.Sc.Eng.": "Peking University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pers/hd/g/Ge_0001:Rong",
+        "name": "Rong Ge",
+        "career": {
+            "Duke University": {
+                "department": "Computing Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2015-09",
+                        "end": "2021-08"
+                    },
+                    "Associate Professor": {
+                        "start": "2021-09",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Ph.D.": "Princeton University"
+        }
+    },
+
+    {
+        "dblp": "https://dblp.org/pers/hd/l/Li:Hai_Helen",
+        "name": "Hai Li",
+        "career": {
+            "Polytechnic Institute of New York University": {
+                "department":"ELECTRICAL AND COMPUTER ENGINEERING",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2009-08",
+                        "end": "2012-08"
+                    }
+                }
+            },
+            "University of Pittsburgh": {
+                "department": "ELECTRICAL AND COMPUTER ENGINEERING",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2012-09",
+                        "end": "2015-08"
+                    },
+                    "Associate Professor": {
+                        "start": "2015-08",
+                        "end": "2016-12"
+                    }
+                }
+            },
+            "Duke University": {
+                "department": "ELECTRICAL AND COMPUTER ENGINEERING",
+                "position": {
+                    "Associate Professor": {
+                        "start": "2017-01",
+                        "end": "2020-06"
+                    },
+                    "Distinguished Professor": {
+                        "start": "2020-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Tsinghua University",
+            "Ph.D.": "Purdue University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pers/hd/s/Sapiro:Guillermo",
+        "name": "Guillermo Sapiro",
+        "career": {
+            "University of Minnesota": {
+                "department": "Electrical and Computer Engineering",
+                "position": {
+                    "Distinguished Professor": {
+                        "start": "unknown",
+                        "end": "2009"
+                    }
+                }
+            },
+            "Duke University": {
+                "department": "Electrical and Computer Engineering",
+                "position": {
+                    "Distinguished Professor": {
+                        "start": "2010",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "B.Sc. (summa cum laude)": "Israel Institute of Technology",
+            "M.Sc.": "Israel Institute of Technology",
+            "Ph.D.": "Israel Institute of Technology"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pers/hd/d/Dhingra:Bhuwan",
+        "name": "Bhuwan Dhingra",
+        "career": {
+            "Duke University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2021-09",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Ph.D.": "Carnegie Mellon University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pers/hd/r/Rudin:Cynthia",
+        "name": "Cynthia Rudin",
+        "career": {
+            "Massachusetts Institute of Technology": {
+                "department": "Computer Science and Artificial Intelligence Laboratory and Sloan School of Management",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2009-09",
+                        "end": "2013-08"
+                    },
+                    "Associate Professor": {
+                        "start": "2013-09",
+                        "end": "2016-08"
+                    }
+                }
+            },
+            "Columbia University": {
+                "department": "Center for Computational Learning Systems",
+                "position": {
+                    "Associate Research Scientist": {
+                        "start": "2007-09",
+                        "end": "2009-08"
+                    }
+                }
+            },
+            "Duke University": {
+                "department": "Computer Science",
+                "position": {
+                    "Associate Professor": {
+                        "start": "2016-09",
+                        "end": "2019-08"
+                    },
+                    "Professor": {
+                        "start": "2019-09",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Ph.D.": "Princeton University",
+            "BS/BA": "University at Buffalo"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pers/hd/g/Gong:Neil_Zhenqiang",
+        "name": "Neil Zhenqiang Gong",
+        "career": {
+            "Duke University": {
+                "department": "ELECTRICAL AND COMPUTER ENGINEERING",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2019-09",
+                        "end": "2024-05"
+                    },
+                    "Associate Professor":{
+                        "start": "2024-06",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Ph.D.": "Univ. of California - Berkeley"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pers/hd/p/Panigrahi:Debmalya",
+        "name": "Debmalya Panigrahi",
+        "career": {
+            "Duke University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2013-07",
+                        "end": "2019-06"
+                    },
+                    "Associate Professor": {
+                        "start": "2019-07",
+                        "end": "2022-06"
+                    },
+                    "Professor": {
+                        "start": "2022-07",
+                        "end": "present"
+                    }
+                }
+            },
+            "Microsoft": {
+                "department": "Research",
+                "position": {
+                    "Postdoctoral Researcher": {
+                        "start": "2012-07",
+                        "end": "2013-06"
+                    }
+                }
+            },
+            "Bell Laboratories": {
+                "department": "Research",
+                "position": {
+                    "Member of Technical Staff": {
+                        "start": "2006-07",
+                        "end": "2007-08"
+                    }
+                }
+            }
+        },
+        "education": {
+            "PhD": "Massachusetts Institute of Technology",
+            "MEng": "Indian Institute of Science"
+        }
+    }
+]

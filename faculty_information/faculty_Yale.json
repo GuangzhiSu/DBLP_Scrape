@@ -1,0 +1,405 @@
+[
+    {
+        "dblp": "https://dblp.org/pid/14/5359-1.html",
+        "name": "Yang Cai",
+        "career": {
+            "McGill University": {
+                "department": "Department of Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2014-08",
+                        "end": "2018-12"
+                    }
+                }
+            },
+            "Yale University": {
+                "department": "ELECTRICAL AND COMPUTER ENGINEERING",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2019-01",
+                        "end": "2021-06"
+                    },
+                    "Associate Professor": {
+                        "start": "2021-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Peking University",
+            "Ph.D.": "Massachusetts Institute of Technology"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/160/1727.html",
+        "name": "Arman Cohan",
+        "career": {
+            "University of Washington": {
+                "department": "Department of Computer Science",
+                "position": {
+                    "Affiliate Assistant Professor": {
+                        "start": "2021-05",
+                        "end": null
+                    }
+                }
+            },
+            "Yale University": {
+                "department": "Department of Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2023-01",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Amirkabir University of Technology - Tehran Polytechnic",
+            "Ph.D.": "Georgetown University"
+        }
+    },
+
+    {
+        "dblp": "https://dblp.org/pid/74/2457.html",
+        "name": "Smita Krishnaswamy",
+        "career": {
+            "Yale School of Medicine": {
+                "department": "Department of Genetics",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2015-08",
+                        "end": "2022-03"
+                    }
+                }
+            },
+            "Yale University": {
+                "department": "Computer Science",
+                "position": {
+                    "Associate Professor": {
+                        "start": "2021-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Kalamazoo College",
+            "Ph.D.": "University of Michigan"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/46/6823.html",
+        "name": "John Lafferty",
+        "career": {
+            "Harvard University": {
+                "department": "Department of Mathematics",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "1986",
+                        "end": "1990"
+                    }
+                }
+            },
+            "Carnegie Mellon University": {
+                "department": "Department of Machine Learning",
+                "position": {
+                    "Associate Professor": {
+                        "start": "1994",
+                        "end": "2011"
+                    }
+                }
+            },
+            "University of Chicago": {
+                "department": "Department of Statistics and Computer Science",
+                "position": {
+                    "Louis Block Professor": {
+                        "start": "2011",
+                        "end": "2017"
+                    }
+                }
+            },
+            "Yale University": {
+                "department": "Department of Computer Science",
+                "position": {
+                    "Louis Block Professor": {
+                        "start": "2017",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Middlebury College",
+            "Ph.D.": "Princeton University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/32/818.html",
+        "name": "Brian Scassellati",
+        "career": {
+            "Yale University": {
+                "department": "Department of Computer Science",
+                "position": {
+                    "A. Bartlett Giamatti Professor": {
+                        "start": "2001",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Massachusetts Institute of Technology",
+            "Ph.D.": "Massachusetts Institute of Technology"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/96/9255.html",
+        "name": "Marynel Vázquez",
+        "career": {
+            "Yale University": {
+                "department": "Department of Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2018-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Universidad Simón Bolívar, Venezuela",
+            "Ph.D.": "Carnegie Mellon University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/02/2229.html",
+        "name": "Nisheeth Vishnoi",
+        "career": {
+            "Ecole Polytechnique F´ed´erale de Lausanne (EPFL)": {
+                "department": "Department of Computer Science",
+                "position": {
+                    "Associate Professor": {
+                        "start": "2014-06",
+                        "end": "2018-12"
+                    }
+                }
+            },
+            "Yale University": {
+                "department": "Department of Computer Science",
+                "position": {
+                    "Professor": {
+                        "start": "2019-01",
+                        "end": "2020"
+                    },
+                    "A. Bartlett Giamatti Professor": {
+                        "start": "2021-01",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Indian Institute of Technology Bombay",
+            "Ph.D.": "Georgia Institute of Technology"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/64/10962.html",
+        "name": "Andre Wibisono",
+        "career": {
+            "Yale University": {
+                "department": "Department of Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2021-01",
+                        "end": ""
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Massachusetts Institute of Technology",
+            "Ph.D.": "University of California, Berkeley"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/39/6537-1.html",
+        "name": "Alex Wong",
+        "career": {
+            "University 1": {
+                "department": "Department of Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2022-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of California, Los Angeles",
+            "Ph.D.": "University of California, Los Angeles"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/173/5282.html",
+        "name": "Rex (Zhitao) Ying",
+        "career": {
+            "Yale University": {
+                "department": "Department of Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2022-08",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Duke University",
+            "Ph.D.": "Stanford University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/138/8059.html",
+        "name": "Manolis Zampetakis",
+        "career": {
+            "Yale University": {
+                "department": "Department of Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2020-06",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "National Technical University of Athens",
+            "Ph.D.": "Massachusetts Institute of Technology"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/40/1041.html",
+        "name": "Steven Zucker",
+        "career": {
+            "McGill University": {
+                "department": "Department of Electrical Engineering",
+                "position": {
+                    "Professor": {
+                        "start": "1976",
+                        "end": "1991"
+                    }
+                }
+            },
+            "Yale University": {
+                "department": "Department of Computer Science",
+                "position": {
+                    "Professor": {
+                        "start": "1996",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Carnegie Mellon University",
+            "Ph.D.": "Drexel University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/01/5657.html",
+        "name": "Anna C. Gilbert",
+        "career": {
+            "Yale University": {
+                "department": "Department of Electrical and Computer Engineering",
+                "position": {
+                    "John C. Malone Professor": {
+                        "start": "2020-07",
+                        "end": null
+                    }
+                }
+            },
+            "University of Michigan": {
+                "department": "Department of Mathematics",
+                "position": {
+                    "Professor": {
+                        "start": "2004-09",
+                        "end": "2020-07"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of Chicago",
+            "Ph.D.": "Princeton University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/127/6939.html",
+        "name": "Dionysis Kalogerias",
+        "career": {
+            "Michigan State University": {
+                "department": "Department of Electrical and Computer Engineering",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2020-08",
+                        "end": "2021-06"
+                    }
+                }
+            },
+            "Yale University": {
+                "department": "Department of Electrical and Computer Engineering",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2021-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of Patras, Greece",
+            "Ph.D.": "Rutgers, The State University of New Jersey"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/49/7411.html",
+        "name": "Amin Karbasi",
+        "career": {
+            "Yale University": {
+                "department": "Department of Electrical and Computer Engineering",
+                "position": {
+                    "Professor": {
+                        "start": "2014",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Ecole Polytechnique F´ed´erale de Lausanne (EPFL)",
+            "Ph.D.": "Ecole Polytechnique F´ed´erale de Lausanne (EPFL)"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/168/8446.html",
+        "name": "Priyadarshini Panda",
+        "career": {
+            "Yale University": {
+                "department": "Department of Electrical and Computer Engineering",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2019-08",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "B.I.T.S. Pilani",
+            "Ph.D.": "Purdue University"
+        }
+    }
+]

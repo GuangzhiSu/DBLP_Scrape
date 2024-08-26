@@ -1,0 +1,142 @@
+[
+    {
+        "dblp": "https://dblp.org/pid/08/9282.html",
+        "name": "William Wang",
+        "career": {
+            "UC Santa Barbara": {
+                "department": "Computer Science",
+                "position": {
+                    "Professor": {
+                        "start": "2016-06",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": null,
+            "Master": "Columbia University",
+            "Ph.D.": "Carnegie Mellon University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/28/9988.html",
+        "name": "Shiyu Chang",
+        "career": {
+            "UC Santa Barbara": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2021-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of Illinois at Urbana-Champaign",
+            "Master": "University of Illinois at Urbana-Champaign",
+            "Ph.D.": "University of Illinois at Urbana-Champaign"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/y/XifengYan.html",
+        "name": "Xifeng Yan",
+        "career": {
+            "University of California at Santa Barbara": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2008",
+                        "end": "2012"
+                    },
+                    "Associate Professor": {
+                        "start": "2012",
+                        "end": "2016"
+                    },
+                    "Professor": {
+                        "start": "2016",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Zhejiang University",
+            "Master": "State University of New York at Stony Brook",
+            "Ph.D.": "University of Illinois at Urbana-Champaign"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/s/AmbujKSingh.html",
+        "name": "Ambuj K Singh",
+        "career": {
+            "University of California Santa Barbara": {
+                "department": "Computer Science",
+                "position": {
+                    "Professor": {
+                        "start": "1989-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Indian Institute of Technology, Kharagpur",
+            "Master": "Iowa State University",
+            "Ph.D.": "University of Texas at Austin"
+        }
+    },
+    {
+        "dblp": "",
+        "name": "Elizabeth M. Belding",
+        "career": {
+            "University of California, Santa Barbara": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2000-11",
+                        "end": "2005-06"
+                    },
+                    "Associate Professor": {
+                        "start": "2005-07",
+                        "end": "2009-06"
+                    },
+                    "Professor": {
+                        "start": "2009-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": null,
+            "Master": null,
+            "Ph.D.": "University of California, Santa Barbara"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/m/BSManjunath.html",
+        "name": "B.S. Manjunath",
+        "career": {
+            "University of California, Santa Barbara": {
+                "department": "Electrical and Computer Engineering",
+                "position": {
+                    "Professor": {
+                        "start": "1991-09",
+                        "end": null
+                    },
+                    "Department Chair": {
+                        "start": "2020-07",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Bangalore University",
+            "Master": "Indian Institute of Science",
+            "Ph.D.": "University of Southern California"
+        }
+    }
+]

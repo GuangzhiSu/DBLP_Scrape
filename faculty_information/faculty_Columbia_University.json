@@ -1,0 +1,777 @@
+[
+    {
+        "dblp": "https://dblp.org/pid/c/ShihFuChang.html",
+        "name": "Shih-Fu Chang",
+        "career": {
+            "Columbia University": {
+                "department": "Electrical Engineering",
+                "position": {
+                    "Chair of Electrical Engineering Department": {
+                        "start": "2007-01",
+                        "end": "2010-01"
+                    },
+                    "Richard Dicker Professor of Electrical Engineering and Computer Science": {
+                        "start": "1993-07",
+                        "end": "null"
+                    },
+                    "Senior Executive Vice Dean of School of Engineering and Applied Science": {
+                        "start": "2012-07",
+                        "end": "2021-06"
+                    },
+                    "Dean of School of Engineering and Applied Science": {
+                        "start": "2022-05",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "National Taiwan University",
+            "Ph.D.": "University of California at Berkeley"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/85/9005.html",
+        "name": "Elias Bareinboim",
+        "career": {
+            "Purdue University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2015-09",
+                        "end": "2019-03"
+                    }
+                
+                }
+            },
+            "Columbia University": {
+                "department": "Computer Science",
+                "position": {
+                    "Associate Professor": {
+                        "start": "2019-07",
+                        "end": "null"
+                    }
+                    
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Universidade Federal do Rio de Janeiro",
+            "Master": "Universidade Federal do Rio de Janeiro",
+            "Ph.D.": "University of California, Los Angeles"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/16/6366.html",
+        "name": "Richard S. Zemel",
+        "career": {
+            "University of Toronto": {
+                "department": "Computer Science",
+                "position": {
+                    "Professor": {
+                        "start": "2000-01",
+                        "end": "2022-01"
+                    }
+                
+                }
+            },
+            "Columbia University": {
+                "department": "Computer Science",
+                "position": {
+                    "Professor": {
+                        "start": "unknown",
+                        "end": "null"
+                    }
+                    
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Harvard University",
+            "Ph.D.": "University of Toronto"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/86/1910.html",
+        "name": "Carl Vondrick",
+        "career": {
+            "Columbia University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2018-07",
+                        "end": "2022-12"
+                    },
+                    "Associate Professor": {
+                        "start": "2023-01",
+                        "end": "null"
+                    }
+                    
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of California, Irvine",
+            "Master": "Massachusetts Institute of Technology",
+            "Ph.D.": "Massachusetts Institute of Technology"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/86/1910.html",
+        "name": "David M. Blei",
+        "career": {
+            "Princeton University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2006-01",
+                        "end": "2011-01"
+                    },
+                    "Associate Professor": {
+                        "start": "2011-02",
+                        "end": "2014-01"
+                    }
+                    
+                }
+            },
+            "Columbia University": {
+                "department": "Computer Science",
+                "position": {
+                    "Professor": {
+                        "start": "2014-02",
+                        "end": "null"
+                    }
+                    
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Brown University",
+            "Ph.D.": "University of California Berkeley"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/86/1910.html",
+        "name": "David M. Blei",
+        "career": {
+            "Princeton University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2006-01",
+                        "end": "2011-01"
+                    },
+                    "Associate Professor": {
+                        "start": "2011-02",
+                        "end": "2014-01"
+                    }
+                    
+                }
+            },
+            "Columbia University": {
+                "department": "Computer Science",
+                "position": {
+                    "Professor": {
+                        "start": "2014-02",
+                        "end": "null"
+                    }
+                    
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Brown University",
+            "Ph.D.": "University of California Berkeley"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/m/KathleenMcKeown.html",
+        "name": "Kathy McKeown",
+        "career": {
+            "Columbia University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "1982-01",
+                        "end": "1987-01"
+                    },
+                    "Associate Professor": {
+                        "start": "1987-02",
+                        "end": "1997-01"
+                    },
+                    "Professor": {
+                        "start": "1997-02",
+                        "end": "null"
+                    },
+                    "Henry and Gertrude Rothschild Professor of Computer Science": {
+                        "start": "2005-01",
+                        "end": "null"
+                    }
+                    
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Brown University",
+            "Master": "University of Pennsylvania",
+            "Ph.D.": "University of Pennsylvania"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/h/DanielHsu.html",
+        "name": "Daniel Hsu",
+        "career": {
+            "Columbia University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2013-07",
+                        "end": "2017-12"
+                    },
+                    "Associate Professor": {
+                        "start": "2018-01",
+                        "end": "null"
+                    }
+                    
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of California, Berkeley",
+            "Master": "University of California, San Diego",
+            "Ph.D.": "University of California, San Diego"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/h/DanielHsu.html",
+        "name": "Daniel Hsu",
+        "career": {
+            "Columbia University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2013-07",
+                        "end": "2017-12"
+                    },
+                    "Associate Professor": {
+                        "start": "2018-01",
+                        "end": "null"
+                    }
+                    
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of California, Berkeley",
+            "Master": "University of California, San Diego",
+            "Ph.D.": "University of California, San Diego"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/123/4433.html",
+        "name": "Shuran Song",
+        "career": {
+            "Columbia University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2019-07",
+                        "end": "null"
+                    }
+                    
+                }
+            },
+            "Stanford University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2023-09",
+                        "end": "null"
+                    }
+                    
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "unknown",
+            "Ph.D.": "Princeton University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/83/3205-5.html",
+        "name": "Zhou Yu",
+        "career": {
+            "University of California, Davis": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2017-07",
+                        "end": "2020-12"
+                    }
+                    
+                }
+            },
+            "Columbia University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2021-01",
+                        "end": "null"
+                    }
+                    
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Zhejiang University",
+            "Ph.D.": "Carnegie Mellon University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/29/1340-1.html",
+        "name": "Michael Collins",
+        "career": {
+            "Massachusetts Institute of Technology": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2003-01",
+                        "end": "2008-01"
+                    },
+                    "Associate Professor": {
+                        "start": "2008-01",
+                        "end": "2010-12"
+                    }
+                    
+                }
+            },
+            "Columbia University": {
+                "department": "Computer Science",
+                "position": {
+                    "Professor": {
+                        "start": "2011-01",
+                        "end": "null"
+                    }
+                    
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "unknown",
+            "Ph.D.": "University of Pennsylvania"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/71/3724.html",
+        "name": "Junfeng Yang",
+        "career": {
+            "Columbia University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2008-01",
+                        "end": "2013-01"
+                    },
+                    "Associate Professor": {
+                        "start": "2013-02",
+                        "end": "2021-06"
+                    },
+                    "Professor": {
+                        "start": "2021-07",
+                        "end": "null"
+                    }
+                    
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Tsinghua University",
+            "Ph.D.": "Stanford University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/43/4734.html",
+        "name": "Tony Jebara",
+        "career": {
+            "Columbia University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2002-01",
+                        "end": "2007-12"
+                    },
+                    "Associate Professor": {
+                        "start": "2008-01",
+                        "end": "null"
+                    }
+                     
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "McGill University",
+            "Master": "Massachusetts Institute of Technology",
+            "Ph.D.": "Massachusetts Institute of Technology"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/74/28.html",
+        "name": "Suman Jana",
+        "career": {
+            "Columbia University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2016-01",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of Utah",
+            "Ph.D.": "University of Texas at Austin"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/p/TPitassi.html",
+        "name": "Toniann Pitassi",
+        "career": {
+            "University of Toronto": {
+                "department": "Computer Science",
+                "position": {
+                    "Professor": {
+                        "start": "2001-09",
+                        "end": "2021-01"
+                    }
+                }
+            },
+            "Columbia University": {
+                "department": "Computer Science",
+                "position": {
+                    "Professor": {
+                        "start": "2021-01",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Pennsylvania State University",
+            "Master": "Pennsylvania State University",
+            "Ph.D.": "University of Toronto"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/r/TimRoughgarden.html",
+        "name": "Timothy Roughgarden",
+        "career": {
+            "Stanford University": {
+                "department": "Computer Science",
+                "position": {
+                    "Professor": {
+                        "start": "2004-09",
+                        "end": "2018-12"
+                    }
+                }
+            },
+            "Columbia University": {
+                "department": "Computer Science",
+                "position": {
+                    "Professor": {
+                        "start": "2019-01",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Stanford University",
+            "Master": "Stanford University",
+            "Ph.D.": "Cornell University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/92/5285.html",
+        "name": "Changxi Zheng",
+        "career": {
+            "Columbia University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2012-01",
+                        "end": "2017-01"
+                    },
+                    "Associate Professor": {
+                        "start": "2017-02",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "unknown",
+            "Ph.D.": "Cornell University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/n/ShreeKNayar.html",
+        "name": "Shree K. Nayar",
+        "career": {
+            "Columbia University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "1991-01",
+                        "end": "1994-12"
+                    },
+                    "Associate Professor": {
+                        "start": "1995-01",
+                        "end": "1996-11"
+                    },
+                    "Professor": {
+                        "start": "1996-12",
+                        "end": "2002-06"
+                    },
+                    "T.C. Chang Professor of Computer Science": {
+                        "start": "2002-07",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Birla Institute of Technology",
+            "Master": "North Carolina State University",
+            "Ph.D.": "Carnegie Mellon University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/12/5558.html",
+        "name": "Peter N. Belhumeur",
+        "career": {
+            "Yale University": {
+                "department": "Electrical Engineering",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "1994-01",
+                        "end": "1997-12"
+                    },
+                    "Associate Professor": {
+                        "start": "1998-01",
+                        "end": "2001-01"
+                    },
+                    "Professor": {
+                        "start": "2001-02",
+                        "end": "2002-01"
+                    }
+                    
+                }
+            },
+            "Columbia University": {
+                "department": "Computer Science",
+                "position": {
+                    "Professor": {
+                        "start": "2002-02",
+                        "end": "null"
+                    }
+                    
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Brown University",
+            "Ph.D.": "Harvard University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/p/CHPapadimitriou.html",
+        "name": "Christos H. Papadimitriou",
+        "career": {
+            "National Technical University of Athens": {
+                "department": "Computer Science",
+                "position": {
+                    "Professor": {
+                        "start": "1981-12",
+                        "end": "1988-01"
+                    }
+                }
+            },
+            "Massachusetts Institute of Technology": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "1979-02",
+                        "end": "1981-07"
+                    },
+                    "Associate Professor": {
+                        "start": "1981-07",
+                        "end": "null"
+                    }
+                }
+            },
+            "Harvard University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "1976-07",
+                        "end": "1978-08"
+                    }
+                }
+            },
+            "University of California at Berkeley": {
+                "department": "Computer Science",
+                "position": {
+                    "Miller Fellow for Science": {
+                        "start": "1978-09",
+                        "end": "1979-01"
+                    },
+                    "C. Lester Hogan Professor of Electrical Engineering and Computer Sciences": {
+                        "start": "1996-01",
+                        "end": "2017-12"
+                    },
+                    "Associate Chair for Computer Science": {
+                        "start": "1999-01",
+                        "end": "2002-01"
+                    }
+                }
+            },
+            "Stanford University": {
+                "department": "Computer Science",
+                "position": {
+                    "Professor": {
+                        "start": "1983-04",
+                        "end": "1988-01"
+                    }
+                }
+            },
+            "University of California at San Diego": {
+                "department": "Computer Science",
+                "position": {
+                    "Irwin Mark and Joan Klein Jacobs Professor of Computer Science and Engineering": {
+                        "start": "1988-01",
+                        "end": "1995-12"
+                    }
+                }
+            },
+            "Columbia University": {
+                "department": "Computer Science",
+                "position": {
+                    "Donovan Family Professor of Computer Science": {
+                        "start": "2017-07",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "National Technical University of Athens",
+            "Ph.D.": "Princeton University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/h/JuliaHirschberg.html",
+        "name": "Julia Hirschberg",
+        "career": {
+            "Columbia University": {
+                "department": "Computer Science",
+                "position": {
+                    "Professor": {
+                        "start": "2002-01",
+                        "end": "2013-01"
+                    },
+                    "Percy K. and Vida L. W. Hudson Professor of Computer Science": {
+                        "start": "2013-02",
+                        "end": "null"
+                    }
+                    
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "unknown",
+            "Master": "University of Pennsylvania",
+            "Ph.D.": "University of Pennsylvania"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/a/PeterKAllen.html",
+        "name": "PETER K. ALLEN",
+        "career": {
+            "Columbia University": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "1985-01",
+                        "end": "1990-01"
+                    },
+                    "Associate Professor": {
+                        "start": "1990-02",
+                        "end": "1999-12"
+                    },
+                    "Professor": {
+                        "start": "2000-01",
+                        "end": "null"
+                    }
+                    
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Brown University",
+            "Master": "University of Oregon",
+            "Ph.D.": "University of Pennsylvania"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/s/RAServedio.html",
+        "name": "Rocco A. Servedio",
+        "career": {
+            "Columbia University": {
+                "department": "Computer Science",
+                "position": {
+                    "Professor": {
+                        "start": "unknown",
+                        "end": "null"
+                    }
+                    
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Harvard University",
+            "Master": "Harvard University",
+            "Ph.D.": "Harvard University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/31/6484.html",
+        "name": "Vladimir Vapnik",
+        "career": {
+            "Royal Holloway, University of London": {
+                "department": "Computer Science",
+                "position": {
+                    "Professor": {
+                        "start": "1995-01",
+                        "end": "null"
+                    }
+                }
+            },
+            "Columbia University": {
+                "department": "Computer Science",
+                "position": {
+                    "Professor": {
+                        "start": "2003-01",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "unknown",
+            "Master": "Uzbek State University",
+            "Ph.D.": "Institute of Control Sciences"
+        }
+    }
+
+]

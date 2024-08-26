@@ -1,0 +1,142 @@
+[
+    {
+        "dblp": "https://dblp.org/pid/35/2899-1.html",
+        "name": "Han Liu",
+        "career": {
+            "Johns Hopkins University": {
+                "department": "BIOSTATISTICS AND COMPUTER SCIENCE",
+                "position": {
+                    "Asistant Professor": {
+                        "start": "2010",
+                        "end": "unknown"
+                    }
+                }
+            },
+            "Princeton University": {
+                "department": "OPERATIONS REASEARCHS AND FINACIAL ENGINEERING",
+                "position": {
+                    "unknown": {
+                        "start": "",
+                        "end": ""
+                    },
+                    "position 2": {
+                        "start": "",
+                        "end": ""
+                    }
+                }
+            },
+	    "Northwestern University": {
+                "department": "COMPUTER SCIENCE",
+                "position": {
+                    "Orrington Lunt Professor of Computer Science": {
+                        "start": "",
+                        "end": ""
+                    },
+                    "position 2": {
+                        "start": "",
+                        "end": ""
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of Toronto",
+            "Ph.D.": "Carnegie Mellon University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/117/2756-1.html",
+        "name": "Zhaoran Wang",
+        "career": {
+            "Northwestern University": {
+                "department": "COMPUTER SCIENCE",
+                "position": {
+                    "Asistant Professor": {
+                        "start": "2018-07",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "unknown",
+            "Ph.D.": "Princeton"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/57/5363.html",
+        "name": "Doug Downey",
+        "career": {
+            "Northwestern University": {
+                "department": "ELECTRICAL ENGINEERING AND COMPUTER SCIENCE",
+                "position": {
+                    "Asistant Professor": {
+                        "start": "2008-09",
+                        "end": "2014-08"
+                    },
+                    "Associate Professor":{
+			"start": "2014-09",
+                        "end": "null"
+                    }
+
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Case Western Reserve University",
+            "Ph.D.": "University of Washington"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/f/KDForbus.html",
+        "name": "Ken Forbus",
+        "career": {
+            "Northwestern University": {
+                "department": "COMPUTER SCIENCE",
+                "position": {
+                    "Walter P. Murphy Professor of Computer Science": {
+                        "start": "1990",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "MIT",
+            "Ph.D.": "MIT"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/66/5923-2.html",
+        "name": "Qi Zhu",
+        "career": {
+            "University of California Riverside": {
+                "department": "ELECTRICAL AND COMPUTER ENGINEERING",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2011-08",
+                        "end": "2017-06"
+                    },
+                    "Associate Professor": {
+                        "start": "2017-07",
+                        "end": "2017-12"
+                    }
+                }
+            },
+            "Northwestern University": {
+                "department": "ELECTRICAL AND COMPUTER ENGINEERING",
+                "position": {
+                    "Associate Professor": {
+                        "start": "2018-01",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Tsinghua University",
+            "Ph.D.": "University of California, Berkeley"
+        }
+    }
+
+]

@@ -1,0 +1,226 @@
+[
+    {
+        "dblp": "https://dblp.org/pid/256/9406.html",
+        "name": "Xia(Ben) Hu",
+        "career": {
+            "Texas A&M University": {
+                "department": "COMPUTER SECIENCE AND ENGINEERING",
+                "position": {
+                    "Asistant Professor": {
+                        "start": "2015-08",
+                        "end": "2020-08"
+                    },
+                    "Associate Professor": {
+                        "start": "2020-08",
+                        "end": "2021-06"
+                    }
+                }
+            },
+            "Rice University": {
+                "department": "COMPUTER SCIENCE",
+                "position": {
+                    "Associate Professor": {
+                        "start": "2021-07",
+                        "end": "null"
+                    }
+                 }
+            }
+        },
+        "education": {
+            "Bachelor": "Beihang University",
+            "Ph.D.": "Arizona State University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/63/9828.html",
+        "name": "Anshumali Shrivastava",
+        "career": {
+            "Rice University": {
+                "department": "COMPUTER SCIENCE",
+                "position": {
+                    "Asistant Professor": {
+                        "start": "2015-08",
+                        "end": "2021-06"
+                    },
+                    "Associate Professor": {
+                        "start": "2021-07",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Indian Institute of Technology, Kharagpur",
+            "Ph.D.": "Cornell University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/32/2804.html",
+        "name": "Richard G. Baraniuk",
+        "career": {
+            "Rice University": {
+                "department": "ELECTRICAL AND COMPUTER ENGINEERING",
+                "position": {
+                    "Victor E. Cameron Professor": {
+                        "start": "1992",
+                        "end": "2021"
+                    },
+                    "C.Sidney Burrus Professor":{
+			"start": "2021",
+                        "end": "null"
+                    }
+
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of Illinois Urbana-Champaign",
+            "Ph.D.": "University of Wisconsin–Madison"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/v/MosheYVardi.html",
+        "name": "Moshe Y. Vardi",
+        "career": {
+            "Rice University": {
+                "department": "COMPUTATIONAL ENGINEERING",
+                "position": {
+                    "University Professor and George Distinguished Service Professor": {
+                        "start": "1993-12",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Stanford University",
+            "Ph.D.": "Hebrew University in Jerusalem"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/14/4758.html",
+        "name": "Vladimir Braverman",
+        "career": {
+            "The Johns Hopkins University": {
+                "department": "unknown",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2011-08",
+                        "end": "2018-07"
+                    },
+                    "Associate Professor": {
+                        "start": "2018-07",
+                        "end": "null"
+                    }
+                }
+            },
+            "Rice University": {
+                "department": "COMPUTER SCIENCE",
+                "position": {
+                    "Professor": {
+                        "start": "2022-07",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Ben-Gurion University of the Negev, Israel",
+            "Ph.D.": "University of California, Los Angeles"
+        }
+    },
+    {
+        "dblp": "",
+        "name": "Vicente Ordonez",
+        "career": {
+            "University of Virginia": {
+                "department": "COMPUTER SCIENCE",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2016-08",
+                        "end": "2021-06"
+                    }
+                }
+            },
+            "Rice University": {
+                "department": "COMPUTER SCIENCE",
+                "position": {
+                    "Associate Professor": {
+                        "start": "2021-07",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Stony Brook University",
+            "Ph.D.": "University of North Carolina at Chapel Hill"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/84/858.html",
+        "name": "Ashok Veeraraghavan",
+        "career": {
+            "Rice University": {
+                "department": "COMPUTER SCIENCE",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2011-07",
+                        "end": "2022-01"
+                    },
+                    "Associate Professor": {
+                        "start": "2017-06",
+                        "end": "2022-01"
+                    },
+                    "Associate Professor": {
+                        "start": "2020-07",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Indian Institute of Technology, Madras",
+            "Ph.D.": "University of Maryland"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/72/8177.html",
+        "name": "Guha Balakrishnan",
+        "career": {
+            "Rice University": {
+                "department": "ELECTRICAL AND COMPUTER ENGINEERING",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2021-07",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of Michigan",
+            "Ph.D.": "MIT"
+        }
+    },
+    {
+        "dblp": "",
+        "name": "Anastasios Kyrillidis",
+        "career": {
+            "Rice University": {
+                "department": "COMPUTER SCIENCE",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2018-07",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Technical University of Crete",
+            "Ph.D.": "EPFL (Ecole Polytechnique Fédérale de Lausanne)"
+        }
+    }
+
+]

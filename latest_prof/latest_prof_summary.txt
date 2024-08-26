@@ -1,0 +1,2 @@
+Total number of professors who joined in the latest five years (2019-2024): 155
+Total number of professors who joined before 2019 or have no start year: 294

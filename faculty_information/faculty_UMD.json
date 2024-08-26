@@ -1,0 +1,646 @@
+[
+    {
+        "dblp": "https://dblp.org/pid/03/281",
+        "name": "Heng Huang",
+        "career": {
+            "University of Pittsburgh": {
+                "department": "Computer Science",
+                "position": {
+                    "Distinguished Professor": {
+                        "start": "2017-00",
+                        "end": "2023-00"
+                    }
+                }
+            },
+            "University of Maryland, College Park": {
+                "department": "Computer Science",
+                "position": {
+                    "Distinguished Professor": {
+                        "start": "2023-00",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Shanghai Jiao Tong University",
+            "Master": "Shanghai Jiao Tong University",
+            "Ph.D.": "Dartmouth College"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/25/8184",
+        "name": "Tom Goldstein",
+        "career": {
+            "University of Maryland, College Park": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2014-07",
+                        "end": "2019-05"
+                    },
+                    "Associate Professor": {
+                        "start": "2019-05",
+                        "end": "2023-07"
+                    },
+                    "Distinguished Professor": {
+                        "start": "2023-07",
+                        "end": null
+                    }
+
+                }
+            }
+            
+        },
+        "education": {
+            "Bachelor": "Washington University in St. Louis",
+            "Ph.D.": "UCLA"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/57/5950",
+        "name": "Jordan L. Boyd-Graber",
+        "career": {
+            "University of Maryland, College Park": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2010-00",
+                        "end": "2014-00"
+                    },
+                    "Associate Professor": {
+                        "start": "2017-00",
+                        "end": "2024-07"
+                    },
+                    "Professor": {
+                        "start": "2024-07",
+                        "end": null
+                    }
+
+                }
+            },
+            "University of Colorado Boulder": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2014-00",
+                        "end": "2017-00"
+                    },
+                    "Associate Professor": {
+                        "start": "2017-00",
+                        "end": "2017-00"
+                    }
+                }
+            }
+
+            
+        },
+        "education": {
+            "Bachelor": "California Institute of Technology",
+            "Ph.D.": "Princeton University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/51/1815-1",
+        "name": "Jia-Bin Huang",
+        "career": {
+            "University of Maryland, College Park": {
+                "department": "Computer Science",
+                "position": {
+                    "Associate Professor": {
+                        "start": "2022-08",
+                        "end": null
+                    }
+                }
+            },
+            "Virginia Tech": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2016-08",
+                        "end": "2021-10"
+                    }
+                }
+            }
+
+            
+        },
+        "education": {
+            "Bachelor": "National Chiao Tung University",
+            "Ph.D.": "University of Illinois, Urbana-Champaign"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/57/2132",
+        "name": "Soheil Feizi",
+        "career": {
+            "University of Maryland, College Park": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2018-07",
+                        "end": "2023-06"
+                    },
+                    "Associate Professor": {
+                        "start": "2023-06",
+                        "end": null
+                    }
+                }
+            }
+
+            
+        },
+        "education": {
+            "Bachelor": "Sharif University of Technology",
+            "Ph.D.": "Massachusetts Institute of Technology"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/65/10572",
+        "name": "Abhinav Shrivastava",
+        "career": {
+            "University of Maryland, College Park": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2018-08",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Jaypee Institute of Information Technology",
+            "Ph.D.": "Carnegie Mellon University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/75/8479",
+        "name": "John P. Dickerson",
+        "career": {
+            "University of Maryland, College Park": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2016-08",
+                        "end": "2022-06"
+                    },
+                    "Associate Professor": {
+                        "start": "2022-07",
+                        "end": null
+                    }
+                }
+            }
+
+            
+        },
+        "education": {
+            "Bachelor": "University of Maryland, College Park",
+            "Ph.D.": "Carnegie Mellon University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/77/2856",
+        "name": "Hal Daume III",
+        "career": {
+            "University of Maryland, College Park": {
+                "department": "Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2010-07",
+                        "end": "2013-06"
+                    },
+                    "Associate Professor": {
+                        "start": "2013-07",
+                        "end": "2017-06"
+                    },
+                    "Professor": {
+                        "start": "2017-07",
+                        "end": "2018-06"
+
+                    },
+                    "Distinguished Professor": {
+                        "start": "2018-07",
+                        "end": null
+                    }
+                }
+            },
+            "University of Utah": {
+                "department":"Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2006-07",
+                        "end": "2010-06"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Carnegie Mellon University",
+            "Ph.D.": "University of Southern California"
+        }
+    },
+    {
+        "dblp":"https://dblp.org/pid/88/8205-1",
+        "name":"Tianyi Zhou",
+        "career":{
+            "University of Maryland, College Park" :{
+                "department":"Computer Science",
+                "position":{
+                    "Assistant Professor":{
+                        "start": "2022-09",
+                        "end": "null"
+                    }
+                }
+            }
+        },
+        "education":{
+            "Bachelor": "Beijing Institute of Technology",
+            "Ph.D.": "University of Washington"
+        }
+    },
+    {
+        "dblp":"https://dblp.org/pid/m/DineshManocha",
+        "name":"Dinesh Manocha",
+        "career":{
+            "University of North Carolina at Chapel Hill":{
+                "department":"Computer Science",
+                "position":{
+                    "Assistant Professor":{
+                        "start":"1992-07",
+                        "end":"1997-12"
+                    },
+                    "Associate Professor":{
+                        "start":"1998-01",
+                        "end":"2000-12"
+                    },
+                    "Professor":{
+                        "start":"2001-01",
+                        "end":"2006-06"
+                    },
+                    "Distinguished Professor":{
+                        "start":"2006-07",
+                        "end":"2018-04"
+                    }
+                }
+            },
+            "University of Maryland, College Park":{
+                "department":"Computer Science",
+                "position":{
+                    "Distinguished Professor":{
+                        "start":"2018-05",
+                        "end":null
+                    }
+                }
+            }
+        },
+        "education":{
+            "Bachelor":"Indian Institute of Technology, Delhi",
+            "Ph.D.":"University of California, Berkeley"
+        }
+    },
+    {
+        "dblp":"https://dblp.org/pid/72/8513",
+        "name":"Furong Huang",
+        "career":{
+            "University of Maryland, College Park":{
+                "department":"Computer Science",
+                "position":{
+                    "Assistant Professor":{
+                        "start":"2017-07",
+                        "end":"2024-06"
+                    },
+                    "Associate Professor":{
+                        "start":"2024-07",
+                        "end":null
+                    }
+                }
+            }
+        },
+        "education":{
+            "Bachelor":"Zhejiang University",
+            "Ph.D.": "UC Irvine"
+        }
+    },
+    {
+        "dblp":"https://dblp.org/pid/j/DavidWJacobs",
+        "name":"David Jacobs",
+        "career":{
+            "University of Maryland, College Park":{
+                "department":"Computer Science",
+                "position":{
+                    "Associate Professor":{
+                        "start":"2002-08",
+                        "end":"2008-08"
+                    },
+                    "Professor":{
+                        "start":"2008-08",
+                        "end":null
+                    }
+                }
+            }
+        },
+        "education":{
+            "Bachelor":"Yale University",
+            "Ph.D.":"Massachusetts Institute of Technology"
+        }
+    },
+    {
+        "dblp":"https://dblp.org/pid/154/6376",
+        "name":"Kaiqing Zhang",
+        "career":{
+            "University of Maryland, College Park":{
+                "department":"Electrical and Computer Engineering",
+                "position":{
+                    "Assistant Professor":{
+                        "start":"2022-10",
+                        "end":null
+                    }
+                }
+            }
+        },
+        "education":{
+            "Bachelor":"Tsinghua University",
+            "Ph.D.":"University of Illinois, Urbana-Champaign"
+        }
+    },
+    {
+        "dblp":"https://dblp.org/pid/71/1827",
+        "name":"Marine Carpuat",
+        "career":{
+            "University of Maryland, College Park":{
+                "department":"Computer Science",
+                "position":{
+                    "Assistant Professor":{
+                        "start":"2015-01",
+                        "end":"2020-06"
+                    },
+                    "Associate Professor":{
+                        "start":"2020-07",
+                        "end":null
+                    }
+                }
+            }
+        },
+        "education":{
+            "Bachelor":"CentraleSupelec",
+            "Ph.D.":"Hong Kong University of Science and Technology"
+        }
+    },
+    {
+        "dblp":"https://dblp.org/pid/l/MingCLin",
+        "name":"Ming C. Lin",
+        "career":{
+            "University of North Carolina at Chapel Hill":{
+                "department":"Computer Science",
+                "position":{
+                    "Assistant Professor":{
+                        "start":"1997-00",
+                        "end":"2000-00"
+                    },
+                    "Associate Professor":{
+                        "start":"2000-00",
+                        "end":"2004-00"
+                    },
+                    "Professor":{
+                        "start":"2004-00",
+                        "end":"2007-00"
+                    },
+                    "Distinguished Professor":{
+                        "start":"2007-00",
+                        "end":"2018-00"
+                    }
+                }
+            },
+            "University of Maryland, College Park":{
+                "department":"Computer Science",
+                "position":{
+                    "Distinguished Professor":{
+                        "start":"2018-01",
+                        "end":null
+                    }
+                }
+            }
+        },
+        "education":{
+            "Bachelor":"University of California, Berkeley",
+            "Ph.D.":"University of California, Berkeley"
+        }
+    },
+    {
+        "dblp":"https://dblp.org/pid/z/MatthiasZwicker",
+        "name":"Matthias Zwicker",
+        "career":{
+            "University of California, San Diego":{
+                "department":"Computer Science",
+                "position":{
+                    "Assistant Professor":{
+                        "start":"2006-01",
+                        "end":"2008-08"
+                    }
+                }
+            },
+            "University of Bern":{
+                "department":"Computer Science",
+                "position":{
+                    "Professor":{
+                        "start":"2008-09",
+                        "end":"2016-12"
+                    }
+                }
+            },
+            "University of Maryland, College Park":{
+                "department":"Computer Science",
+                "position":{
+                    "Distinguished Professor":{
+                        "start":"2017-03",
+                        "end":null
+                    }
+                }
+            }
+        },
+        "education":{
+            "Bachelor":"Unknown",
+            "Ph.D.":"ETH Zurich"
+        }
+    },
+    {
+      "dblp":"https://dblp.org/pid/334/4488",
+      "name":"Mahammad Hajiaghayi",
+      "career":{
+        "University of Maryland, College Park":{
+            "department":"Computer Science",
+            "position":{
+                "Assistant Professor":{
+                    "start":"2010-08",
+                    "end":"2012-06"
+                },
+                "Associate Professor":{
+                    "start":"2012-07",
+                    "end":"2016-04"
+                },
+                "Professor":{
+                    "start":"2016-04",
+                    "end":null
+                }
+            }
+        }
+      },
+      "education":{
+        "Bachelor":"Sharif University of Technology",
+        "Ph.D.":"Massachusetts Institute of Technology"
+      } 
+    },
+    {
+        "dblp":"https://dblp.org/pid/p/PhilipResnik",
+        "name":"Philip Resnik",
+        "career":{
+            "University of Maryland, College Park":{
+                "department":"Computer Science",
+                "position":{
+                    "Professor":{
+                        "start":"1996-09",
+                        "end":null
+                    }
+                }
+
+            }
+        },
+        "education":{
+            "Bachelor":"Harvard University",
+            "Ph.D.":"University of Pennsylvania"
+        }
+    },
+    {
+        "dblp":"https://dblp.org/pid/136/8740",
+        "name":"Rachel Rudinger",
+        "career":{
+            "University of Maryland, College Park":{
+                "department":"Computer Science",
+                "position":{
+                    "Assistant Professor":{
+                        "start": "2020-07",
+                        "end":null
+                    }
+                }
+            }
+        },
+        "education":{
+            "Bachelor":"Yale University",
+            "Ph.D.":"Johns Hopkins University"
+        }
+    },
+    {
+        "dblp":"https://dblp.org/pid/s/AravindSrinivasan",
+        "name":"Aravind Srinivasan",
+        "career":{
+            "National University of Singapore":{
+                "department":"Computer Science",
+                "position":{
+                    "Assistant Professor":{
+                        "start":"1995-06",
+                        "end":"1997-06"
+                    },
+                    "Associate Professor":{
+                        "start":"1997-07",
+                        "end":"1998-12"
+                    }
+                }
+            },
+            "University of Maryland, College Park":{
+                "department":"Computer Science",
+                "position":{
+                    "Associate Professor":{
+                        "start":"2001-08",
+                        "end":"2006-06"
+                    },
+                    "Professor":{
+                        "start":"2006-07",
+                        "end":"2020-06"
+                    },
+                    "Distinguished Professor":{
+                        "start":"2020-07",
+                        "end":null
+                    }
+                }
+            }
+        },
+        "education":{
+            "Bachelor":"Indian Institute of Technology, Madras",
+            "Ph.D.":"Cornell University"
+        }
+    },
+    {
+        "dblp":"https://dblp.org/pid/a/YiannisAloimonos",
+        "name":"Yiannis Aloimonos",
+        "career":{
+            "University of Maryland, College Park":{
+                "department":"Computer Science",
+                "position":{
+                    "Assistant Professor":{
+                        "start":"1987-08",
+                        "end":"1992-07"
+                    },
+                    "Associate Professor":{
+                        "start":"1992-08",
+                        "end":"1997-07"
+                    },
+                    "Professor":{
+                        "start":"1992-08",
+                        "end":null
+                    }
+                }
+            }
+        },
+        "education":{
+            "Bachelor":"University of Athens",
+            "Ph.D.":"University of Rochester"
+        }
+    },
+    {
+        "dblp":"https://dblp.org/pid/o/DouglasWOard",
+        "name":"Douglas W. Oard",
+        "career":{
+            "University of Maryland, College Park":{
+                "department":"College of Information",
+                "position":{
+                    "Professor":{
+                        "start":"Unknown",
+                        "end":null
+                    }
+                }
+            }
+        },
+        "education":{
+            "Bachelor":"Unknown",
+            "Ph.D.":"Unknown"
+        }
+    },
+    {
+        "dblp":"https://dblp.org/pid/01/4921",
+        "name":"Tudor Dumitras",
+        "career":{
+            "University of Maryland, College Park":{
+                "department":"Electrical and Computer Engineering",
+                "position":{
+                    "Associate Professor":{
+                        "start":"2013-08",
+                        "end":null
+                    }
+                }
+            }      
+        },
+        "education":{
+            "Bachelor":"Ecole Polytechnique",
+            "Ph.D.":"Carnegie Mellon University"
+        }
+    },
+    {
+        
+    }
+
+
+
+
+
+]

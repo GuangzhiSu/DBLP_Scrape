@@ -1,0 +1,100 @@
+University: Caltech
+Total number of professors who joined in the latest five years (2019-2024): 2
+Total number of professors who joined before 2019 or have no start year: 8
+
+University: Columbia_University
+Total number of professors who joined in the latest five years (2019-2024): 5
+Total number of professors who joined before 2019 or have no start year: 20
+
+University: Cornell
+Total number of professors who joined in the latest five years (2019-2024): 5
+Total number of professors who joined before 2019 or have no start year: 9
+
+University: Duke
+Total number of professors who joined in the latest five years (2019-2024): 2
+Total number of professors who joined before 2019 or have no start year: 8
+
+University: Harvard
+Total number of professors who joined in the latest five years (2019-2024): 2
+Total number of professors who joined before 2019 or have no start year: 7
+
+University: JHU
+Total number of professors who joined in the latest five years (2019-2024): 4
+Total number of professors who joined before 2019 or have no start year: 13
+
+University: Northwestern University
+Total number of professors who joined in the latest five years (2019-2024): 0
+Total number of professors who joined before 2019 or have no start year: 5
+
+University: Princeton
+Total number of professors who joined in the latest five years (2019-2024): 10
+Total number of professors who joined before 2019 or have no start year: 9
+
+University: PSU
+Total number of professors who joined in the latest five years (2019-2024): 5
+Total number of professors who joined before 2019 or have no start year: 12
+
+University: Purdue
+Total number of professors who joined in the latest five years (2019-2024): 11
+Total number of professors who joined before 2019 or have no start year: 8
+
+University: Rice University
+Total number of professors who joined in the latest five years (2019-2024): 4
+Total number of professors who joined before 2019 or have no start year: 5
+
+University: Stanford
+Total number of professors who joined in the latest five years (2019-2024): 4
+Total number of professors who joined before 2019 or have no start year: 14
+
+University: UCLA
+Total number of professors who joined in the latest five years (2019-2024): 5
+Total number of professors who joined before 2019 or have no start year: 12
+
+University: UCSB
+Total number of professors who joined in the latest five years (2019-2024): 1
+Total number of professors who joined before 2019 or have no start year: 5
+
+University: UIUC
+Total number of professors who joined in the latest five years (2019-2024): 13
+Total number of professors who joined before 2019 or have no start year: 14
+
+University: UMD
+Total number of professors who joined in the latest five years (2019-2024): 5
+Total number of professors who joined before 2019 or have no start year: 18
+
+University: Univ. of California - Berkeley
+Total number of professors who joined in the latest five years (2019-2024): 6
+Total number of professors who joined before 2019 or have no start year: 35
+
+University: Univ. of California - San Diego
+Total number of professors who joined in the latest five years (2019-2024): 20
+Total number of professors who joined before 2019 or have no start year: 27
+
+University: University of Pennsylvania
+Total number of professors who joined in the latest five years (2019-2024): 1
+Total number of professors who joined before 2019 or have no start year: 8
+
+University: University_of_North_Carolina
+Total number of professors who joined in the latest five years (2019-2024): 5
+Total number of professors who joined before 2019 or have no start year: 7
+
+University: USC
+Total number of professors who joined in the latest five years (2019-2024): 8
+Total number of professors who joined before 2019 or have no start year: 13
+
+University: UTAustin
+Total number of professors who joined in the latest five years (2019-2024): 5
+Total number of professors who joined before 2019 or have no start year: 13
+
+University: UW
+Total number of professors who joined in the latest five years (2019-2024): 9
+Total number of professors who joined before 2019 or have no start year: 14
+
+University: UWMadison
+Total number of professors who joined in the latest five years (2019-2024): 12
+Total number of professors who joined before 2019 or have no start year: 5
+
+University: Yale
+Total number of professors who joined in the latest five years (2019-2024): 11
+Total number of professors who joined before 2019 or have no start year: 5
+

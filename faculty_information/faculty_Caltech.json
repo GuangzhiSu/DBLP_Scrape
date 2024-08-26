@@ -1,0 +1,254 @@
+[
+    {
+        "dblp": "",
+        "name": "Yaser S. Abu-Mostafa",
+        "career": {
+            "California Institute of Technology": {
+                "department": "Department of Electrical Engineering and Computer Science",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "1983",
+                        "end": "1989"
+                    },
+                    "Associate Professor": {
+                        "start": "1989",
+                        "end": "1994"
+                    },
+                    "Professor": {
+                        "start": "1994",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Cairo University",
+            "Ph.D.": "California Institute of Technology"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/25/1529.html",
+        "name": "Animashree (Anima) Anandkumar",
+        "career": {
+            "California Institute of Technology": {
+                "department": "Department of Computing and Mathematical Sciences",
+                "position": {
+                    "Bren Professor": {
+                        "start": "2017",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Indian Institutes of Technology",
+            "Ph.D.": "Cornell University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/09/1123.html",
+        "name": "Venkat Chandrasekaran",
+        "career": {
+            "California Institute of Technology": {
+                "department": "Department of Computing and Mathematical Sciences",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2012",
+                        "end": "2017"
+                    },
+                    "Professor": {
+                        "start": "2017",
+                        "end": "2024"
+                    }
+                    ,
+                    "Tomiyasu Professor": {
+                        "start": "2024",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Rice University",
+            "Ph.D.": "Massachusetts Institute of Technology"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/135/4895.html",
+        "name": "Georgia Gkioxari",
+        "career": {
+            "California Institute of Technology": {
+                "department": "Department of Computing and Mathematical Sciences",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2023",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "National Technical University of Athens",
+            "Ph.D.": "University of California, Berkeley"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/09/1803.html",
+        "name": "Babak Hassibi",
+        "career": {
+            "California Institute of Technology": {
+                "department": "Department of Electrical Engineering",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2001",
+                        "end": "2003"
+                    },
+                    "Associate Professor": {
+                        "start": "2003",
+                        "end": "2008"
+                    },
+                    "Professor": {
+                        "start": "2008",
+                        "end": "2013"
+                    },
+                    "Binder/Amgen Professor": {
+                        "start": "2013",
+                        "end": "2016"
+                    },
+                    "Bohn Professor": {
+                        "start": "2016",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of Tehran",
+            "Ph.D.": "Stanford University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/205/4165.html",
+        "name": "Franca Hoffmann",
+        "career": {
+            "California Institute of Technology": {
+                "department": "Department of Computing and Mathematical Sciences",
+                "position": {
+                    "Instructor": {
+                        "start": "2017",
+                        "end": "2020"
+                    },
+                    "Visiting Associate": {
+                        "start": "2020",
+                        "end": "2022"
+                    }
+                    ,
+                    "Assistant Professor": {
+                        "start": "2022",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Imperial College London",
+            "Ph.D.": "University of Cambridge"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/177/9322.html",
+        "name": "Eric V. Mazumdar",
+        "career": {
+            "California Institute of Technology": {
+                "department": "Department of Computing and Mathematical Sciences",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2021",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Massachusetts Institute of Technology",
+            "Ph.D.": "University of California, Berkeley"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/t/JoelATropp.html",
+        "name": "Joel A. Tropp",
+        "career": {
+            "University 1": {
+                "department": "Department of Computing and Mathematical Sciences",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2007",
+                        "end": "2012"
+                    },
+                    "Professor": {
+                        "start": "2012",
+                        "end": "2017"
+                    },
+                    "Steele Family Professor": {
+                        "start": "2017",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of Texas, Austin",
+            "Ph.D.": "University of Texas, Austin"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/56/4447.html",
+        "name": "Adam Wierman",
+        "career": {
+            "California Institute of Technology": {
+                "department": "Department of Computing and Mathematical Sciences",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2007",
+                        "end": "2012"
+                    },
+                    "Professor": {
+                        "start": "2012",
+                        "end": "2024"
+                    },
+                    "Braun Professor": {
+                        "start": "2024",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Carnegie Mellon University",
+            "Ph.D.": "Carnegie Mellon University"
+        }
+    },
+    {
+        "dblp": "https://dblp.org/pid/28/1244.html",
+        "name": "Yisong Yue",
+        "career": {
+            "California Institute of Technology": {
+                "department": "Department of Computing and Mathematical Sciences",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2014",
+                        "end": "2020"
+                    },
+                    "Professor": {
+                        "start": "2020",
+                        "end": null
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "University of Illinois",
+            "Ph.D.": "Cornell University"
+        }
+    }
+]

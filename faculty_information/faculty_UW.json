@@ -1,0 +1,593 @@
+[
+    {
+        "dblp": "https://dblp.org/pid/89/579-1",
+        "name": "Yejin Choi",
+        "career": {
+            "University of Washington": {
+                "department": "Computer Science and Engineering",
+                "position": {
+                    "Assistant Professor": {
+                        "start": "2014-09",
+                        "end": "2017-08"
+                    },
+                    "Associate Professor": {
+                        "start": "2017-09",
+                        "end": "2021-09"
+                    },
+                    "Professor": {
+                        "start": "2021-09",
+                        "end": null
+                    }
+                }
+            },
+            "Stony Brook University": {
+                "department": "Unknown",
+                "position":{
+                    "Assistant Professor":{
+                        "start":"2010-09",
+                        "end":"2014-08"
+                    }
+                }
+            }
+        },
+        "education": {
+            "Bachelor": "Unknown",
+            "Ph.D.": "Cornell University"
+        }
+    },
+    {
+        "dblp":"https://dblp.org/pid/21/6793",
+        "name":"Luke Zettlemoyer",
+        "career":{
+            "University of Washington":{
+                "department":"Computer Science and Engineering",
+                "position":{
+                    "Professor":{
+                        "start":"Unknown",
+                        "end":null
+                    }
+                }
+            }
+        },
+        "education":{
+            "Bachelor":"North Carolina State University",
+            "Ph.D.":"Massachusetts Institute of Technology"
+        }
+    },
+    {
+        "dblp":"https://dblp.org/pid/90/5204",
+        "name":"Noah A. Smith",
+        "career":{
+            "University of Washington":{
+                "department":"Computer Science and Engineering",
+                "position":{
+                    "Professor":{
+                        "start":"2015-09",
+                        "end":null
+                    }
+                }
+            },
+            "Carnegie Mellon University":{
+                "department":"Unknown",
+                "position":{
+                    "Associate Professor":{
+                        "start":"2006-09",
+                        "end":"2015-09"
+                    }
+                }
+            }
+        },
+        "education":{
+            "Bachelor":"University of Maryland",
+            "Ph.D.":"Johns Hopkins University"
+        }
+    },
+    {
+        "dblp":"https://dblp.org/pid/52/1296",
+        "name":"Hannaneh Hajishirzi",
+        "career":{
+            "University of Washington":{
+                "department":"Computer Science and Engineering",
+                "position":{
+                    "Assistant Professor":{
+                        "start":"2018-00",
+                        "end":"2021-00"
+                    },
+                    "Associate Professor":{
+                        "start":"2021-00",
+                        "end":null
+                    }
+                }
+            }
+        },
+        "education":{
+            "Bachelor":"Unknown",
+            "Ph.D.":"University of Illinois at Urbana-Champaign"
+        }
+    },
+    {
+        "dblp":"https://dblp.org/pid/176/5602",
+        "name":"Simon S. Du",
+        "career":{
+            "University of Washington":{
+                "department":"Computer Science and Engineering",
+                "position":{
+                    "Assistant Professor":{
+                        "start":"2020-00",
+                        "end":null
+                    }
+                }
+            }
+        },
+        "education":{
+            "Bachelor":"University of California,Berkeley",
+            "Ph.D.":"Carnegie Mellon University"
+        }
+    },
+    {
+        "dblp":"https://dblp.org/pid/80/4366",
+        "name":"Sewoong Oh",
+        "career":{
+            "University of Washington":{
+                "department":"Computer Science and Engineering",
+                "position":{
+                    "Associate Professor":{
+                        "start":"2019-01",
+                        "end":null
+                    }
+                }
+            },
+            "University of Illinois at Urbana-Champaign":{
+                "department":"Industrial and Enterprise Systems Engineering",
+                "position":{
+                    "Assistant Professor":{
+                        "start":"2012-07",
+                        "end":"2018-08"
+                    },
+                    "Associate Professor":{
+                        "start":"2018-08",
+                        "end":"2018-12"
+                    }
+                }
+            }
+        },
+        "education":{
+            "Bachelor":"Seoul National University",
+            "Ph.D.":"Stanford University"
+        }
+    },
+    {
+        "dblp":"https://dblp.org/pid/141/2720",
+        "name":"Ludwig Schmidt",
+        "career":{
+            "University of Washington":{
+                "department":"Computer Science and Engineering",
+                "position":{
+                    "Assistant Professor":{
+                        "start":"2021-09",
+                        "end":null
+                    }
+                }
+            }
+        },
+        "education":{
+            "Bachelor":"University of Cambridge",
+            "Ph.D.":"Massachusetts Institute of Technology"
+        }
+    },
+    {
+        "dblp":"https://dblp.org/pid/75/8157",
+        "name":"Yulia Tsvetkov",
+        "career":{
+            "University of Washington":{
+                "department":"Computer Science and Engineering",
+                "position":{
+                    "Assistant Professor":{
+                        "start":"2021-07",
+                        "end":"2023-09"
+                    },
+                    "Associate Professor":{
+                        "start":"2023-09",
+                        "end":null
+                    }
+                }
+            },
+            "Carnegie Mellon University":{ 
+                "department":"Computer Science",
+                "position":{
+                    "Assistant Professor":{
+                        "start":"2017-08",
+                        "end":"2021-06"
+                    }
+                }
+            }
+        },
+        "education":{
+            "Bachelor":"Technion - Israel Institute of Technology",
+            "Ph.D.":"Carnegie Mellon University"
+        }
+    },
+    {
+        "dblp":"https://dblp.org/pid/b/JeffABilmes",
+        "name":"Jeffrey A. Bilmes",
+        "career":{  
+            "University of Washington":{
+                "department":"Electrical and Computer Engineering",
+                "position":{
+                    "Professor":{
+                        "start":"Unknown",
+                        "end":null
+                    }
+                }
+            }
+        },
+        "education":{
+            "Bachelor":"Unknown",
+            "Ph.D.":"University of California, Berkeley"
+        }
+    },
+    {
+        "dblp":"https://dblp.org/pid/27/1803",
+        "name":"Byron Boots",
+        "career":{
+            "University of Washington":{
+                "department":"Computer Science and Engineering",
+                "position":{
+                    "Associate Professor":{
+                        "start":"2019-09",
+                        "end":"2024-07"
+                    },
+                    "Professor":{
+                        "start":"2024-07",
+                        "end":null
+                    }
+                }
+            },
+            "Georgia Institute of Technology":{
+                "department":"Interactive Computing",
+                "position":{
+                    "Assistant Professor":{
+                        "start":"2017-08",
+                        "end":"2019-08"
+                    }
+                }
+            }
+        },
+        "education":{
+            "Bachelor":"Bowdoin College",
+            "Ph.D.":"Carnegie Mellon University"
+        }
+    },
+    {
+        "dblp":"https://dblp.org/pid/85/10260",
+        "name":"Kevin Jamieson",
+        "career":{
+            "University of Washington":{
+                "department":"Computer Science and Engineering",
+                "position":{
+                    "Assistant Professor":{
+                        "start":"2017-09",
+                        "end":"Unknown"
+                    },
+                    "Associate Professor":{
+                        "start":"Unknown",
+                        "end":null
+                    }
+                }
+            }
+        },
+        "education":{
+            "Bachelor":"University of Washington",
+            "Ph.D.":"University of Wisconsin - Madison"
+        }
+    },
+    {
+        "dblp":"https://dblp.org/pid/s/StevenMSeitz",
+        "name":"Steven M. Seitz",
+        "career":{
+            "University of Washington":{
+                "department":"Computer Science and Engineering",
+                "position":{
+                    "Professor":{
+                        "start":"Unknown",
+                        "end":null
+                    }
+                }
+            },
+            "Carnegie Mellon University":{
+                "department":"Unknown",
+                "position":{
+                    "Assistant Professor":{
+                        "start":"Unknown",
+                        "end":"2000-00"
+                    }
+                }
+            }
+        },
+        "education":{
+            "Bachelor":"Unknown",
+            "Ph.D.":"University of Wisconsin - Madison"
+        }
+    },
+    {
+        "dblp":"https://dblp.org/pid/167/3785",
+        "name":"Ranjay Krishna",
+        "career":{
+            "University of Washington":{
+                "department":"Computer Science and Engineering",
+                "position":{
+                    "Assistant Professor":{
+                        "start":"2022-09",
+                        "end":null
+                    }
+                }
+            }
+        },
+        "education":{
+            "Bachelor":"Cornell University",
+            "Ph.D.":"Stanford University"
+        }
+    },
+    {
+        "dblp":"https://dblp.org/pid/c/BrianCurless",
+        "name":"Brian Curless",
+        "career":{
+            "University of Washington":{
+                "department":"Computer Science and Engineering",
+                "position":{
+                    "Assistant Professor":{
+                        "start":"1998-00",
+                        "end":"2003-00"
+                    },
+                    "Associate Professor":{
+                        "start":"2003-00",
+                        "end":"2010-00"
+                    },
+                    "Professor":{
+                        "start":"2010-00",
+                        "end":null
+                    }
+                }
+            }
+        },
+        "education":{
+            "Bachelor":"University of Texas at Austin",
+            "Ph.D.":"Stanford University"
+        }
+    },
+    {
+        "dblp":"https://dblp.org/pid/k/IraKemelmacher",
+        "name":"Ira Kemelmacher-Shlizerman",
+        "career":{
+            "University of Washington":{
+                "department":"Computer Science and Engineering",
+                "position":{
+                    "Assistant Professor":{
+                        "start":"2013-01",
+                        "end":"2017-09"
+                    },
+                    "Associate Professor":{
+                        "start":"2017-09",
+                        "end":"2023-09"
+                    },
+                    "Professor":{
+                        "start":"2023-09",
+                        "end":null
+                    }
+                }
+            }
+        },
+        "education":{
+            "Bachelor":"Unknown",
+            "Ph.D.":"Weizmann Institute of Science"
+        }
+    },
+    {
+        "dblp":"https://dblp.org/pid/125/2145",
+        "name":"Yin Tat Lee",
+        "career":{
+            "University of Washington":{
+                "department":"Computer Science and Engineering",
+                "position":{
+                    "Assistant Professor":{
+                        "start":"2017-00",
+                        "end":"2022-00"
+                    },
+                    "Associate Professor":{
+                        "start":"2022-00",
+                        "end":null
+                    }
+                }
+            }
+        },
+        "education":{
+            "Bachelor":"Chinese University of Hong Kong",
+            "Ph.D.":"Massachusetts Institute of Technology"
+        }
+    },
+    {
+        "dblp":"https://dblp.org/pid/10/10453",
+        "name":"Pang Wei Koh",
+        "career":{
+            "University of Washington":{
+                "department":"Computer Science and Engineering",
+                "position":{
+                    "Assistant Professor":{
+                        "start":"2022-10",
+                        "end":null
+                    }
+                }
+            }
+        },
+        "education":{
+            "Bachelor":"Stanford University",
+            "Ph.D.":"Stanford University"
+        }
+    },
+    {
+        "dblp":"https://dblp.org/pid/64/8610",
+        "name":"Jamie Morgenstern",
+        "career":{
+            "University of Washington":{
+                "department":"Computer Science and Engineering",
+                "position":{
+                    "Assistant Professor":{
+                        "start":"Unknown",
+                        "end":null
+                    }
+                }
+            },
+            "Georgia Institute of Technology":{
+                "department":"Computer Science",
+                "position":{
+                    "Assistant Professor":{
+                        "start":"2018-01",
+                        "end":"Unknown"
+                    }
+                }
+            }
+        },
+        "education":{
+            "Bachelor":"University of Chicago",
+            "Ph.D.":"Carnegie Mellon University"
+        }
+    },
+    {
+        "dblp":"https://dblp.org/pid/119/1352",
+        "name":"Tim Althoff",
+        "career":{
+            "University of Washington":{
+                "department":"Computer Science and Engineering",
+                "position":{
+                    "Assistant Professor":{
+                        "start":"2019-01",
+                        "end":null
+                    }
+                }
+            }
+        },
+        "education":{
+            "Bachelor":"University of Kaiserslautern",
+            "Ph.D.":"Stanford University"
+        }
+    },
+    {
+        "dblp":"https://dblp.org/pid/17/1784",
+        "name":"Su-In Lee",
+        "career":{
+            "University of Washington":{
+                "department":"Computer Science and Engineering",
+                "position":{
+                    "Associate Professor":{
+                        "start":"2010-00",
+                        "end":"Unknown"
+                    },
+                    "Distinguised Professor":{
+                        "start":"2021-09",
+                        "end":null
+                    }
+                }
+            }
+        },
+        "education":{
+            "Bachelor":"KAIST",
+            "Ph.D.":"Stanford University"
+        }
+    },
+    {
+        "dblp":"https://dblp.org/pid/s/LindaGShapiro",
+        "name":"Linda Shapiro",
+        "career":{
+            "University of Washington":{
+                "department":"Computer Science and Engineering",
+                "position":{
+                    "Associate Professor":{
+                        "start":"1986-09",
+                        "end":"1989-00"
+                    },
+                    "Professor":{
+                        "start":"1989-00",
+                        "end":"unknown"
+                    },
+                    "Distinguised Professor":{
+                        "start":"Unknown",
+                        "end":null
+                    }
+                }
+            },
+            "Virginia Polytechnic Institute and State University":{
+                "department":"Computer Science",
+                "position":{
+                    "Assistant Professor":{
+                        "start":"1979-00",
+                        "end":"1981-00"
+                    },
+                    "Associate Professor":{
+                        "start":"1981-00",
+                        "end":"1984-00"
+                    }
+                }
+            },
+            "Kansas State University":{
+                "department":"Computer Science",
+                "position":{
+                    "Assistant Professor":{
+                        "start":"1974-00",
+                        "end":"1978-00"
+                    }
+                }
+            }
+        },
+        "education":{
+            "Bachelor":"University of Illinois",
+            "Ph.D.":"University of Iowa"
+        }
+    },
+    {
+        "dblp":"https://dblp.org/pid/p/ZoranPopovic",
+        "name":"Zoran Popovic",
+        "career":{
+            "University of Washington":{
+                "department":"Computer Science and Engineering",
+                "position":{
+                    "Assistant Professor":{
+                        "start":"1999-00",
+                        "end":"Unknown"
+                    },
+                    "Associate Professor":{
+                        "start":"2004-09",
+                        "end":"2010-09"
+                    },
+                    "Professor":{
+                        "start":"2010-09",
+                        "end":null
+                    }
+                }
+            }
+        },
+        "education":{
+            "Bachelor":"Brown University",
+            "Ph.D.":"Carnegie Mellon University"
+        }
+    },
+    {
+        "dblp":"https://dblp.org/pid/18/6404-4",
+        "name":"Abhishek Gupta",
+        "career":{
+            "University of Washington":{
+                "department":"Computer Science and Engineering",
+                "position":{
+                    "Assistant Professor":{
+                        "start":"2022-00",
+                        "end":null
+                    }
+                }
+            }
+        },
+        "education":{
+            "Bachelor":"University of California, Berkeley",
+            "Ph.D.":"University of California, Berkeley"
+        }
+    }
+]
+
